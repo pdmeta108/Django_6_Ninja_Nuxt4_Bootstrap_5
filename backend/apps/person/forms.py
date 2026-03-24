@@ -1,5 +1,5 @@
 from django import forms
-from .models import Person
+from .models import Person, Municipality
 
 class PersonForm(forms.ModelForm):
     """
@@ -29,4 +29,5 @@ class PersonForm(forms.ModelForm):
             'email',
             'age',
             'estate',
+            'municipality'
         ]

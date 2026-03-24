@@ -22,5 +22,23 @@
 
     <!-- Load Bootstrap JS -->
     <script src="{% static 'js/bootstrap.bundle.min.js' %}"></script>
+    <script>
+        const estateSelect = document.getElementById('id_estate');
+        const municipalitySelect = document.getElementById('id_municipality');
+
+        estateSelect.addEventListener('change', (e) => {
+            const estateId = e.target.value;
+
+            fetch(`/ajax/load-municipalities/?estate_id=${estateId}`)
+                .then(response => response.json())
+                .then(data => {
+                    municipalitySelect.innerHTML = '<option value="">---------</option>';
+                    data.forEach(item => {
+                        const option = new Option(item.name, item.id);
+                        municipalitySelect.add(option);
+                    });
+                });
+        });
+    </script>
 </body>
 </html>

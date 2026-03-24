@@ -11,6 +11,7 @@
             <th>Email</th>
             <th>Age</th>
             <th>Estate</th>
+            <th>Municipality</th>
             <th>Actions</th>
         </tr>
     </thead>
@@ -21,6 +22,7 @@
             <td>{{ person.email }}</td>
             <td>{{ person.age }}</td>
             <td>{{ person.estate|default:"N/A" }}</td>
+            <td>{{ person.municipality|default:"N/A" }}</td>
             <td>
                 <a href="{% url 'person:detail' person.pk %}" class="btn btn-info">View</a>
                 <a href="{% url 'person:update' person.pk %}" class="btn btn-warning">Edit</a>
