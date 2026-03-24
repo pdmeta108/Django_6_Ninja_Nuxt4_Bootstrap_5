@@ -1,5 +1,5 @@
 from django import forms
-from .models import Person, Municipality
+from .models import Person, Estate, Municipality
 
 class PersonForm(forms.ModelForm):
     """
@@ -9,6 +9,8 @@ class PersonForm(forms.ModelForm):
     providing a secure interface for person-related operations in views.
     Automatically generated from the Person model with configurable fields.
     """
+    estate = forms.ModelChoiceField(queryset=Estate.objects.all(), empty_label=" * Selecciones un estado * ")
+    municipality = forms.ModelChoiceField(queryset=Municipality.objects.all(), empty_label=" * Seleccione un municipio * ")
 
     class Meta:
         """
@@ -31,3 +33,21 @@ class PersonForm(forms.ModelForm):
             'estate',
             'municipality'
         ]
+
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        # Always allow all estates
+        self.fields['municipality'].queryset = Municipality.objects.all()
+        self.fields['municipality'].choices = [
+            ("", " * Seleccione un municipio * ")
+        ]
+
+        # Check if we are updating (instance exists and has a PK)
+        if self.instance and self.instance.pk:
+            # Access the estate object or its ID
+            current_estate_id = self.instance.estate_id
+            specific_municipalities = Municipality.objects.filter(estate_id=current_estate_id)
+            # Show municipalities by state
+            self.fields['municipality'].choices = [
+                (e.pk, str(e)) for e in specific_municipalities.distinct()
+            ]

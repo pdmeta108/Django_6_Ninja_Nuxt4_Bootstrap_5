@@ -32,7 +32,8 @@
             fetch(`/ajax/load-municipalities/?estate_id=${estateId}`)
                 .then(response => response.json())
                 .then(data => {
-                    municipalitySelect.innerHTML = '<option value="">---------</option>';
+                    municipalitySelect.options.length = 0;
+                    municipalitySelect.innerHTML = '<option value=""> * Seleccione un municipio * </option>';
                     data.forEach(item => {
                         const option = new Option(item.name, item.id);
                         municipalitySelect.add(option);
