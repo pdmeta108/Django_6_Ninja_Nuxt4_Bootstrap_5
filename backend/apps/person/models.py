@@ -15,10 +15,10 @@ class Estate(models.Model):
 
     def __str__(self):
         """
-        String representation of the Person model.
+        String representation of the Estate model.
 
         Returns:
-            str: The person's name for easy identification in admin and queries.
+            str: The estate's name for easy identification in admin and queries.
         """
         return self.name
 
@@ -40,7 +40,8 @@ class Person(models.Model):
         Estate,
         on_delete=models.CASCADE,
         null=True,
-        blank=True
+        blank=True,
+        related_name="estates"
     )
 
     def __str__(self):
