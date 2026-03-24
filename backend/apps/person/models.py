@@ -1,7 +1,7 @@
 from django.db import models
 
 class Estate(models.Model):
-    """Representación del modelo Estate en el sistema
+    """Representación del modelo Estate (Estado) en el sistema
 
     Parameters
     ----------
@@ -19,6 +19,35 @@ class Estate(models.Model):
 
         Returns:
             str: The estate's name for easy identification in admin and queries.
+        """
+        return self.name
+
+class Municipality(models.Model):
+    """Representación del modelo Municipality (Municipio) en el sistema
+
+    Parameters
+    ----------
+    models : _type_
+        _description_
+    """
+
+    # Municipality fields
+    name = models.CharField(max_length=100)
+    code = models.PositiveIntegerField()
+    estate = models.ForeignKey(
+        Estate,
+        on_delete=models.CASCADE,
+        null=True,
+        blank=True,
+        related_name="municipality_estates"
+    )
+
+    def __str__(self):
+        """
+        String representation of the Municipality model.
+
+        Returns:
+            str: The municipality's name for easy identification in admin and queries.
         """
         return self.name
 
@@ -41,7 +70,14 @@ class Person(models.Model):
         on_delete=models.CASCADE,
         null=True,
         blank=True,
-        related_name="estates"
+        related_name="person_estates"
+    )
+    municipality = models.ForeignKey(
+        Municipality,
+        on_delete=models.CASCADE,
+        null=True,
+        blank=True,
+        related_name="person_municipalities"
     )
 
     def __str__(self):
