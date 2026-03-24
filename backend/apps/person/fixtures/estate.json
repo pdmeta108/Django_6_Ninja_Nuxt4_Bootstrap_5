@@ -1,0 +1,194 @@
+[
+    {
+      "model": "person.estate",
+      "pk": 1,
+      "fields": {
+          "name": "Distrito Capital",
+          "code": "01"
+      }
+    },
+    {
+      "model": "person.estate",
+      "pk": 2,
+      "fields": {
+          "name": "Amazonas",
+          "code": "02"
+      }
+    },
+    {
+      "model": "person.estate",
+      "pk": 3,
+      "fields": {
+          "name": "Anzoategui",
+          "code": "03"
+      }
+    },
+    {
+      "model": "person.estate",
+      "pk": 4,
+      "fields": {
+          "name": "Apure",
+          "code": "04"
+      }
+    },
+    {
+      "model": "person.estate",
+      "pk": 5,
+      "fields": {
+          "name": "Aragua",
+          "code": "05"
+      }
+    },
+    {
+      "model": "person.estate",
+      "pk": 6,
+      "fields": {
+          "name": "Barinas",
+          "code": "06"
+      }
+    },
+    {
+      "model": "person.estate",
+      "pk": 7,
+      "fields": {
+          "name": "Bolívar",
+          "code": "07"
+      }
+    },
+    {
+      "model": "person.estate",
+      "pk": 8,
+      "fields": {
+          "name": "Carabobo",
+          "code": "08"
+      }
+    },
+    {
+      "model": "person.estate",
+      "pk": 9,
+      "fields": {
+          "name": "Cojedes",
+          "code": "09"
+      }
+    },
+    {
+      "model": "person.estate",
+      "pk": 10,
+      "fields": {
+          "name": "Delta Amacuro",
+          "code": "10"
+      }
+    },
+    {
+      "model": "person.estate",
+      "pk": 11,
+      "fields": {
+          "name": "Falcón",
+          "code": "11"
+      }
+    },
+    {
+      "model": "person.estate",
+      "pk": 12,
+      "fields": {
+          "name": "Guárico",
+          "code": "12"
+      }
+    },
+    {
+      "model": "person.estate",
+      "pk": 13,
+      "fields": {
+          "name": "Lara",
+          "code": "13"
+      }
+    },
+    {
+      "model": "person.estate",
+      "pk": 14,
+      "fields": {
+          "name": "Mérida",
+          "code": "14"
+      }
+    },
+    {
+      "model": "person.estate",
+      "pk": 15,
+      "fields": {
+          "name": "Miranda",
+          "code": "15"
+      }
+    },
+    {
+      "model": "person.estate",
+      "pk": 16,
+      "fields": {
+          "name": "Monagas",
+          "code": "16"
+      }
+    },
+    {
+      "model": "person.estate",
+      "pk": 17,
+      "fields": {
+          "name": "Nueva Esparta",
+          "code": "17"
+      }
+    },
+    {
+      "model": "person.estate",
+      "pk": 18,
+      "fields": {
+          "name": "Portuguesa",
+          "code": "18"
+      }
+    },
+    {
+      "model": "person.estate",
+      "pk": 19,
+      "fields": {
+          "name": "Sucre",
+          "code": "19"
+      }
+    },
+    {
+      "model": "person.estate",
+      "pk": 20,
+      "fields": {
+          "name": "Táchira",
+          "code": "20"
+      }
+    },
+    {
+      "model": "person.estate",
+      "pk": 21,
+      "fields": {
+          "name": "Trujillo",
+          "code": "21"
+      }
+    },
+    {
+        "model": "person.estate",
+        "pk": 22,
+        "fields": {
+            "name": "Yaracuy",
+            "code": "22"
+        }
+    },
+    {
+        "model": "person.estate",
+        "pk": 23,
+        "fields": {
+            "name": "Zulia",
+            "code": "23"
+        }
+    },
+    {
+        "model": "person.estate",
+        "pk": 24,
+        "fields": {
+            "name": "La Guaira",
+            "code": "24"
+        }
+    }
+  ]

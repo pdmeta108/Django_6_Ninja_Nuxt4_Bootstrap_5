@@ -1,9 +1,31 @@
 from django.db import models
 
+class Estate(models.Model):
+    """Representación del modelo Estate en el sistema
+
+    Parameters
+    ----------
+    models : _type_
+        _description_
+    """
+
+    # Estate fields
+    name = models.CharField(max_length=100)
+    code = models.PositiveIntegerField()
+
+    def __str__(self):
+        """
+        String representation of the Person model.
+
+        Returns:
+            str: The person's name for easy identification in admin and queries.
+        """
+        return self.name
+
 class Person(models.Model):
     """
     Represents a person in the system.
-    
+
     This model stores basic information about individuals including their name,
     email, age, and timestamps for record creation and updates.
     """
@@ -14,11 +36,17 @@ class Person(models.Model):
     age = models.PositiveIntegerField()
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
+    estate = models.ForeignKey(
+        Estate,
+        on_delete=models.CASCADE,
+        null=True,
+        blank=True
+    )
 
     def __str__(self):
         """
         String representation of the Person model.
-        
+
         Returns:
             str: The person's name for easy identification in admin and queries.
         """
