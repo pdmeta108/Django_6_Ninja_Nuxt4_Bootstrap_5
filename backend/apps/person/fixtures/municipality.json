@@ -5,7 +5,7 @@
       "fields": {
         "code": "0101",
         "name": "Libertador",
-        "estate": 1
+        "estate": "01"
       }
     },
     {
@@ -14,7 +14,7 @@
       "fields": {
         "code": "0201",
         "name": "Autonomo Alto Orinoco",
-        "estate": 2
+        "estate": "02"
       }
     },
     {
@@ -23,7 +23,7 @@
       "fields": {
         "code": "0202",
         "name": "Autonomo Atabapo",
-        "estate": 2
+        "estate": "02"
       }
     },
     {
@@ -32,7 +32,7 @@
       "fields": {
         "code": "0203",
         "name": "Autonomo Atures",
-        "estate": 2
+        "estate": "02"
       }
     },
     {
@@ -41,7 +41,7 @@
       "fields": {
         "code": "0204",
         "name": "Autonomo Autana",
-        "estate": 2
+        "estate": "02"
       }
     },
     {
@@ -50,7 +50,7 @@
       "fields": {
         "code": "0205",
         "name": "Autonomo Maroa",
-        "estate": 2
+        "estate": "02"
       }
     },
     {
@@ -59,7 +59,7 @@
       "fields": {
         "code": "0206",
         "name": "Autonomo Manapiare",
-        "estate": 2
+        "estate": "02"
       }
     },
     {
@@ -68,7 +68,7 @@
       "fields": {
         "code": "0207",
         "name": "Autonomo Río Negro",
-        "estate": 2
+        "estate": "02"
       }
     },
     {
@@ -77,7 +77,7 @@
       "fields": {
         "code": "0301",
         "name": "Anaco",
-        "estate": 3
+        "estate": "03"
       }
     },
     {
@@ -86,7 +86,7 @@
       "fields": {
         "code": "0302",
         "name": "Aragua",
-        "estate": 3
+        "estate": "03"
       }
     },
     {
@@ -95,7 +95,7 @@
       "fields": {
         "code": "0303",
         "name": "Fernando de Peñalver",
-        "estate": 3
+        "estate": "03"
       }
     },
     {
@@ -104,7 +104,7 @@
       "fields": {
         "code": "0304",
         "name": "Francisco del Carmen Carvajal",
-        "estate": 3
+        "estate": "03"
       }
     },
     {
@@ -113,7 +113,7 @@
       "fields": {
         "code": "0305",
         "name": "Francisco de Miranda",
-        "estate": 3
+        "estate": "03"
       }
     },
     {
@@ -122,7 +122,7 @@
       "fields": {
         "code": "0306",
         "name": "Guanta",
-        "estate": 3
+        "estate": "03"
       }
     },
     {
@@ -131,7 +131,7 @@
       "fields": {
         "code": "0307",
         "name": "Independencia",
-        "estate": 3
+        "estate": "03"
       }
     },
     {
@@ -140,7 +140,7 @@
       "fields": {
         "code": "0308",
         "name": "Juan Antonio Sotillo",
-        "estate": 3
+        "estate": "03"
       }
     },
     {
@@ -149,7 +149,7 @@
       "fields": {
         "code": "0309",
         "name": "Juan Manuel Cajigal",
-        "estate": 3
+        "estate": "03"
       }
     },
     {
@@ -158,7 +158,7 @@
       "fields": {
         "code": "0310",
         "name": "José Gregorio Monagas",
-        "estate": 3
+        "estate": "03"
       }
     },
     {
@@ -167,7 +167,7 @@
       "fields": {
         "code": "0311",
         "name": "Libertad",
-        "estate": 3
+        "estate": "03"
       }
     },
     {
@@ -176,7 +176,7 @@
       "fields": {
         "code": "0312",
         "name": "Manuel Ezequiel Bruzual",
-        "estate": 3
+        "estate": "03"
       }
     },
     {
@@ -185,7 +185,7 @@
       "fields": {
         "code": "0313",
         "name": "Pedro María Freites",
-        "estate": 3
+        "estate": "03"
       }
     },
     {
@@ -194,7 +194,7 @@
       "fields": {
         "code": "0314",
         "name": "Píritu",
-        "estate": 3
+        "estate": "03"
       }
     },
     {
@@ -203,7 +203,7 @@
       "fields": {
         "code": "0315",
         "name": "San José de Guanipa",
-        "estate": 3
+        "estate": "03"
       }
     },
     {
@@ -212,7 +212,7 @@
       "fields": {
         "code": "0316",
         "name": "San Juan de Capistrano",
-        "estate": 3
+        "estate": "03"
       }
     },
     {
@@ -221,7 +221,7 @@
       "fields": {
         "code": "0317",
         "name": "Santa Ana",
-        "estate": 3
+        "estate": "03"
       }
     },
     {
@@ -230,7 +230,7 @@
       "fields": {
         "code": "0318",
         "name": "Simón Bolívar",
-        "estate": 3
+        "estate": "03"
       }
     },
     {
@@ -239,7 +239,7 @@
       "fields": {
         "code": "0319",
         "name": "Simón Rodríguez",
-        "estate": 3
+        "estate": "03"
       }
     },
     {
@@ -248,7 +248,7 @@
       "fields": {
         "code": "0320",
         "name": "Sir Artur Mc Gregor",
-        "estate": 3
+        "estate": "03"
       }
     },
     {
@@ -257,7 +257,7 @@
       "fields": {
         "code": "0321",
         "name": "Turístico Diego Bautista Urbaneja",
-        "estate": 3
+        "estate": "03"
       }
     },
     {
@@ -266,7 +266,7 @@
       "fields": {
         "code": "0401",
         "name": "Achaguas",
-        "estate": 4
+        "estate": "04"
       }
     },
     {
@@ -275,7 +275,7 @@
       "fields": {
         "code": "0402",
         "name": "Biruaca",
-        "estate": 4
+        "estate": "04"
       }
     },
     {
@@ -284,7 +284,7 @@
       "fields": {
         "code": "0403",
         "name": "Muñoz",
-        "estate": 4
+        "estate": "04"
       }
     },
     {
@@ -293,7 +293,7 @@
       "fields": {
         "code": "0404",
         "name": "Paéz",
-        "estate": 4
+        "estate": "04"
       }
     },
     {
@@ -302,7 +302,7 @@
       "fields": {
         "code": "0405",
         "name": "Pedro Camejo",
-        "estate": 4
+        "estate": "04"
       }
     },
     {
@@ -311,7 +311,7 @@
       "fields": {
         "code": "0406",
         "name": "Rómulo Gallegos",
-        "estate": 4
+        "estate": "04"
       }
     },
     {
@@ -320,7 +320,7 @@
       "fields": {
         "code": "0407",
         "name": "San Fernando",
-        "estate": 4
+        "estate": "04"
       }
     },
     {
@@ -329,7 +329,7 @@
       "fields": {
         "code": "0501",
         "name": "Bolívar",
-        "estate": 5
+        "estate": "05"
       }
     },
     {
@@ -338,7 +338,7 @@
       "fields": {
         "code": "0502",
         "name": "Camatagua",
-        "estate": 5
+        "estate": "05"
       }
     },
     {
@@ -347,7 +347,7 @@
       "fields": {
         "code": "0503",
         "name": "Girardot",
-        "estate": 5
+        "estate": "05"
       }
     },
     {
@@ -356,7 +356,7 @@
       "fields": {
         "code": "0504",
         "name": "José Ángel Lamas",
-        "estate": 5
+        "estate": "05"
       }
     },
     {
@@ -365,7 +365,7 @@
       "fields": {
         "code": "0505",
         "name": "José Félix Rivas",
-        "estate": 5
+        "estate": "05"
       }
     },
     {
@@ -374,7 +374,7 @@
       "fields": {
         "code": "0506",
         "name": "José Rafael Revenga",
-        "estate": 5
+        "estate": "05"
       }
     },
     {
@@ -383,7 +383,7 @@
       "fields": {
         "code": "0507",
         "name": "Libertador",
-        "estate": 5
+        "estate": "05"
       }
     },
     {
@@ -392,7 +392,7 @@
       "fields": {
         "code": "0508",
         "name": "Mario Briceño Iragorry",
-        "estate": 5
+        "estate": "05"
       }
     },
     {
@@ -401,7 +401,7 @@
       "fields": {
         "code": "0509",
         "name": "San Casimiro",
-        "estate": 5
+        "estate": "05"
       }
     },
     {
@@ -410,7 +410,7 @@
       "fields": {
         "code": "0510",
         "name": "San Sebástian",
-        "estate": 5
+        "estate": "05"
       }
     },
     {
@@ -419,7 +419,7 @@
       "fields": {
         "code": "0511",
         "name": "Santiago Mariño",
-        "estate": 5
+        "estate": "05"
       }
     },
     {
@@ -428,7 +428,7 @@
       "fields": {
         "code": "0512",
         "name": "Santos Michelena",
-        "estate": 5
+        "estate": "05"
       }
     },
     {
@@ -437,7 +437,7 @@
       "fields": {
         "code": "0513",
         "name": "Sucre",
-        "estate": 5
+        "estate": "05"
       }
     },
     {
@@ -446,7 +446,7 @@
       "fields": {
         "code": "0514",
         "name": "Tovar",
-        "estate": 5
+        "estate": "05"
       }
     },
     {
@@ -455,7 +455,7 @@
       "fields": {
         "code": "0515",
         "name": "Urdaneta",
-        "estate": 5
+        "estate": "05"
       }
     },
     {
@@ -464,7 +464,7 @@
       "fields": {
         "code": "0516",
         "name": "Zamora",
-        "estate": 5
+        "estate": "05"
       }
     },
     {
@@ -473,7 +473,7 @@
       "fields": {
         "code": "0517",
         "name": "Francisco Linares Alcantara",
-        "estate": 5
+        "estate": "05"
       }
     },
     {
@@ -482,7 +482,7 @@
       "fields": {
         "code": "0518",
         "name": "Ocumare de la Costa de Oro",
-        "estate": 5
+        "estate": "05"
       }
     },
     {
@@ -491,7 +491,7 @@
       "fields": {
         "code": "0601",
         "name": "Alberto Arvelo Torrealba",
-        "estate": 6
+        "estate": "06"
       }
     },
     {
@@ -500,7 +500,7 @@
       "fields": {
         "code": "0602",
         "name": "Antonio José de Sucre",
-        "estate": 6
+        "estate": "06"
       }
     },
     {
@@ -509,7 +509,7 @@
       "fields": {
         "code": "0603",
         "name": "Arismendí",
-        "estate": 6
+        "estate": "06"
       }
     },
     {
@@ -518,7 +518,7 @@
       "fields": {
         "code": "0604",
         "name": "Barinas",
-        "estate": 6
+        "estate": "06"
       }
     },
     {
@@ -527,7 +527,7 @@
       "fields": {
         "code": "0605",
         "name": "Bolívar",
-        "estate": 6
+        "estate": "06"
       }
     },
     {
@@ -536,7 +536,7 @@
       "fields": {
         "code": "0606",
         "name": "Cruz Paredes",
-        "estate": 6
+        "estate": "06"
       }
     },
     {
@@ -545,7 +545,7 @@
       "fields": {
         "code": "0607",
         "name": "Ezequiel Zamora",
-        "estate": 6
+        "estate": "06"
       }
     },
     {
@@ -554,7 +554,7 @@
       "fields": {
         "code": "0608",
         "name": "Obispos",
-        "estate": 6
+        "estate": "06"
       }
     },
     {
@@ -563,7 +563,7 @@
       "fields": {
         "code": "0609",
         "name": "Pedraza",
-        "estate": 6
+        "estate": "06"
       }
     },
     {
@@ -572,7 +572,7 @@
       "fields": {
         "code": "0610",
         "name": "Rojas",
-        "estate": 6
+        "estate": "06"
       }
     },
     {
@@ -581,7 +581,7 @@
       "fields": {
         "code": "0611",
         "name": "Sosa",
-        "estate": 6
+        "estate": "06"
       }
     },
     {
@@ -590,7 +590,7 @@
       "fields": {
         "code": "0612",
         "name": "Andrés Eloy Blanco",
-        "estate": 6
+        "estate": "06"
       }
     },
     {
@@ -599,7 +599,7 @@
       "fields": {
         "code": "0701",
         "name": "Caroní",
-        "estate": 7
+        "estate": "07"
       }
     },
     {
@@ -608,7 +608,7 @@
       "fields": {
         "code": "0702",
         "name": "Cedeño",
-        "estate": 7
+        "estate": "07"
       }
     },
     {
@@ -617,7 +617,7 @@
       "fields": {
         "code": "0703",
         "name": "El Callao",
-        "estate": 7
+        "estate": "07"
       }
     },
     {
@@ -626,7 +626,7 @@
       "fields": {
         "code": "0704",
         "name": "Gran Sabana",
-        "estate": 7
+        "estate": "07"
       }
     },
     {
@@ -635,7 +635,7 @@
       "fields": {
         "code": "0705",
         "name": "Héres",
-        "estate": 7
+        "estate": "07"
       }
     },
     {
@@ -644,7 +644,7 @@
       "fields": {
         "code": "0706",
         "name": "Piar",
-        "estate": 7
+        "estate": "07"
       }
     },
     {
@@ -653,7 +653,7 @@
       "fields": {
         "code": "0707",
         "name": "Raúl Leoní",
-        "estate": 7
+        "estate": "07"
       }
     },
     {
@@ -662,7 +662,7 @@
       "fields": {
         "code": "0708",
         "name": "Roscio",
-        "estate": 7
+        "estate": "07"
       }
     },
     {
@@ -671,7 +671,7 @@
       "fields": {
         "code": "0709",
         "name": "Sifontes",
-        "estate": 7
+        "estate": "07"
       }
     },
     {
@@ -680,7 +680,7 @@
       "fields": {
         "code": "0710",
         "name": "Sucre",
-        "estate": 7
+        "estate": "07"
       }
     },
     {
@@ -689,7 +689,7 @@
       "fields": {
         "code": "0711",
         "name": "Padre Pedro Chien",
-        "estate": 7
+        "estate": "07"
       }
     },
     {
@@ -698,7 +698,7 @@
       "fields": {
         "code": "0801",
         "name": "Bejuma",
-        "estate": 8
+        "estate": "08"
       }
     },
     {
@@ -707,7 +707,7 @@
       "fields": {
         "code": "0802",
         "name": "Carlos Arvelo",
-        "estate": 8
+        "estate": "08"
       }
     },
     {
@@ -716,7 +716,7 @@
       "fields": {
         "code": "0803",
         "name": "Diego Íbarra",
-        "estate": 8
+        "estate": "08"
       }
     },
     {
@@ -725,7 +725,7 @@
       "fields": {
         "code": "0804",
         "name": "Guacara",
-        "estate": 8
+        "estate": "08"
       }
     },
     {
@@ -734,7 +734,7 @@
       "fields": {
         "code": "0805",
         "name": "Juan José Mora",
-        "estate": 8
+        "estate": "08"
       }
     },
     {
@@ -743,7 +743,7 @@
       "fields": {
         "code": "0806",
         "name": "Libertador",
-        "estate": 8
+        "estate": "08"
       }
     },
     {
@@ -752,7 +752,7 @@
       "fields": {
         "code": "0807",
         "name": "Los Guayos",
-        "estate": 8
+        "estate": "08"
       }
     },
     {
@@ -761,7 +761,7 @@
       "fields": {
         "code": "0808",
         "name": "Miranda",
-        "estate": 8
+        "estate": "08"
       }
     },
     {
@@ -770,7 +770,7 @@
       "fields": {
         "code": "0809",
         "name": "Montalban",
-        "estate": 8
+        "estate": "08"
       }
     },
     {
@@ -779,7 +779,7 @@
       "fields": {
         "code": "0810",
         "name": "Naguanagua",
-        "estate": 8
+        "estate": "08"
       }
     },
     {
@@ -788,7 +788,7 @@
       "fields": {
         "code": "0811",
         "name": "Puerto Cabello",
-        "estate": 8
+        "estate": "08"
       }
     },
     {
@@ -797,7 +797,7 @@
       "fields": {
         "code": "0812",
         "name": "San Diego",
-        "estate": 8
+        "estate": "08"
       }
     },
     {
@@ -806,7 +806,7 @@
       "fields": {
         "code": "0813",
         "name": "San Joaquín",
-        "estate": 8
+        "estate": "08"
       }
     },
     {
@@ -815,7 +815,7 @@
       "fields": {
         "code": "0814",
         "name": "Valencia",
-        "estate": 8
+        "estate": "08"
       }
     },
     {
@@ -824,7 +824,7 @@
       "fields": {
         "code": "0901",
         "name": "Anzoategui",
-        "estate": 9
+        "estate": "09"
       }
     },
     {
@@ -833,7 +833,7 @@
       "fields": {
         "code": "0902",
         "name": "Falcón",
-        "estate": 9
+        "estate": "09"
       }
     },
     {
@@ -842,7 +842,7 @@
       "fields": {
         "code": "0903",
         "name": "Girardot",
-        "estate": 9
+        "estate": "09"
       }
     },
     {
@@ -851,7 +851,7 @@
       "fields": {
         "code": "0904",
         "name": "Lima Blanco",
-        "estate": 9
+        "estate": "09"
       }
     },
     {
@@ -860,7 +860,7 @@
       "fields": {
         "code": "0905",
         "name": "Pao de San Juan Bautista",
-        "estate": 9
+        "estate": "09"
       }
     },
     {
@@ -869,7 +869,7 @@
       "fields": {
         "code": "0906",
         "name": "Ricaurte",
-        "estate": 9
+        "estate": "09"
       }
     },
     {
@@ -878,7 +878,7 @@
       "fields": {
         "code": "0907",
         "name": "Rómulo Gallegos",
-        "estate": 9
+        "estate": "09"
       }
     },
     {
@@ -887,7 +887,7 @@
       "fields": {
         "code": "0908",
         "name": "San Carlos",
-        "estate": 9
+        "estate": "09"
       }
     },
     {
@@ -896,7 +896,7 @@
       "fields": {
         "code": "0909",
         "name": "Tinaco",
-        "estate": 9
+        "estate": "09"
       }
     },
     {
@@ -905,7 +905,7 @@
       "fields": {
         "code": "0910",
         "name": "Tinaquillo",
-        "estate": 9
+        "estate": "09"
       }
     },
     {
@@ -914,7 +914,7 @@
       "fields": {
         "code": "1001",
         "name": "Antonio Díaz",
-        "estate": 10
+        "estate": "10"
       }
     },
     {
@@ -923,7 +923,7 @@
       "fields": {
         "code": "1002",
         "name": "Casacoíma",
-        "estate": 10
+        "estate": "10"
       }
     },
     {
@@ -932,7 +932,7 @@
       "fields": {
         "code": "1003",
         "name": "Pedernales",
-        "estate": 10
+        "estate": "10"
       }
     },
     {
@@ -941,7 +941,7 @@
       "fields": {
         "code": "1004",
         "name": "Tucupita",
-        "estate": 10
+        "estate": "10"
       }
     },
     {
@@ -950,7 +950,7 @@
       "fields": {
         "code": "1101",
         "name": "Acosta",
-        "estate": 11
+        "estate": "11"
       }
     },
     {
@@ -959,7 +959,7 @@
       "fields": {
         "code": "1102",
         "name": "Bolívar",
-        "estate": 11
+        "estate": "11"
       }
     },
     {
@@ -968,7 +968,7 @@
       "fields": {
         "code": "1103",
         "name": "Buchivacoa",
-        "estate": 11
+        "estate": "11"
       }
     },
     {
@@ -977,7 +977,7 @@
       "fields": {
         "code": "1104",
         "name": "Cacique Manaure",
-        "estate": 11
+        "estate": "11"
       }
     },
     {
@@ -986,7 +986,7 @@
       "fields": {
         "code": "1105",
         "name": "Carirubana",
-        "estate": 11
+        "estate": "11"
       }
     },
     {
@@ -995,7 +995,7 @@
       "fields": {
         "code": "1106",
         "name": "Colina",
-        "estate": 11
+        "estate": "11"
       }
     },
     {
@@ -1004,7 +1004,7 @@
       "fields": {
         "code": "1107",
         "name": "Dabajuro",
-        "estate": 11
+        "estate": "11"
       }
     },
     {
@@ -1013,7 +1013,7 @@
       "fields": {
         "code": "1108",
         "name": "Democracia",
-        "estate": 11
+        "estate": "11"
       }
     },
     {
@@ -1022,7 +1022,7 @@
       "fields": {
         "code": "1109",
         "name": "Falcón",
-        "estate": 11
+        "estate": "11"
       }
     },
     {
@@ -1031,7 +1031,7 @@
       "fields": {
         "code": "1110",
         "name": "Federación",
-        "estate": 11
+        "estate": "11"
       }
     },
     {
@@ -1040,7 +1040,7 @@
       "fields": {
         "code": "1111",
         "name": "Jacura",
-        "estate": 11
+        "estate": "11"
       }
     },
     {
@@ -1049,7 +1049,7 @@
       "fields": {
         "code": "1112",
         "name": "Los Taques",
-        "estate": 11
+        "estate": "11"
       }
     },
     {
@@ -1058,7 +1058,7 @@
       "fields": {
         "code": "1113",
         "name": "Mauroa",
-        "estate": 11
+        "estate": "11"
       }
     },
     {
@@ -1067,7 +1067,7 @@
       "fields": {
         "code": "1114",
         "name": "Miranda",
-        "estate": 11
+        "estate": "11"
       }
     },
     {
@@ -1076,7 +1076,7 @@
       "fields": {
         "code": "1115",
         "name": "Monseñor Iturriza",
-        "estate": 11
+        "estate": "11"
       }
     },
     {
@@ -1085,7 +1085,7 @@
       "fields": {
         "code": "1116",
         "name": "Palmasola",
-        "estate": 11
+        "estate": "11"
       }
     },
     {
@@ -1094,7 +1094,7 @@
       "fields": {
         "code": "1117",
         "name": "Petit",
-        "estate": 11
+        "estate": "11"
       }
     },
     {
@@ -1103,7 +1103,7 @@
       "fields": {
         "code": "1118",
         "name": "Piritú",
-        "estate": 11
+        "estate": "11"
       }
     },
     {
@@ -1112,7 +1112,7 @@
       "fields": {
         "code": "1119",
         "name": "San Francisco",
-        "estate": 11
+        "estate": "11"
       }
     },
     {
@@ -1121,7 +1121,7 @@
       "fields": {
         "code": "1120",
         "name": "Silva",
-        "estate": 11
+        "estate": "11"
       }
     },
     {
@@ -1130,7 +1130,7 @@
       "fields": {
         "code": "1121",
         "name": "Sucre",
-        "estate": 11
+        "estate": "11"
       }
     },
     {
@@ -1139,7 +1139,7 @@
       "fields": {
         "code": "1122",
         "name": "Tocopero",
-        "estate": 11
+        "estate": "11"
       }
     },
     {
@@ -1148,7 +1148,7 @@
       "fields": {
         "code": "1123",
         "name": "Unión",
-        "estate": 11
+        "estate": "11"
       }
     },
     {
@@ -1157,7 +1157,7 @@
       "fields": {
         "code": "1124",
         "name": "Urumaco",
-        "estate": 11
+        "estate": "11"
       }
     },
     {
@@ -1166,7 +1166,7 @@
       "fields": {
         "code": "1125",
         "name": "Zamora",
-        "estate": 11
+        "estate": "11"
       }
     },
     {
@@ -1175,7 +1175,7 @@
       "fields": {
         "code": "1201",
         "name": "Camaguan",
-        "estate": 12
+        "estate": "12"
       }
     },
     {
@@ -1184,7 +1184,7 @@
       "fields": {
         "code": "1202",
         "name": "Chaguaramas",
-        "estate": 12
+        "estate": "12"
       }
     },
     {
@@ -1193,7 +1193,7 @@
       "fields": {
         "code": "1203",
         "name": "El Socorro",
-        "estate": 12
+        "estate": "12"
       }
     },
     {
@@ -1202,7 +1202,7 @@
       "fields": {
         "code": "1204",
         "name": "San Gerónimo de Guayabal",
-        "estate": 12
+        "estate": "12"
       }
     },
     {
@@ -1211,7 +1211,7 @@
       "fields": {
         "code": "1205",
         "name": "Leonardo Infante",
-        "estate": 12
+        "estate": "12"
       }
     },
     {
@@ -1220,7 +1220,7 @@
       "fields": {
         "code": "1206",
         "name": "Las Mercedes",
-        "estate": 12
+        "estate": "12"
       }
     },
     {
@@ -1229,7 +1229,7 @@
       "fields": {
         "code": "1207",
         "name": "Julian Mellado",
-        "estate": 12
+        "estate": "12"
       }
     },
     {
@@ -1238,7 +1238,7 @@
       "fields": {
         "code": "1208",
         "name": "Francisco de Miranda",
-        "estate": 12
+        "estate": "12"
       }
     },
     {
@@ -1247,7 +1247,7 @@
       "fields": {
         "code": "1209",
         "name": "José Tadeo Monagas",
-        "estate": 12
+        "estate": "12"
       }
     },
     {
@@ -1256,7 +1256,7 @@
       "fields": {
         "code": "1210",
         "name": "Ortiz",
-        "estate": 12
+        "estate": "12"
       }
     },
     {
@@ -1265,7 +1265,7 @@
       "fields": {
         "code": "1211",
         "name": "José Félix Rivas",
-        "estate": 12
+        "estate": "12"
       }
     },
     {
@@ -1274,7 +1274,7 @@
       "fields": {
         "code": "1212",
         "name": "Juan German Roscio",
-        "estate": 12
+        "estate": "12"
       }
     },
     {
@@ -1283,7 +1283,7 @@
       "fields": {
         "code": "1213",
         "name": "San José de Guaribe",
-        "estate": 12
+        "estate": "12"
       }
     },
     {
@@ -1292,7 +1292,7 @@
       "fields": {
         "code": "1214",
         "name": "Santa María de Ipire",
-        "estate": 12
+        "estate": "12"
       }
     },
     {
@@ -1301,7 +1301,7 @@
       "fields": {
         "code": "1215",
         "name": "Zaraza",
-        "estate": 12
+        "estate": "12"
       }
     },
     {
@@ -1310,7 +1310,7 @@
       "fields": {
         "code": "1301",
         "name": "Andrés Eloy Blanco",
-        "estate": 13
+        "estate": "13"
       }
     },
     {
@@ -1319,7 +1319,7 @@
       "fields": {
         "code": "1302",
         "name": "Crespo",
-        "estate": 13
+        "estate": "13"
       }
     },
     {
@@ -1328,7 +1328,7 @@
       "fields": {
         "code": "1303",
         "name": "Iribarren",
-        "estate": 13
+        "estate": "13"
       }
     },
     {
@@ -1337,7 +1337,7 @@
       "fields": {
         "code": "1304",
         "name": "Jiménez",
-        "estate": 13
+        "estate": "13"
       }
     },
     {
@@ -1346,7 +1346,7 @@
       "fields": {
         "code": "1305",
         "name": "Moran",
-        "estate": 13
+        "estate": "13"
       }
     },
     {
@@ -1355,7 +1355,7 @@
       "fields": {
         "code": "1306",
         "name": "Palavecino",
-        "estate": 13
+        "estate": "13"
       }
     },
     {
@@ -1364,7 +1364,7 @@
       "fields": {
         "code": "1307",
         "name": "Simón Planas",
-        "estate": 13
+        "estate": "13"
       }
     },
     {
@@ -1373,7 +1373,7 @@
       "fields": {
         "code": "1308",
         "name": "Torres",
-        "estate": 13
+        "estate": "13"
       }
     },
     {
@@ -1382,7 +1382,7 @@
       "fields": {
         "code": "1309",
         "name": "Urdaneta",
-        "estate": 13
+        "estate": "13"
       }
     },
     {
@@ -1391,7 +1391,7 @@
       "fields": {
         "code": "1401",
         "name": "Alberto Adriani",
-        "estate": 14
+        "estate": "14"
       }
     },
     {
@@ -1400,7 +1400,7 @@
       "fields": {
         "code": "1402",
         "name": "Andrés Bello",
-        "estate": 14
+        "estate": "14"
       }
     },
     {
@@ -1409,7 +1409,7 @@
       "fields": {
         "code": "1403",
         "name": "Antonio Pinto Salinas",
-        "estate": 14
+        "estate": "14"
       }
     },
     {
@@ -1418,7 +1418,7 @@
       "fields": {
         "code": "1404",
         "name": "Aricagua",
-        "estate": 14
+        "estate": "14"
       }
     },
     {
@@ -1427,7 +1427,7 @@
       "fields": {
         "code": "1405",
         "name": "Arzobispo Chacón",
-        "estate": 14
+        "estate": "14"
       }
     },
     {
@@ -1436,7 +1436,7 @@
       "fields": {
         "code": "1406",
         "name": "Campo Elías",
-        "estate": 14
+        "estate": "14"
       }
     },
     {
@@ -1445,7 +1445,7 @@
       "fields": {
         "code": "1407",
         "name": "Caracciolo Parra Olmedo",
-        "estate": 14
+        "estate": "14"
       }
     },
     {
@@ -1454,7 +1454,7 @@
       "fields": {
         "code": "1408",
         "name": "Cardenal Quintero",
-        "estate": 14
+        "estate": "14"
       }
     },
     {
@@ -1463,7 +1463,7 @@
       "fields": {
         "code": "1409",
         "name": "Guaraque",
-        "estate": 14
+        "estate": "14"
       }
     },
     {
@@ -1472,7 +1472,7 @@
       "fields": {
         "code": "1410",
         "name": "Julio Cesar Salas",
-        "estate": 14
+        "estate": "14"
       }
     },
     {
@@ -1481,7 +1481,7 @@
       "fields": {
         "code": "1411",
         "name": "Justo Briceño",
-        "estate": 14
+        "estate": "14"
       }
     },
     {
@@ -1490,7 +1490,7 @@
       "fields": {
         "code": "1412",
         "name": "Libertador",
-        "estate": 14
+        "estate": "14"
       }
     },
     {
@@ -1499,7 +1499,7 @@
       "fields": {
         "code": "1413",
         "name": "Miranda",
-        "estate": 14
+        "estate": "14"
       }
     },
     {
@@ -1508,7 +1508,7 @@
       "fields": {
         "code": "1414",
         "name": "Obispo Ramos de Lora",
-        "estate": 14
+        "estate": "14"
       }
     },
     {
@@ -1517,7 +1517,7 @@
       "fields": {
         "code": "1415",
         "name": "Padre Noguera",
-        "estate": 14
+        "estate": "14"
       }
     },
     {
@@ -1526,7 +1526,7 @@
       "fields": {
         "code": "1416",
         "name": "Pueblo Llano",
-        "estate": 14
+        "estate": "14"
       }
     },
     {
@@ -1535,7 +1535,7 @@
       "fields": {
         "code": "1417",
         "name": "Rangel",
-        "estate": 14
+        "estate": "14"
       }
     },
     {
@@ -1544,7 +1544,7 @@
       "fields": {
         "code": "1418",
         "name": "Rivas Dávila",
-        "estate": 14
+        "estate": "14"
       }
     },
     {
@@ -1553,7 +1553,7 @@
       "fields": {
         "code": "1419",
         "name": "Santos Marquina",
-        "estate": 14
+        "estate": "14"
       }
     },
     {
@@ -1562,7 +1562,7 @@
       "fields": {
         "code": "1420",
         "name": "Sucre",
-        "estate": 14
+        "estate": "14"
       }
     },
     {
@@ -1571,7 +1571,7 @@
       "fields": {
         "code": "1421",
         "name": "Tovar",
-        "estate": 14
+        "estate": "14"
       }
     },
     {
@@ -1580,7 +1580,7 @@
       "fields": {
         "code": "1422",
         "name": "Tulio Febres Cordero",
-        "estate": 14
+        "estate": "14"
       }
     },
     {
@@ -1589,7 +1589,7 @@
       "fields": {
         "code": "1423",
         "name": "Zea",
-        "estate": 14
+        "estate": "14"
       }
     },
     {
@@ -1598,7 +1598,7 @@
       "fields": {
         "code": "1501",
         "name": "Acevedo",
-        "estate": 15
+        "estate": "15"
       }
     },
     {
@@ -1607,7 +1607,7 @@
       "fields": {
         "code": "1502",
         "name": "Andrés Bello",
-        "estate": 15
+        "estate": "15"
       }
     },
     {
@@ -1616,7 +1616,7 @@
       "fields": {
         "code": "1503",
         "name": "Baruta",
-        "estate": 15
+        "estate": "15"
       }
     },
     {
@@ -1625,7 +1625,7 @@
       "fields": {
         "code": "1504",
         "name": "Brion",
-        "estate": 15
+        "estate": "15"
       }
     },
     {
@@ -1634,7 +1634,7 @@
       "fields": {
         "code": "1505",
         "name": "Buroz",
-        "estate": 15
+        "estate": "15"
       }
     },
     {
@@ -1643,7 +1643,7 @@
       "fields": {
         "code": "1506",
         "name": "Carrizal",
-        "estate": 15
+        "estate": "15"
       }
     },
     {
@@ -1652,7 +1652,7 @@
       "fields": {
         "code": "1507",
         "name": "Chacao",
-        "estate": 15
+        "estate": "15"
       }
     },
     {
@@ -1661,7 +1661,7 @@
       "fields": {
         "code": "1508",
         "name": "Cristóbal Rojas",
-        "estate": 15
+        "estate": "15"
       }
     },
     {
@@ -1670,7 +1670,7 @@
       "fields": {
         "code": "1509",
         "name": "El Hatillo",
-        "estate": 15
+        "estate": "15"
       }
     },
     {
@@ -1679,7 +1679,7 @@
       "fields": {
         "code": "1510",
         "name": "Guaicaipuro",
-        "estate": 15
+        "estate": "15"
       }
     },
     {
@@ -1688,7 +1688,7 @@
       "fields": {
         "code": "1511",
         "name": "Independencia",
-        "estate": 15
+        "estate": "15"
       }
     },
     {
@@ -1697,7 +1697,7 @@
       "fields": {
         "code": "1512",
         "name": "Lander",
-        "estate": 15
+        "estate": "15"
       }
     },
     {
@@ -1706,7 +1706,7 @@
       "fields": {
         "code": "1513",
         "name": "Los Salias",
-        "estate": 15
+        "estate": "15"
       }
     },
     {
@@ -1715,7 +1715,7 @@
       "fields": {
         "code": "1514",
         "name": "Paéz",
-        "estate": 15
+        "estate": "15"
       }
     },
     {
@@ -1724,7 +1724,7 @@
       "fields": {
         "code": "1515",
         "name": "Paz Castillo",
-        "estate": 15
+        "estate": "15"
       }
     },
     {
@@ -1733,7 +1733,7 @@
       "fields": {
         "code": "1516",
         "name": "Pedro Gual",
-        "estate": 15
+        "estate": "15"
       }
     },
     {
@@ -1742,7 +1742,7 @@
       "fields": {
         "code": "1517",
         "name": "Plaza",
-        "estate": 15
+        "estate": "15"
       }
     },
     {
@@ -1751,7 +1751,7 @@
       "fields": {
         "code": "1518",
         "name": "Simón Bolívar",
-        "estate": 15
+        "estate": "15"
       }
     },
     {
@@ -1760,7 +1760,7 @@
       "fields": {
         "code": "1519",
         "name": "Sucre",
-        "estate": 15
+        "estate": "15"
       }
     },
     {
@@ -1769,7 +1769,7 @@
       "fields": {
         "code": "1520",
         "name": "Urdaneta",
-        "estate": 15
+        "estate": "15"
       }
     },
     {
@@ -1778,7 +1778,7 @@
       "fields": {
         "code": "1521",
         "name": "Zamora",
-        "estate": 15
+        "estate": "15"
       }
     },
     {
@@ -1787,7 +1787,7 @@
       "fields": {
         "code": "1601",
         "name": "Acosta",
-        "estate": 16
+        "estate": "16"
       }
     },
     {
@@ -1796,7 +1796,7 @@
       "fields": {
         "code": "1602",
         "name": "Aguasay",
-        "estate": 16
+        "estate": "16"
       }
     },
     {
@@ -1805,7 +1805,7 @@
       "fields": {
         "code": "1603",
         "name": "Bolívar",
-        "estate": 16
+        "estate": "16"
       }
     },
     {
@@ -1814,7 +1814,7 @@
       "fields": {
         "code": "1604",
         "name": "Caripe",
-        "estate": 16
+        "estate": "16"
       }
     },
     {
@@ -1823,7 +1823,7 @@
       "fields": {
         "code": "1605",
         "name": "Cedeño",
-        "estate": 16
+        "estate": "16"
       }
     },
     {
@@ -1832,7 +1832,7 @@
       "fields": {
         "code": "1606",
         "name": "Ezequiel Zamora",
-        "estate": 16
+        "estate": "16"
       }
     },
     {
@@ -1841,7 +1841,7 @@
       "fields": {
         "code": "1607",
         "name": "Libertador",
-        "estate": 16
+        "estate": "16"
       }
     },
     {
@@ -1850,7 +1850,7 @@
       "fields": {
         "code": "1608",
         "name": "Maturín",
-        "estate": 16
+        "estate": "16"
       }
     },
     {
@@ -1859,7 +1859,7 @@
       "fields": {
         "code": "1609",
         "name": "Piar",
-        "estate": 16
+        "estate": "16"
       }
     },
     {
@@ -1868,7 +1868,7 @@
       "fields": {
         "code": "1610",
         "name": "Punceres",
-        "estate": 16
+        "estate": "16"
       }
     },
     {
@@ -1877,7 +1877,7 @@
       "fields": {
         "code": "1611",
         "name": "Santa Barbara",
-        "estate": 16
+        "estate": "16"
       }
     },
     {
@@ -1886,7 +1886,7 @@
       "fields": {
         "code": "1612",
         "name": "Sotillo",
-        "estate": 16
+        "estate": "16"
       }
     },
     {
@@ -1895,7 +1895,7 @@
       "fields": {
         "code": "1613",
         "name": "Uracoa",
-        "estate": 16
+        "estate": "16"
       }
     },
     {
@@ -1904,7 +1904,7 @@
       "fields": {
         "code": "1701",
         "name": "Antolín del Campo",
-        "estate": 17
+        "estate": "17"
       }
     },
     {
@@ -1913,7 +1913,7 @@
       "fields": {
         "code": "1702",
         "name": "Arismendí",
-        "estate": 17
+        "estate": "17"
       }
     },
     {
@@ -1922,7 +1922,7 @@
       "fields": {
         "code": "1703",
         "name": "Díaz",
-        "estate": 17
+        "estate": "17"
       }
     },
     {
@@ -1931,7 +1931,7 @@
       "fields": {
         "code": "1704",
         "name": "Garcia",
-        "estate": 17
+        "estate": "17"
       }
     },
     {
@@ -1940,7 +1940,7 @@
       "fields": {
         "code": "1705",
         "name": "Gómez",
-        "estate": 17
+        "estate": "17"
       }
     },
     {
@@ -1949,7 +1949,7 @@
       "fields": {
         "code": "1706",
         "name": "Maneiro",
-        "estate": 17
+        "estate": "17"
       }
     },
     {
@@ -1958,7 +1958,7 @@
       "fields": {
         "code": "1707",
         "name": "Marcano",
-        "estate": 17
+        "estate": "17"
       }
     },
     {
@@ -1967,7 +1967,7 @@
       "fields": {
         "code": "1708",
         "name": "Mario",
-        "estate": 17
+        "estate": "17"
       }
     },
     {
@@ -1976,7 +1976,7 @@
       "fields": {
         "code": "1709",
         "name": "Península de Macanao",
-        "estate": 17
+        "estate": "17"
       }
     },
     {
@@ -1985,7 +1985,7 @@
       "fields": {
         "code": "1710",
         "name": "Tubores",
-        "estate": 17
+        "estate": "17"
       }
     },
     {
@@ -1994,7 +1994,7 @@
       "fields": {
         "code": "1711",
         "name": "Villalba",
-        "estate": 17
+        "estate": "17"
       }
     },
     {
@@ -2003,7 +2003,7 @@
       "fields": {
         "code": "1801",
         "name": "Agua Blanca",
-        "estate": 18
+        "estate": "18"
       }
     },
     {
@@ -2012,7 +2012,7 @@
       "fields": {
         "code": "1802",
         "name": "Araure",
-        "estate": 18
+        "estate": "18"
       }
     },
     {
@@ -2021,7 +2021,7 @@
       "fields": {
         "code": "1803",
         "name": "Esteller",
-        "estate": 18
+        "estate": "18"
       }
     },
     {
@@ -2030,7 +2030,7 @@
       "fields": {
         "code": "1804",
         "name": "Guanare",
-        "estate": 18
+        "estate": "18"
       }
     },
     {
@@ -2039,7 +2039,7 @@
       "fields": {
         "code": "1805",
         "name": "Guanarito",
-        "estate": 18
+        "estate": "18"
       }
     },
     {
@@ -2048,7 +2048,7 @@
       "fields": {
         "code": "1806",
         "name": "Monseñor José Vicente de Unda",
-        "estate": 18
+        "estate": "18"
       }
     },
     {
@@ -2057,7 +2057,7 @@
       "fields": {
         "code": "1807",
         "name": "Ospino",
-        "estate": 18
+        "estate": "18"
       }
     },
     {
@@ -2066,7 +2066,7 @@
       "fields": {
         "code": "1808",
         "name": "Paéz",
-        "estate": 18
+        "estate": "18"
       }
     },
     {
@@ -2075,7 +2075,7 @@
       "fields": {
         "code": "1809",
         "name": "Papelón",
-        "estate": 18
+        "estate": "18"
       }
     },
     {
@@ -2084,7 +2084,7 @@
       "fields": {
         "code": "1810",
         "name": "San Genaro de Boconoíto",
-        "estate": 18
+        "estate": "18"
       }
     },
     {
@@ -2093,7 +2093,7 @@
       "fields": {
         "code": "1811",
         "name": "San Rafael de Onoto",
-        "estate": 18
+        "estate": "18"
       }
     },
     {
@@ -2102,7 +2102,7 @@
       "fields": {
         "code": "1812",
         "name": "Santa Rosalia",
-        "estate": 18
+        "estate": "18"
       }
     },
     {
@@ -2111,7 +2111,7 @@
       "fields": {
         "code": "1813",
         "name": "Sucre",
-        "estate": 18
+        "estate": "18"
       }
     },
     {
@@ -2120,7 +2120,7 @@
       "fields": {
         "code": "1814",
         "name": "Turen",
-        "estate": 18
+        "estate": "18"
       }
     },
     {
@@ -2129,7 +2129,7 @@
       "fields": {
         "code": "1901",
         "name": "Andrés Eloy Blanco",
-        "estate": 19
+        "estate": "19"
       }
     },
     {
@@ -2138,7 +2138,7 @@
       "fields": {
         "code": "1902",
         "name": "Andrés Mata",
-        "estate": 19
+        "estate": "19"
       }
     },
     {
@@ -2147,7 +2147,7 @@
       "fields": {
         "code": "1903",
         "name": "Arismendí",
-        "estate": 19
+        "estate": "19"
       }
     },
     {
@@ -2156,7 +2156,7 @@
       "fields": {
         "code": "1904",
         "name": "Benítez",
-        "estate": 19
+        "estate": "19"
       }
     },
     {
@@ -2165,7 +2165,7 @@
       "fields": {
         "code": "1905",
         "name": "Bermudez",
-        "estate": 19
+        "estate": "19"
       }
     },
     {
@@ -2174,7 +2174,7 @@
       "fields": {
         "code": "1906",
         "name": "Bolívar",
-        "estate": 19
+        "estate": "19"
       }
     },
     {
@@ -2183,7 +2183,7 @@
       "fields": {
         "code": "1907",
         "name": "Cajigal",
-        "estate": 19
+        "estate": "19"
       }
     },
     {
@@ -2192,7 +2192,7 @@
       "fields": {
         "code": "1908",
         "name": "Cruz Salmeron Acosta",
-        "estate": 19
+        "estate": "19"
       }
     },
     {
@@ -2201,7 +2201,7 @@
       "fields": {
         "code": "1909",
         "name": "Libertador",
-        "estate": 19
+        "estate": "19"
       }
     },
     {
@@ -2210,7 +2210,7 @@
       "fields": {
         "code": "1910",
         "name": "Mario",
-        "estate": 19
+        "estate": "19"
       }
     },
     {
@@ -2219,7 +2219,7 @@
       "fields": {
         "code": "1911",
         "name": "Mejia",
-        "estate": 19
+        "estate": "19"
       }
     },
     {
@@ -2228,7 +2228,7 @@
       "fields": {
         "code": "1912",
         "name": "Montes",
-        "estate": 19
+        "estate": "19"
       }
     },
     {
@@ -2237,7 +2237,7 @@
       "fields": {
         "code": "1913",
         "name": "Ribero",
-        "estate": 19
+        "estate": "19"
       }
     },
     {
@@ -2246,7 +2246,7 @@
       "fields": {
         "code": "1914",
         "name": "Sucre",
-        "estate": 19
+        "estate": "19"
       }
     },
     {
@@ -2255,7 +2255,7 @@
       "fields": {
         "code": "1915",
         "name": "Valdez",
-        "estate": 19
+        "estate": "19"
       }
     },
     {
@@ -2264,7 +2264,7 @@
       "fields": {
         "code": "2001",
         "name": "Andrés Bello",
-        "estate": 20
+        "estate": "20"
       }
     },
     {
@@ -2273,7 +2273,7 @@
       "fields": {
         "code": "2002",
         "name": "Antonio Rómulo Costa",
-        "estate": 20
+        "estate": "20"
       }
     },
     {
@@ -2282,7 +2282,7 @@
       "fields": {
         "code": "2003",
         "name": "Ayacucho",
-        "estate": 20
+        "estate": "20"
       }
     },
     {
@@ -2291,7 +2291,7 @@
       "fields": {
         "code": "2004",
         "name": "Bolívar",
-        "estate": 20
+        "estate": "20"
       }
     },
     {
@@ -2300,7 +2300,7 @@
       "fields": {
         "code": "2005",
         "name": "Cardenas",
-        "estate": 20
+        "estate": "20"
       }
     },
     {
@@ -2309,7 +2309,7 @@
       "fields": {
         "code": "2006",
         "name": "Cordoba",
-        "estate": 20
+        "estate": "20"
       }
     },
     {
@@ -2318,7 +2318,7 @@
       "fields": {
         "code": "2007",
         "name": "Fernández Feo",
-        "estate": 20
+        "estate": "20"
       }
     },
     {
@@ -2327,7 +2327,7 @@
       "fields": {
         "code": "2008",
         "name": "Francisco de Miranda",
-        "estate": 20
+        "estate": "20"
       }
     },
     {
@@ -2336,7 +2336,7 @@
       "fields": {
         "code": "2009",
         "name": "Garcia de Hevia",
-        "estate": 20
+        "estate": "20"
       }
     },
     {
@@ -2345,7 +2345,7 @@
       "fields": {
         "code": "2010",
         "name": "Guasimos",
-        "estate": 20
+        "estate": "20"
       }
     },
     {
@@ -2354,7 +2354,7 @@
       "fields": {
         "code": "2011",
         "name": "Independencia",
-        "estate": 20
+        "estate": "20"
       }
     },
     {
@@ -2363,7 +2363,7 @@
       "fields": {
         "code": "2012",
         "name": "Jaureguí",
-        "estate": 20
+        "estate": "20"
       }
     },
     {
@@ -2372,7 +2372,7 @@
       "fields": {
         "code": "2013",
         "name": "José María Vargas",
-        "estate": 20
+        "estate": "20"
       }
     },
     {
@@ -2381,7 +2381,7 @@
       "fields": {
         "code": "2014",
         "name": "Junín",
-        "estate": 20
+        "estate": "20"
       }
     },
     {
@@ -2390,7 +2390,7 @@
       "fields": {
         "code": "2015",
         "name": "Libertad",
-        "estate": 20
+        "estate": "20"
       }
     },
     {
@@ -2399,7 +2399,7 @@
       "fields": {
         "code": "2016",
         "name": "Libertador",
-        "estate": 20
+        "estate": "20"
       }
     },
     {
@@ -2408,7 +2408,7 @@
       "fields": {
         "code": "2017",
         "name": "Lobatera",
-        "estate": 20
+        "estate": "20"
       }
     },
     {
@@ -2417,7 +2417,7 @@
       "fields": {
         "code": "2018",
         "name": "Michelena",
-        "estate": 20
+        "estate": "20"
       }
     },
     {
@@ -2426,7 +2426,7 @@
       "fields": {
         "code": "2019",
         "name": "Panamericano",
-        "estate": 20
+        "estate": "20"
       }
     },
     {
@@ -2435,7 +2435,7 @@
       "fields": {
         "code": "2020",
         "name": "Pedro María Ureña",
-        "estate": 20
+        "estate": "20"
       }
     },
     {
@@ -2444,7 +2444,7 @@
       "fields": {
         "code": "2021",
         "name": "Rafael Urdaneta",
-        "estate": 20
+        "estate": "20"
       }
     },
     {
@@ -2453,7 +2453,7 @@
       "fields": {
         "code": "2022",
         "name": "Samuel Darío Maldonado",
-        "estate": 20
+        "estate": "20"
       }
     },
     {
@@ -2462,7 +2462,7 @@
       "fields": {
         "code": "2023",
         "name": "San Cristóbal",
-        "estate": 20
+        "estate": "20"
       }
     },
     {
@@ -2471,7 +2471,7 @@
       "fields": {
         "code": "2024",
         "name": "Seboruco",
-        "estate": 20
+        "estate": "20"
       }
     },
     {
@@ -2480,7 +2480,7 @@
       "fields": {
         "code": "2025",
         "name": "Simón Rodríguez",
-        "estate": 20
+        "estate": "20"
       }
     },
     {
@@ -2489,7 +2489,7 @@
       "fields": {
         "code": "2026",
         "name": "Sucre",
-        "estate": 20
+        "estate": "20"
       }
     },
     {
@@ -2498,7 +2498,7 @@
       "fields": {
         "code": "2027",
         "name": "Torbes",
-        "estate": 20
+        "estate": "20"
       }
     },
     {
@@ -2507,7 +2507,7 @@
       "fields": {
         "code": "2028",
         "name": "Uribante",
-        "estate": 20
+        "estate": "20"
       }
     },
     {
@@ -2516,7 +2516,7 @@
       "fields": {
         "code": "2029",
         "name": "San Judas Tadeo",
-        "estate": 20
+        "estate": "20"
       }
     },
     {
@@ -2525,7 +2525,7 @@
       "fields": {
         "code": "2101",
         "name": "Andrés Bello",
-        "estate": 21
+        "estate": "21"
       }
     },
     {
@@ -2534,7 +2534,7 @@
       "fields": {
         "code": "2102",
         "name": "Bocono",
-        "estate": 21
+        "estate": "21"
       }
     },
     {
@@ -2543,7 +2543,7 @@
       "fields": {
         "code": "2103",
         "name": "Bolívar",
-        "estate": 21
+        "estate": "21"
       }
     },
     {
@@ -2552,7 +2552,7 @@
       "fields": {
         "code": "2104",
         "name": "Candelaria",
-        "estate": 21
+        "estate": "21"
       }
     },
     {
@@ -2561,7 +2561,7 @@
       "fields": {
         "code": "2105",
         "name": "Carache",
-        "estate": 21
+        "estate": "21"
       }
     },
     {
@@ -2570,7 +2570,7 @@
       "fields": {
         "code": "2106",
         "name": "Escuque",
-        "estate": 21
+        "estate": "21"
       }
     },
     {
@@ -2579,7 +2579,7 @@
       "fields": {
         "code": "2107",
         "name": "José Felipe Marquez Caizales",
-        "estate": 21
+        "estate": "21"
       }
     },
     {
@@ -2588,7 +2588,7 @@
       "fields": {
         "code": "2108",
         "name": "Juan Vicente Campo Elías",
-        "estate": 21
+        "estate": "21"
       }
     },
     {
@@ -2597,7 +2597,7 @@
       "fields": {
         "code": "2109",
         "name": "La Ceiba",
-        "estate": 21
+        "estate": "21"
       }
     },
     {
@@ -2606,7 +2606,7 @@
       "fields": {
         "code": "2110",
         "name": "Miranda",
-        "estate": 21
+        "estate": "21"
       }
     },
     {
@@ -2615,7 +2615,7 @@
       "fields": {
         "code": "2111",
         "name": "Monte Carmelo",
-        "estate": 21
+        "estate": "21"
       }
     },
     {
@@ -2624,7 +2624,7 @@
       "fields": {
         "code": "2112",
         "name": "Motatan",
-        "estate": 21
+        "estate": "21"
       }
     },
     {
@@ -2633,7 +2633,7 @@
       "fields": {
         "code": "2113",
         "name": "Pampan",
-        "estate": 21
+        "estate": "21"
       }
     },
     {
@@ -2642,7 +2642,7 @@
       "fields": {
         "code": "2114",
         "name": "Pampanito",
-        "estate": 21
+        "estate": "21"
       }
     },
     {
@@ -2651,7 +2651,7 @@
       "fields": {
         "code": "2115",
         "name": "Rafael Rángel",
-        "estate": 21
+        "estate": "21"
       }
     },
     {
@@ -2660,7 +2660,7 @@
       "fields": {
         "code": "2116",
         "name": "San Rafael de Carvajal",
-        "estate": 21
+        "estate": "21"
       }
     },
     {
@@ -2669,7 +2669,7 @@
       "fields": {
         "code": "2117",
         "name": "Sucre",
-        "estate": 21
+        "estate": "21"
       }
     },
     {
@@ -2678,7 +2678,7 @@
       "fields": {
         "code": "2118",
         "name": "Trujillo",
-        "estate": 21
+        "estate": "21"
       }
     },
     {
@@ -2687,7 +2687,7 @@
       "fields": {
         "code": "2119",
         "name": "Urdaneta",
-        "estate": 21
+        "estate": "21"
       }
     },
     {
@@ -2696,7 +2696,7 @@
       "fields": {
         "code": "2120",
         "name": "Valera",
-        "estate": 21
+        "estate": "21"
       }
     },
     {
@@ -2705,7 +2705,7 @@
       "fields": {
         "code": "2201",
         "name": "Aristides Bastidas",
-        "estate": 22
+        "estate": "22"
       }
     },
     {
@@ -2714,7 +2714,7 @@
       "fields": {
         "code": "2202",
         "name": "Bolívar",
-        "estate": 22
+        "estate": "22"
       }
     },
     {
@@ -2723,7 +2723,7 @@
       "fields": {
         "code": "2203",
         "name": "Bruzual",
-        "estate": 22
+        "estate": "22"
       }
     },
     {
@@ -2732,7 +2732,7 @@
       "fields": {
         "code": "2204",
         "name": "Cocorote",
-        "estate": 22
+        "estate": "22"
       }
     },
     {
@@ -2741,7 +2741,7 @@
       "fields": {
         "code": "2205",
         "name": "Independencia",
-        "estate": 22
+        "estate": "22"
       }
     },
     {
@@ -2750,7 +2750,7 @@
       "fields": {
         "code": "2206",
         "name": "José Antonio Paéz",
-        "estate": 22
+        "estate": "22"
       }
     },
     {
@@ -2759,7 +2759,7 @@
       "fields": {
         "code": "2207",
         "name": "La Trinidad",
-        "estate": 22
+        "estate": "22"
       }
     },
     {
@@ -2768,7 +2768,7 @@
       "fields": {
         "code": "2208",
         "name": "Manuel Monge",
-        "estate": 22
+        "estate": "22"
       }
     },
     {
@@ -2777,7 +2777,7 @@
       "fields": {
         "code": "2209",
         "name": "Nirgua",
-        "estate": 22
+        "estate": "22"
       }
     },
     {
@@ -2786,7 +2786,7 @@
       "fields": {
         "code": "2210",
         "name": "Peña",
-        "estate": 22
+        "estate": "22"
       }
     },
     {
@@ -2795,7 +2795,7 @@
       "fields": {
         "code": "2211",
         "name": "San Felipe",
-        "estate": 22
+        "estate": "22"
       }
     },
     {
@@ -2804,7 +2804,7 @@
       "fields": {
         "code": "2212",
         "name": "Sucre",
-        "estate": 22
+        "estate": "22"
       }
     },
     {
@@ -2813,7 +2813,7 @@
       "fields": {
         "code": "2213",
         "name": "Urachiche",
-        "estate": 22
+        "estate": "22"
       }
     },
     {
@@ -2822,7 +2822,7 @@
       "fields": {
         "code": "2214",
         "name": "Veroes",
-        "estate": 22
+        "estate": "22"
       }
     },
     {
@@ -2831,7 +2831,7 @@
       "fields": {
         "code": "2301",
         "name": "Almirante Padilla",
-        "estate": 23
+        "estate": "23"
       }
     },
     {
@@ -2840,7 +2840,7 @@
       "fields": {
         "code": "2302",
         "name": "Baralt",
-        "estate": 23
+        "estate": "23"
       }
     },
     {
@@ -2849,7 +2849,7 @@
       "fields": {
         "code": "2303",
         "name": "Cabimas",
-        "estate": 23
+        "estate": "23"
       }
     },
     {
@@ -2858,7 +2858,7 @@
       "fields": {
         "code": "2304",
         "name": "Catatumbo",
-        "estate": 23
+        "estate": "23"
       }
     },
     {
@@ -2867,7 +2867,7 @@
       "fields": {
         "code": "2305",
         "name": "Colón",
-        "estate": 23
+        "estate": "23"
       }
     },
     {
@@ -2876,7 +2876,7 @@
       "fields": {
         "code": "2306",
         "name": "Francisco Javier Pulgar",
-        "estate": 23
+        "estate": "23"
       }
     },
     {
@@ -2885,7 +2885,7 @@
       "fields": {
         "code": "2307",
         "name": "Jesús Enrique Lossada",
-        "estate": 23
+        "estate": "23"
       }
     },
     {
@@ -2894,7 +2894,7 @@
       "fields": {
         "code": "2308",
         "name": "Jesús María Semprum",
-        "estate": 23
+        "estate": "23"
       }
     },
     {
@@ -2903,7 +2903,7 @@
       "fields": {
         "code": "2309",
         "name": "La Cañada de Urdaneta",
-        "estate": 23
+        "estate": "23"
       }
     },
     {
@@ -2912,7 +2912,7 @@
       "fields": {
         "code": "2310",
         "name": "Lagunillas",
-        "estate": 23
+        "estate": "23"
       }
     },
     {
@@ -2921,7 +2921,7 @@
       "fields": {
         "code": "2311",
         "name": "Machiques de Perija",
-        "estate": 23
+        "estate": "23"
       }
     },
     {
@@ -2930,7 +2930,7 @@
       "fields": {
         "code": "2312",
         "name": "Mara",
-        "estate": 23
+        "estate": "23"
       }
     },
     {
@@ -2939,7 +2939,7 @@
       "fields": {
         "code": "2313",
         "name": "Maracaibo",
-        "estate": 23
+        "estate": "23"
       }
     },
     {
@@ -2948,7 +2948,7 @@
       "fields": {
         "code": "2314",
         "name": "Miranda",
-        "estate": 23
+        "estate": "23"
       }
     },
     {
@@ -2957,7 +2957,7 @@
       "fields": {
         "code": "2315",
         "name": "Paéz",
-        "estate": 23
+        "estate": "23"
       }
     },
     {
@@ -2966,7 +2966,7 @@
       "fields": {
         "code": "2316",
         "name": "Rosario de Perija",
-        "estate": 23
+        "estate": "23"
       }
     },
     {
@@ -2975,7 +2975,7 @@
       "fields": {
         "code": "2317",
         "name": "San Francisco",
-        "estate": 23
+        "estate": "23"
       }
     },
     {
@@ -2984,7 +2984,7 @@
       "fields": {
         "code": "2318",
         "name": "Santa Rita",
-        "estate": 23
+        "estate": "23"
       }
     },
     {
@@ -2993,7 +2993,7 @@
       "fields": {
         "code": "2319",
         "name": "Simón Bolívar",
-        "estate": 23
+        "estate": "23"
       }
     },
     {
@@ -3002,7 +3002,7 @@
       "fields": {
         "code": "2320",
         "name": "Sucre",
-        "estate": 23
+        "estate": "23"
       }
     },
     {
@@ -3011,7 +3011,7 @@
       "fields": {
         "code": "2321",
         "name": "Valmore Rodríguez",
-        "estate": 23
+        "estate": "23"
       }
     },
     {
@@ -3020,7 +3020,7 @@
       "fields": {
         "code": "2401",
         "name": "Vargas",
-        "estate": 24
+        "estate": "24"
       }
     }
   ]

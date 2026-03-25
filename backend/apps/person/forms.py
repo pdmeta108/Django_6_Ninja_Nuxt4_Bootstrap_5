@@ -31,12 +31,13 @@ class PersonForm(forms.ModelForm):
             'email',
             'age',
             'estate',
-            'municipality'
+            'municipality',
+            'parish',
         ]
 
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        # Always allow all estates
+        # Always allow all municipalities
         self.fields['municipality'].queryset = Municipality.objects.all()
         self.fields['municipality'].choices = [
             ("", " * Seleccione un municipio * ")

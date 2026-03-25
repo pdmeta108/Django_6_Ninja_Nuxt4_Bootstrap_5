@@ -1,0 +1,10244 @@
+[
+  {
+    "model": "person.parish",
+    "pk": 1,
+    "fields": {
+      "code": "010101",
+      "name": "Altagracia",
+      "municipality": "0101"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 2,
+    "fields": {
+      "code": "010102",
+      "name": "Antímano",
+      "municipality": "0101"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 3,
+    "fields": {
+      "code": "010103",
+      "name": "Candelaria",
+      "municipality": "0101"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 4,
+    "fields": {
+      "code": "010104",
+      "name": "Caricuao",
+      "municipality": "0101"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 5,
+    "fields": {
+      "code": "010105",
+      "name": "Catedral",
+      "municipality": "0101"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 6,
+    "fields": {
+      "code": "010106",
+      "name": "Coche",
+      "municipality": "0101"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 7,
+    "fields": {
+      "code": "010107",
+      "name": "El Junquito",
+      "municipality": "0101"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 8,
+    "fields": {
+      "code": "010108",
+      "name": "EL Paraíso",
+      "municipality": "0101"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 9,
+    "fields": {
+      "code": "010109",
+      "name": "El Recreo",
+      "municipality": "0101"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 10,
+    "fields": {
+      "code": "010110",
+      "name": "El Valle",
+      "municipality": "0101"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 11,
+    "fields": {
+      "code": "010111",
+      "name": "La Pastora",
+      "municipality": "0101"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 12,
+    "fields": {
+      "code": "010112",
+      "name": "La Vega",
+      "municipality": "0101"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 13,
+    "fields": {
+      "code": "010113",
+      "name": "Macarao",
+      "municipality": "0101"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 14,
+    "fields": {
+      "code": "010114",
+      "name": "San Agustín",
+      "municipality": "0101"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 15,
+    "fields": {
+      "code": "010115",
+      "name": "San Bernardino",
+      "municipality": "0101"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 16,
+    "fields": {
+      "code": "010116",
+      "name": "San José",
+      "municipality": "0101"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 17,
+    "fields": {
+      "code": "010117",
+      "name": "San Juan",
+      "municipality": "0101"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 18,
+    "fields": {
+      "code": "010118",
+      "name": "San Pedro",
+      "municipality": "0101"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 19,
+    "fields": {
+      "code": "010119",
+      "name": "Santa Rosalía",
+      "municipality": "0101"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 20,
+    "fields": {
+      "code": "010120",
+      "name": "Santa Teresa",
+      "municipality": "0101"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 21,
+    "fields": {
+      "code": "010121",
+      "name": "Sucre",
+      "municipality": "0101"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 22,
+    "fields": {
+      "code": "010122",
+      "name": "23 de Enero",
+      "municipality": "0101"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 23,
+    "fields": {
+      "code": "020101",
+      "name": "Capital Alto Orinoco",
+      "municipality": "0201"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 24,
+    "fields": {
+      "code": "020102",
+      "name": "Huachamacare",
+      "municipality": "0201"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 25,
+    "fields": {
+      "code": "020103",
+      "name": "Marawaka",
+      "municipality": "0201"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 26,
+    "fields": {
+      "code": "020104",
+      "name": "Mavaca",
+      "municipality": "0201"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 27,
+    "fields": {
+      "code": "020105",
+      "name": "Sierra Parima",
+      "municipality": "0201"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 28,
+    "fields": {
+      "code": "020201",
+      "name": "Capital Atabapo",
+      "municipality": "0202"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 29,
+    "fields": {
+      "code": "020202",
+      "name": "Ucata",
+      "municipality": "0202"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 30,
+    "fields": {
+      "code": "020203",
+      "name": "Yapacana",
+      "municipality": "0202"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 31,
+    "fields": {
+      "code": "020204",
+      "name": "Caname",
+      "municipality": "0202"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 32,
+    "fields": {
+      "code": "020301",
+      "name": "Fernando Girón Tovar",
+      "municipality": "0203"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 33,
+    "fields": {
+      "code": "020302",
+      "name": "Luis Alberto Gómez",
+      "municipality": "0203"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 34,
+    "fields": {
+      "code": "020303",
+      "name": "Parhueña",
+      "municipality": "0203"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 35,
+    "fields": {
+      "code": "020304",
+      "name": "Platanillal",
+      "municipality": "0203"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 36,
+    "fields": {
+      "code": "020401",
+      "name": "Capital Autana",
+      "municipality": "0204"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 37,
+    "fields": {
+      "code": "020402",
+      "name": "Samariapo",
+      "municipality": "0204"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 38,
+    "fields": {
+      "code": "020403",
+      "name": "Sipapo",
+      "municipality": "0204"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 39,
+    "fields": {
+      "code": "020404",
+      "name": "Munduapo",
+      "municipality": "0204"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 40,
+    "fields": {
+      "code": "020405",
+      "name": "Guayapo",
+      "municipality": "0204"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 41,
+    "fields": {
+      "code": "020501",
+      "name": "Victorino",
+      "municipality": "0205"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 42,
+    "fields": {
+      "code": "020502",
+      "name": "Comunidad",
+      "municipality": "0205"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 43,
+    "fields": {
+      "code": "020601",
+      "name": "Capital Manapiare",
+      "municipality": "0206"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 44,
+    "fields": {
+      "code": "020602",
+      "name": "Alto Ventuari",
+      "municipality": "0206"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 45,
+    "fields": {
+      "code": "020603",
+      "name": "Medio Ventuari",
+      "municipality": "0206"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 46,
+    "fields": {
+      "code": "020604",
+      "name": "Bajo Ventuari",
+      "municipality": "0206"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 47,
+    "fields": {
+      "code": "020701",
+      "name": "Capital Río Negro",
+      "municipality": "0207"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 48,
+    "fields": {
+      "code": "020702",
+      "name": "Solano",
+      "municipality": "0207"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 49,
+    "fields": {
+      "code": "020703",
+      "name": "Casiquiare",
+      "municipality": "0207"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 50,
+    "fields": {
+      "code": "020704",
+      "name": "Cocuy",
+      "municipality": "0207"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 51,
+    "fields": {
+      "code": "030101",
+      "name": "Anaco",
+      "municipality": "0301"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 52,
+    "fields": {
+      "code": "030102",
+      "name": "San Joaquín",
+      "municipality": "0301"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 53,
+    "fields": {
+      "code": "030201",
+      "name": "Capital Aragua",
+      "municipality": "0302"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 54,
+    "fields": {
+      "code": "030202",
+      "name": "Cachipo",
+      "municipality": "0302"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 55,
+    "fields": {
+      "code": "030301",
+      "name": "Capital Fernando de Peñalver",
+      "municipality": "0303"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 56,
+    "fields": {
+      "code": "030302",
+      "name": "San Miguel",
+      "municipality": "0303"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 57,
+    "fields": {
+      "code": "030303",
+      "name": "Sucre",
+      "municipality": "0303"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 58,
+    "fields": {
+      "code": "030401",
+      "name": "Valle de Guanape",
+      "municipality": "0304"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 59,
+    "fields": {
+      "code": "030402",
+      "name": "Santa Bárbara",
+      "municipality": "0304"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 60,
+    "fields": {
+      "code": "030501",
+      "name": "Capital Francisco de Miranda",
+      "municipality": "0305"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 61,
+    "fields": {
+      "code": "030502",
+      "name": "Atapirire",
+      "municipality": "0305"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 62,
+    "fields": {
+      "code": "030503",
+      "name": "Boca del Pao",
+      "municipality": "0305"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 63,
+    "fields": {
+      "code": "030504",
+      "name": "El Pao",
+      "municipality": "0305"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 64,
+    "fields": {
+      "code": "030505",
+      "name": "Múcura",
+      "municipality": "0305"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 65,
+    "fields": {
+      "code": "030601",
+      "name": "Guanta",
+      "municipality": "0306"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 66,
+    "fields": {
+      "code": "030602",
+      "name": "Chorrerón",
+      "municipality": "0306"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 67,
+    "fields": {
+      "code": "030701",
+      "name": "Capital Independencia",
+      "municipality": "0307"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 68,
+    "fields": {
+      "code": "030702",
+      "name": "Mamo",
+      "municipality": "0307"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 69,
+    "fields": {
+      "code": "030801",
+      "name": "Puerto La Cruz",
+      "municipality": "0308"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 70,
+    "fields": {
+      "code": "030802",
+      "name": "Pozuelos",
+      "municipality": "0308"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 71,
+    "fields": {
+      "code": "030901",
+      "name": "Onoto",
+      "municipality": "0309"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 72,
+    "fields": {
+      "code": "030902",
+      "name": "San Pablo",
+      "municipality": "0309"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 73,
+    "fields": {
+      "code": "031001",
+      "name": "Capital José Gregorio Monagas",
+      "municipality": "0310"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 74,
+    "fields": {
+      "code": "031002",
+      "name": "Piar",
+      "municipality": "0310"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 75,
+    "fields": {
+      "code": "031003",
+      "name": "San Diego de Cabrutica",
+      "municipality": "0310"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 76,
+    "fields": {
+      "code": "031004",
+      "name": "Santa Clara",
+      "municipality": "0310"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 77,
+    "fields": {
+      "code": "031005",
+      "name": "Uverito",
+      "municipality": "0310"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 78,
+    "fields": {
+      "code": "031006",
+      "name": "Zuata",
+      "municipality": "0310"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 79,
+    "fields": {
+      "code": "031101",
+      "name": "Capital Libertad",
+      "municipality": "0311"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 80,
+    "fields": {
+      "code": "031102",
+      "name": "El Carito",
+      "municipality": "0311"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 81,
+    "fields": {
+      "code": "031103",
+      "name": "Santa Inés",
+      "municipality": "0311"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 82,
+    "fields": {
+      "code": "031201",
+      "name": "Clarines",
+      "municipality": "0312"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 83,
+    "fields": {
+      "code": "031202",
+      "name": "Guanape",
+      "municipality": "0312"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 84,
+    "fields": {
+      "code": "031203",
+      "name": "Sabana de Uchire",
+      "municipality": "0312"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 85,
+    "fields": {
+      "code": "031301",
+      "name": "Capital Pedro María Freites",
+      "municipality": "0313"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 86,
+    "fields": {
+      "code": "031302",
+      "name": "Libertador",
+      "municipality": "0313"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 87,
+    "fields": {
+      "code": "031303",
+      "name": "Santa Rosa",
+      "municipality": "0313"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 88,
+    "fields": {
+      "code": "031304",
+      "name": "Urica",
+      "municipality": "0313"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 89,
+    "fields": {
+      "code": "031401",
+      "name": "Píritu",
+      "municipality": "0314"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 90,
+    "fields": {
+      "code": "031402",
+      "name": "San Francisco",
+      "municipality": "0314"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 91,
+    "fields": {
+      "code": "031501",
+      "name": "Capital San José de Guanipa",
+      "municipality": "0315"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 92,
+    "fields": {
+      "code": "031601",
+      "name": "Boca de Uchire",
+      "municipality": "0316"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 93,
+    "fields": {
+      "code": "031602",
+      "name": "Boca de Chávez",
+      "municipality": "0316"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 94,
+    "fields": {
+      "code": "031701",
+      "name": "Santa Ana",
+      "municipality": "0317"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 95,
+    "fields": {
+      "code": "031702",
+      "name": "Pueblo Nuevo",
+      "municipality": "0317"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 96,
+    "fields": {
+      "code": "031801",
+      "name": "El Carmen",
+      "municipality": "0318"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 97,
+    "fields": {
+      "code": "031802",
+      "name": "San Cristóbal",
+      "municipality": "0318"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 98,
+    "fields": {
+      "code": "031803",
+      "name": "Bergantín",
+      "municipality": "0318"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 99,
+    "fields": {
+      "code": "031804",
+      "name": "Caigua",
+      "municipality": "0318"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 100,
+    "fields": {
+      "code": "031805",
+      "name": "El Pilar",
+      "municipality": "0318"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 101,
+    "fields": {
+      "code": "031806",
+      "name": "Naricual",
+      "municipality": "0318"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 102,
+    "fields": {
+      "code": "031901",
+      "name": "Edmundo Barrios",
+      "municipality": "0319"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 103,
+    "fields": {
+      "code": "031902",
+      "name": "Miguel Otero Silva",
+      "municipality": "0319"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 104,
+    "fields": {
+      "code": "032001",
+      "name": "El Chaparro",
+      "municipality": "0320"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 105,
+    "fields": {
+      "code": "032002",
+      "name": "Tomás Alfaro Calatrava",
+      "municipality": "0320"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 106,
+    "fields": {
+      "code": "032101",
+      "name": "Lecherías",
+      "municipality": "0321"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 107,
+    "fields": {
+      "code": "032102",
+      "name": "El Morro",
+      "municipality": "0321"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 108,
+    "fields": {
+      "code": "040101",
+      "name": "Achaguas",
+      "municipality": "0401"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 109,
+    "fields": {
+      "code": "040102",
+      "name": "Apurito",
+      "municipality": "0401"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 110,
+    "fields": {
+      "code": "040103",
+      "name": "El Yagual",
+      "municipality": "0401"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 111,
+    "fields": {
+      "code": "040104",
+      "name": "Guachara",
+      "municipality": "0401"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 112,
+    "fields": {
+      "code": "040105",
+      "name": "Mucuritas",
+      "municipality": "0401"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 113,
+    "fields": {
+      "code": "040106",
+      "name": "Queseras del Medio",
+      "municipality": "0401"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 114,
+    "fields": {
+      "code": "040201",
+      "name": "Biruaca",
+      "municipality": "0402"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 115,
+    "fields": {
+      "code": "040301",
+      "name": "Bruzual",
+      "municipality": "0403"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 116,
+    "fields": {
+      "code": "040302",
+      "name": "Mantecal",
+      "municipality": "0403"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 117,
+    "fields": {
+      "code": "040303",
+      "name": "Quintero",
+      "municipality": "0403"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 118,
+    "fields": {
+      "code": "040304",
+      "name": "Rincón Hondo",
+      "municipality": "0403"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 119,
+    "fields": {
+      "code": "040305",
+      "name": "San Vicente",
+      "municipality": "0403"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 120,
+    "fields": {
+      "code": "040401",
+      "name": "Guasdualito",
+      "municipality": "0404"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 121,
+    "fields": {
+      "code": "040402",
+      "name": "Aramendi",
+      "municipality": "0404"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 122,
+    "fields": {
+      "code": "040403",
+      "name": "El Amparo",
+      "municipality": "0404"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 123,
+    "fields": {
+      "code": "040404",
+      "name": "San Camilo",
+      "municipality": "0404"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 124,
+    "fields": {
+      "code": "040405",
+      "name": "Urdaneta",
+      "municipality": "0404"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 125,
+    "fields": {
+      "code": "040501",
+      "name": "San Juan de Payara",
+      "municipality": "0405"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 126,
+    "fields": {
+      "code": "040502",
+      "name": "Codazzi",
+      "municipality": "0405"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 127,
+    "fields": {
+      "code": "040503",
+      "name": "Cunaviche",
+      "municipality": "0405"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 128,
+    "fields": {
+      "code": "040601",
+      "name": "Elorza",
+      "municipality": "0406"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 129,
+    "fields": {
+      "code": "040602",
+      "name": "La Trinidad",
+      "municipality": "0406"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 130,
+    "fields": {
+      "code": "040701",
+      "name": "San Fernando",
+      "municipality": "0407"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 131,
+    "fields": {
+      "code": "040702",
+      "name": "El Recreo",
+      "municipality": "0407"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 132,
+    "fields": {
+      "code": "040703",
+      "name": "Peñalver",
+      "municipality": "0407"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 133,
+    "fields": {
+      "code": "040704",
+      "name": "San Rafael de Atamaica",
+      "municipality": "0407"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 134,
+    "fields": {
+      "code": "050101",
+      "name": "Capital Bolívar",
+      "municipality": "0501"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 135,
+    "fields": {
+      "code": "050201",
+      "name": "Capital Camatagua",
+      "municipality": "0502"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 136,
+    "fields": {
+      "code": "050202",
+      "name": "Carmen de Cura",
+      "municipality": "0502"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 137,
+    "fields": {
+      "code": "050302",
+      "name": "Choroní",
+      "municipality": "0503"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 138,
+    "fields": {
+      "code": "050303",
+      "name": "Las Delicias",
+      "municipality": "0503"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 139,
+    "fields": {
+      "code": "050304",
+      "name": "Madre María de San José",
+      "municipality": "0503"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 140,
+    "fields": {
+      "code": "050305",
+      "name": "Joaquín Crespo",
+      "municipality": "0503"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 141,
+    "fields": {
+      "code": "050306",
+      "name": "Pedro José Ovalles",
+      "municipality": "0503"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 142,
+    "fields": {
+      "code": "050307",
+      "name": "José Casanova Godoy",
+      "municipality": "0503"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 143,
+    "fields": {
+      "code": "050308",
+      "name": "Andrés Eloy Blanco",
+      "municipality": "0503"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 144,
+    "fields": {
+      "code": "050309",
+      "name": "Los Tacariguas",
+      "municipality": "0503"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 145,
+    "fields": {
+      "code": "050401",
+      "name": "Capital José Angel Lamas",
+      "municipality": "0504"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 146,
+    "fields": {
+      "code": "050501",
+      "name": "Capital José Félix Ribas",
+      "municipality": "0505"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 147,
+    "fields": {
+      "code": "050502",
+      "name": "Castor Nieves Ríos",
+      "municipality": "0505"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 148,
+    "fields": {
+      "code": "050503",
+      "name": "Las Guacamayas",
+      "municipality": "0505"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 149,
+    "fields": {
+      "code": "050504",
+      "name": "Pao de Zárate",
+      "municipality": "0505"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 150,
+    "fields": {
+      "code": "050505",
+      "name": "Zuata",
+      "municipality": "0505"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 151,
+    "fields": {
+      "code": "050601",
+      "name": "Capital José Rafael Revenga",
+      "municipality": "0506"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 152,
+    "fields": {
+      "code": "050701",
+      "name": "Capital Libertador",
+      "municipality": "0507"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 153,
+    "fields": {
+      "code": "050702",
+      "name": "San Martín de Porres",
+      "municipality": "0507"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 154,
+    "fields": {
+      "code": "050801",
+      "name": "Capital Mario Briceño Iragorry",
+      "municipality": "0508"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 155,
+    "fields": {
+      "code": "050802",
+      "name": "Caña de Azúcar",
+      "municipality": "0508"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 156,
+    "fields": {
+      "code": "050901",
+      "name": "Capital San Casimiro",
+      "municipality": "0509"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 157,
+    "fields": {
+      "code": "050902",
+      "name": "Güiripa",
+      "municipality": "0509"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 158,
+    "fields": {
+      "code": "050903",
+      "name": "Ollas de Caramacate",
+      "municipality": "0509"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 159,
+    "fields": {
+      "code": "050904",
+      "name": "Valle Morín",
+      "municipality": "0509"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 160,
+    "fields": {
+      "code": "051001",
+      "name": "Capital San Sebastián",
+      "municipality": "0510"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 161,
+    "fields": {
+      "code": "051101",
+      "name": "Capital Santiago Mariño",
+      "municipality": "0511"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 162,
+    "fields": {
+      "code": "051102",
+      "name": "Arévalo Aponte",
+      "municipality": "0511"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 163,
+    "fields": {
+      "code": "051103",
+      "name": "Chuao",
+      "municipality": "0511"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 164,
+    "fields": {
+      "code": "051104",
+      "name": "Samán de Güere",
+      "municipality": "0511"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 165,
+    "fields": {
+      "code": "051105",
+      "name": "Alfredo Pacheco Miranda",
+      "municipality": "0511"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 166,
+    "fields": {
+      "code": "051201",
+      "name": "Capital Santos Michelena",
+      "municipality": "0512"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 167,
+    "fields": {
+      "code": "051202",
+      "name": "Tiara",
+      "municipality": "0512"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 168,
+    "fields": {
+      "code": "051301",
+      "name": "Capital Sucre",
+      "municipality": "0513"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 169,
+    "fields": {
+      "code": "051302",
+      "name": "Bella Vista",
+      "municipality": "0513"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 170,
+    "fields": {
+      "code": "051401",
+      "name": "Capital Tovar",
+      "municipality": "0514"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 171,
+    "fields": {
+      "code": "051501",
+      "name": "Capital Urdaneta",
+      "municipality": "0515"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 172,
+    "fields": {
+      "code": "051502",
+      "name": "Las Peñitas",
+      "municipality": "0515"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 173,
+    "fields": {
+      "code": "051503",
+      "name": "San Francisco de Cara",
+      "municipality": "0515"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 174,
+    "fields": {
+      "code": "051504",
+      "name": "Taguay",
+      "municipality": "0515"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 175,
+    "fields": {
+      "code": "051601",
+      "name": "Capital Zamora",
+      "municipality": "0516"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 176,
+    "fields": {
+      "code": "051602",
+      "name": "Magdaleno",
+      "municipality": "0516"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 177,
+    "fields": {
+      "code": "051603",
+      "name": "San Francisco de Asís",
+      "municipality": "0516"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 178,
+    "fields": {
+      "code": "051604",
+      "name": "Valles de Tucutunemo",
+      "municipality": "0516"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 179,
+    "fields": {
+      "code": "051605",
+      "name": "Augusto Mijares",
+      "municipality": "0516"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 180,
+    "fields": {
+      "code": "051701",
+      "name": "Capital Francisco Linares Alcántara",
+      "municipality": "0517"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 181,
+    "fields": {
+      "code": "051702",
+      "name": "Francisco de Miranda",
+      "municipality": "0517"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 182,
+    "fields": {
+      "code": "051703",
+      "name": "Monseñor Feliciano González",
+      "municipality": "0517"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 183,
+    "fields": {
+      "code": "051801",
+      "name": "Capital Ocumare de La Costa de Oro",
+      "municipality": "0518"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 184,
+    "fields": {
+      "code": "060101",
+      "name": "Sabaneta",
+      "municipality": "0601"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 185,
+    "fields": {
+      "code": "060102",
+      "name": "Rodríguez Domínguez",
+      "municipality": "0601"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 186,
+    "fields": {
+      "code": "060201",
+      "name": "Ticoporo",
+      "municipality": "0602"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 187,
+    "fields": {
+      "code": "060202",
+      "name": "Andrés Bello",
+      "municipality": "0602"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 188,
+    "fields": {
+      "code": "060203",
+      "name": "Nicolás Pulido",
+      "municipality": "0602"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 189,
+    "fields": {
+      "code": "060301",
+      "name": "Arismendi",
+      "municipality": "0603"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 190,
+    "fields": {
+      "code": "060302",
+      "name": "Guadarrama",
+      "municipality": "0603"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 191,
+    "fields": {
+      "code": "060303",
+      "name": "La Unión",
+      "municipality": "0603"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 192,
+    "fields": {
+      "code": "060304",
+      "name": "San Antonio",
+      "municipality": "0603"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 193,
+    "fields": {
+      "code": "060401",
+      "name": "Barinas",
+      "municipality": "0604"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 194,
+    "fields": {
+      "code": "060402",
+      "name": "Alfredo Arvelo Larriva",
+      "municipality": "0604"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 195,
+    "fields": {
+      "code": "060403",
+      "name": "San Silvestre",
+      "municipality": "0604"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 196,
+    "fields": {
+      "code": "060404",
+      "name": "Santa Inés",
+      "municipality": "0604"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 197,
+    "fields": {
+      "code": "060405",
+      "name": "Santa Lucía",
+      "municipality": "0604"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 198,
+    "fields": {
+      "code": "060406",
+      "name": "Torunos",
+      "municipality": "0604"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 199,
+    "fields": {
+      "code": "060407",
+      "name": "El Carmen",
+      "municipality": "0604"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 200,
+    "fields": {
+      "code": "060408",
+      "name": "Rómulo Betancourt",
+      "municipality": "0604"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 201,
+    "fields": {
+      "code": "060409",
+      "name": "Corazón de Jesús",
+      "municipality": "0604"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 202,
+    "fields": {
+      "code": "060410",
+      "name": "Ramón Ignacio Méndez",
+      "municipality": "0604"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 203,
+    "fields": {
+      "code": "060411",
+      "name": "Alto Barinas",
+      "municipality": "0604"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 204,
+    "fields": {
+      "code": "060412",
+      "name": "Manuel Palacio Fajardo",
+      "municipality": "0604"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 205,
+    "fields": {
+      "code": "060413",
+      "name": "Juan Antonio Rodríguez Domínguez",
+      "municipality": "0604"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 206,
+    "fields": {
+      "code": "060414",
+      "name": "Dominga Ortiz de Páez",
+      "municipality": "0604"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 207,
+    "fields": {
+      "code": "060501",
+      "name": "Barinitas",
+      "municipality": "0605"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 208,
+    "fields": {
+      "code": "060502",
+      "name": "Altamira",
+      "municipality": "0605"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 209,
+    "fields": {
+      "code": "060503",
+      "name": "Calderas",
+      "municipality": "0605"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 210,
+    "fields": {
+      "code": "060601",
+      "name": "Barrancas",
+      "municipality": "0606"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 211,
+    "fields": {
+      "code": "060602",
+      "name": "El Socorro",
+      "municipality": "0606"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 212,
+    "fields": {
+      "code": "060603",
+      "name": "Masparrito",
+      "municipality": "0606"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 213,
+    "fields": {
+      "code": "060701",
+      "name": "Santa Bárbara",
+      "municipality": "0607"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 214,
+    "fields": {
+      "code": "060702",
+      "name": "José Ignacio del Pumar",
+      "municipality": "0607"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 215,
+    "fields": {
+      "code": "060703",
+      "name": "Pedro Briceño Méndez",
+      "municipality": "0607"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 216,
+    "fields": {
+      "code": "060704",
+      "name": "Ramón Ignacio Méndez",
+      "municipality": "0607"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 217,
+    "fields": {
+      "code": "060801",
+      "name": "Obispos",
+      "municipality": "0608"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 218,
+    "fields": {
+      "code": "060802",
+      "name": "El Real",
+      "municipality": "0608"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 219,
+    "fields": {
+      "code": "060803",
+      "name": "La Luz",
+      "municipality": "0608"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 220,
+    "fields": {
+      "code": "060804",
+      "name": "Los Guasimitos",
+      "municipality": "0608"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 221,
+    "fields": {
+      "code": "060901",
+      "name": "Ciudad Bolivia",
+      "municipality": "0609"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 222,
+    "fields": {
+      "code": "060902",
+      "name": "Ignacio Briceño",
+      "municipality": "0609"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 223,
+    "fields": {
+      "code": "060903",
+      "name": "José Félix Ribas",
+      "municipality": "0609"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 224,
+    "fields": {
+      "code": "060904",
+      "name": "Páez",
+      "municipality": "0609"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 225,
+    "fields": {
+      "code": "061001",
+      "name": "Libertad",
+      "municipality": "0610"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 226,
+    "fields": {
+      "code": "061002",
+      "name": "Dolores",
+      "municipality": "0610"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 227,
+    "fields": {
+      "code": "061003",
+      "name": "Palacios Fajardo",
+      "municipality": "0610"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 228,
+    "fields": {
+      "code": "061004",
+      "name": "Santa Rosa",
+      "municipality": "0610"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 229,
+    "fields": {
+      "code": "061101",
+      "name": "Ciudad de Nutrias",
+      "municipality": "0611"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 230,
+    "fields": {
+      "code": "061102",
+      "name": "El Regalo",
+      "municipality": "0611"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 231,
+    "fields": {
+      "code": "061103",
+      "name": "Puerto de Nutrias",
+      "municipality": "0611"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 232,
+    "fields": {
+      "code": "061104",
+      "name": "Santa Catalina",
+      "municipality": "0611"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 233,
+    "fields": {
+      "code": "061201",
+      "name": "El Cantón",
+      "municipality": "0612"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 234,
+    "fields": {
+      "code": "061202",
+      "name": "Santa Cruz de Guacas",
+      "municipality": "0612"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 235,
+    "fields": {
+      "code": "061203",
+      "name": "Puerto Vivas",
+      "municipality": "0612"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 236,
+    "fields": {
+      "code": "070101",
+      "name": "Cachamay",
+      "municipality": "0701"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 237,
+    "fields": {
+      "code": "070102",
+      "name": "Chirica",
+      "municipality": "0701"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 238,
+    "fields": {
+      "code": "070103",
+      "name": "Dalla Costa",
+      "municipality": "0701"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 239,
+    "fields": {
+      "code": "070104",
+      "name": "Once de Abril",
+      "municipality": "0701"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 240,
+    "fields": {
+      "code": "070105",
+      "name": "Simón Bolívar",
+      "municipality": "0701"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 241,
+    "fields": {
+      "code": "070106",
+      "name": "Unare",
+      "municipality": "0701"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 242,
+    "fields": {
+      "code": "070107",
+      "name": "Universidad",
+      "municipality": "0701"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 243,
+    "fields": {
+      "code": "070108",
+      "name": "Vista al Sol",
+      "municipality": "0701"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 244,
+    "fields": {
+      "code": "070109",
+      "name": "Pozo Verde",
+      "municipality": "0701"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 245,
+    "fields": {
+      "code": "070110",
+      "name": "Yocoima",
+      "municipality": "0701"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 246,
+    "fields": {
+      "code": "070201",
+      "name": "Sección Capital Cedeño",
+      "municipality": "0702"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 247,
+    "fields": {
+      "code": "070202",
+      "name": "Altagracia",
+      "municipality": "0702"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 248,
+    "fields": {
+      "code": "070203",
+      "name": "Ascensión Farreras",
+      "municipality": "0702"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 249,
+    "fields": {
+      "code": "070204",
+      "name": "Guaniamo",
+      "municipality": "0702"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 250,
+    "fields": {
+      "code": "070205",
+      "name": "La Urbana",
+      "municipality": "0702"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 251,
+    "fields": {
+      "code": "070206",
+      "name": "Pijiguaos",
+      "municipality": "0702"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 252,
+    "fields": {
+      "code": "070301",
+      "name": "Capital El Callao",
+      "municipality": "0703"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 253,
+    "fields": {
+      "code": "070401",
+      "name": "Sección Capital Gran Sabana",
+      "municipality": "0704"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 254,
+    "fields": {
+      "code": "070402",
+      "name": "Ikabarú",
+      "municipality": "0704"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 255,
+    "fields": {
+      "code": "070501",
+      "name": "Agua Salada",
+      "municipality": "0705"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 256,
+    "fields": {
+      "code": "070502",
+      "name": "Catedral",
+      "municipality": "0705"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 257,
+    "fields": {
+      "code": "070503",
+      "name": "José Antonio Páez",
+      "municipality": "0705"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 258,
+    "fields": {
+      "code": "070504",
+      "name": "La Sabanita",
+      "municipality": "0705"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 259,
+    "fields": {
+      "code": "070505",
+      "name": "Marhuanta",
+      "municipality": "0705"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 260,
+    "fields": {
+      "code": "070506",
+      "name": "Vista Hermosa",
+      "municipality": "0705"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 261,
+    "fields": {
+      "code": "070507",
+      "name": "Orinoco",
+      "municipality": "0705"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 262,
+    "fields": {
+      "code": "070508",
+      "name": "Panapana",
+      "municipality": "0705"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 263,
+    "fields": {
+      "code": "070509",
+      "name": "Zea",
+      "municipality": "0705"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 264,
+    "fields": {
+      "code": "070601",
+      "name": "Sección Capital Piar",
+      "municipality": "0706"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 265,
+    "fields": {
+      "code": "070602",
+      "name": "Andrés Eloy Blanco",
+      "municipality": "0706"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 266,
+    "fields": {
+      "code": "070603",
+      "name": "Pedro Cova",
+      "municipality": "0706"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 267,
+    "fields": {
+      "code": "070701",
+      "name": "Sección Capital Raúl Leoni",
+      "municipality": "0707"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 268,
+    "fields": {
+      "code": "070702",
+      "name": "Barceloneta",
+      "municipality": "0707"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 269,
+    "fields": {
+      "code": "070703",
+      "name": "San Francisco",
+      "municipality": "0707"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 270,
+    "fields": {
+      "code": "070704",
+      "name": "Santa Bárbara",
+      "municipality": "0707"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 271,
+    "fields": {
+      "code": "070801",
+      "name": "Sección Capital Roscio",
+      "municipality": "0708"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 272,
+    "fields": {
+      "code": "070802",
+      "name": "Salom",
+      "municipality": "0708"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 273,
+    "fields": {
+      "code": "070901",
+      "name": "Sección Capital Sifontes",
+      "municipality": "0709"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 274,
+    "fields": {
+      "code": "070902",
+      "name": "Dalla Costa",
+      "municipality": "0709"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 275,
+    "fields": {
+      "code": "070903",
+      "name": "San Isidro",
+      "municipality": "0709"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 276,
+    "fields": {
+      "code": "071001",
+      "name": "Sección Capital Sucre",
+      "municipality": "0710"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 277,
+    "fields": {
+      "code": "071002",
+      "name": "Aripao",
+      "municipality": "0710"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 278,
+    "fields": {
+      "code": "071003",
+      "name": "Guarataro",
+      "municipality": "0710"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 279,
+    "fields": {
+      "code": "071004",
+      "name": "Las Majadas",
+      "municipality": "0710"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 280,
+    "fields": {
+      "code": "071005",
+      "name": "Moitaco",
+      "municipality": "0710"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 281,
+    "fields": {
+      "code": "071101",
+      "name": "Capital Padre Pedro Chien",
+      "municipality": "0711"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 282,
+    "fields": {
+      "code": "080101",
+      "name": "Bejuma",
+      "municipality": "0801"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 283,
+    "fields": {
+      "code": "080102",
+      "name": "Canoabo",
+      "municipality": "0801"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 284,
+    "fields": {
+      "code": "080103",
+      "name": "Simón Bolívar",
+      "municipality": "0801"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 285,
+    "fields": {
+      "code": "080201",
+      "name": "Güigüe",
+      "municipality": "0802"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 286,
+    "fields": {
+      "code": "080202",
+      "name": "Belén",
+      "municipality": "0802"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 287,
+    "fields": {
+      "code": "080203",
+      "name": "Tacarigua",
+      "municipality": "0802"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 288,
+    "fields": {
+      "code": "080301",
+      "name": "Aguas Calientes",
+      "municipality": "0803"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 289,
+    "fields": {
+      "code": "080302",
+      "name": "Mariara",
+      "municipality": "0803"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 290,
+    "fields": {
+      "code": "080401",
+      "name": "Ciudad Alianza",
+      "municipality": "0804"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 291,
+    "fields": {
+      "code": "080402",
+      "name": "Guacara",
+      "municipality": "0804"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 292,
+    "fields": {
+      "code": "080403",
+      "name": "Yagua",
+      "municipality": "0804"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 293,
+    "fields": {
+      "code": "080501",
+      "name": "Morón",
+      "municipality": "0805"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 294,
+    "fields": {
+      "code": "080502",
+      "name": "Urama",
+      "municipality": "0805"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 295,
+    "fields": {
+      "code": "080601",
+      "name": "Tocuyito",
+      "municipality": "0806"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 296,
+    "fields": {
+      "code": "080602",
+      "name": "Independencia",
+      "municipality": "0806"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 297,
+    "fields": {
+      "code": "080701",
+      "name": "Los Guayos",
+      "municipality": "0807"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 298,
+    "fields": {
+      "code": "080801",
+      "name": "Miranda",
+      "municipality": "0808"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 299,
+    "fields": {
+      "code": "080901",
+      "name": "Montalbán",
+      "municipality": "0809"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 300,
+    "fields": {
+      "code": "081001",
+      "name": "Naguanagua",
+      "municipality": "0810"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 301,
+    "fields": {
+      "code": "081101",
+      "name": "Bartolomé Salom",
+      "municipality": "0811"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 302,
+    "fields": {
+      "code": "081102",
+      "name": "Democracia",
+      "municipality": "0811"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 303,
+    "fields": {
+      "code": "081103",
+      "name": "Fraternidad",
+      "municipality": "0811"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 304,
+    "fields": {
+      "code": "081104",
+      "name": "Goaigoaza",
+      "municipality": "0811"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 305,
+    "fields": {
+      "code": "081105",
+      "name": "Juan José Flores",
+      "municipality": "0811"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 306,
+    "fields": {
+      "code": "081106",
+      "name": "Unión",
+      "municipality": "0811"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 307,
+    "fields": {
+      "code": "081107",
+      "name": "Borburata",
+      "municipality": "0811"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 308,
+    "fields": {
+      "code": "081108",
+      "name": "Patanemo",
+      "municipality": "0811"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 309,
+    "fields": {
+      "code": "081201",
+      "name": "San Diego",
+      "municipality": "0812"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 310,
+    "fields": {
+      "code": "081301",
+      "name": "San Joaquín",
+      "municipality": "0813"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 311,
+    "fields": {
+      "code": "081401",
+      "name": "Candelaria",
+      "municipality": "0814"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 312,
+    "fields": {
+      "code": "081402",
+      "name": "Catedral",
+      "municipality": "0814"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 313,
+    "fields": {
+      "code": "081403",
+      "name": "El Socorro",
+      "municipality": "0814"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 314,
+    "fields": {
+      "code": "081404",
+      "name": "Miguel Peña",
+      "municipality": "0814"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 315,
+    "fields": {
+      "code": "081405",
+      "name": "Rafael Urdaneta",
+      "municipality": "0814"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 316,
+    "fields": {
+      "code": "081406",
+      "name": "San Blas",
+      "municipality": "0814"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 317,
+    "fields": {
+      "code": "081407",
+      "name": "San José",
+      "municipality": "0814"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 318,
+    "fields": {
+      "code": "081408",
+      "name": "Santa Rosa",
+      "municipality": "0814"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 319,
+    "fields": {
+      "code": "081409",
+      "name": "Negro Primero",
+      "municipality": "0814"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 320,
+    "fields": {
+      "code": "090101",
+      "name": "Cojedes",
+      "municipality": "0901"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 321,
+    "fields": {
+      "code": "090102",
+      "name": "Juan de Mata Suárez",
+      "municipality": "0901"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 322,
+    "fields": {
+      "code": "090201",
+      "name": "Tinaquillo",
+      "municipality": "0902"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 323,
+    "fields": {
+      "code": "090301",
+      "name": "El Baúl",
+      "municipality": "0903"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 324,
+    "fields": {
+      "code": "090302",
+      "name": "Sucre",
+      "municipality": "0903"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 325,
+    "fields": {
+      "code": "090401",
+      "name": "Macapo",
+      "municipality": "0904"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 326,
+    "fields": {
+      "code": "090402",
+      "name": "La Aguadita",
+      "municipality": "0904"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 327,
+    "fields": {
+      "code": "090501",
+      "name": "El Pao",
+      "municipality": "0905"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 328,
+    "fields": {
+      "code": "090601",
+      "name": "Libertad de Cojedes",
+      "municipality": "0906"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 329,
+    "fields": {
+      "code": "090602",
+      "name": "El Amparo",
+      "municipality": "0906"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 330,
+    "fields": {
+      "code": "090701",
+      "name": "Rómulo Gallegos",
+      "municipality": "0907"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 331,
+    "fields": {
+      "code": "090801",
+      "name": "San Carlos de Austria",
+      "municipality": "0908"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 332,
+    "fields": {
+      "code": "090802",
+      "name": "Juan Angel Bravo",
+      "municipality": "0908"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 333,
+    "fields": {
+      "code": "090803",
+      "name": "Manuel Manrique",
+      "municipality": "0908"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 334,
+    "fields": {
+      "code": "090901",
+      "name": "General en Jefe José Laurencio Silva",
+      "municipality": "0909"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 335,
+    "fields": {
+      "code": "091001",
+      "name": "Tinaquillo",
+      "municipality": "0910"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 336,
+    "fields": {
+      "code": "100101",
+      "name": "Curiapo",
+      "municipality": "1001"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 337,
+    "fields": {
+      "code": "100102",
+      "name": "Almirante Luis Brión",
+      "municipality": "1001"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 338,
+    "fields": {
+      "code": "100103",
+      "name": "Francisco Aniceto Lugo",
+      "municipality": "1001"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 339,
+    "fields": {
+      "code": "100104",
+      "name": "Manuel Renaud",
+      "municipality": "1001"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 340,
+    "fields": {
+      "code": "100105",
+      "name": "Padre Barral",
+      "municipality": "1001"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 341,
+    "fields": {
+      "code": "100106",
+      "name": "Santos de Abelgas",
+      "municipality": "1001"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 342,
+    "fields": {
+      "code": "100201",
+      "name": "Imataca",
+      "municipality": "1002"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 343,
+    "fields": {
+      "code": "100202",
+      "name": "Cinco de Julio",
+      "municipality": "1002"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 344,
+    "fields": {
+      "code": "100203",
+      "name": "Juan Bautista Arismendi",
+      "municipality": "1002"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 345,
+    "fields": {
+      "code": "100204",
+      "name": "Manuel Piar",
+      "municipality": "1002"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 346,
+    "fields": {
+      "code": "100205",
+      "name": "Rómulo Gallegos",
+      "municipality": "1002"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 347,
+    "fields": {
+      "code": "100301",
+      "name": "Pedernales",
+      "municipality": "1003"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 348,
+    "fields": {
+      "code": "100302",
+      "name": "Luis Beltrán Prieto Figueroa",
+      "municipality": "1003"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 349,
+    "fields": {
+      "code": "100401",
+      "name": "San José",
+      "municipality": "1004"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 350,
+    "fields": {
+      "code": "100402",
+      "name": "José Vidal Marcano",
+      "municipality": "1004"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 351,
+    "fields": {
+      "code": "100403",
+      "name": "Juan Millán",
+      "municipality": "1004"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 352,
+    "fields": {
+      "code": "100404",
+      "name": "Leonardo Ruíz Pineda",
+      "municipality": "1004"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 353,
+    "fields": {
+      "code": "100405",
+      "name": "Mariscal Antonio José de Sucre",
+      "municipality": "1004"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 354,
+    "fields": {
+      "code": "100406",
+      "name": "Monseñor Argimiro García",
+      "municipality": "1004"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 355,
+    "fields": {
+      "code": "100407",
+      "name": "San Rafael",
+      "municipality": "1004"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 356,
+    "fields": {
+      "code": "100408",
+      "name": "Virgen del Valle",
+      "municipality": "1004"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 357,
+    "fields": {
+      "code": "110101",
+      "name": "San Juan de los Cayos",
+      "municipality": "1101"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 358,
+    "fields": {
+      "code": "110102",
+      "name": "Capadare",
+      "municipality": "1101"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 359,
+    "fields": {
+      "code": "110103",
+      "name": "La Pastora",
+      "municipality": "1101"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 360,
+    "fields": {
+      "code": "110104",
+      "name": "Libertador",
+      "municipality": "1101"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 361,
+    "fields": {
+      "code": "110201",
+      "name": "San Luis",
+      "municipality": "1102"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 362,
+    "fields": {
+      "code": "110202",
+      "name": "Aracua",
+      "municipality": "1102"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 363,
+    "fields": {
+      "code": "110203",
+      "name": "La Peña",
+      "municipality": "1102"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 364,
+    "fields": {
+      "code": "110301",
+      "name": "Capatárida",
+      "municipality": "1103"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 365,
+    "fields": {
+      "code": "110302",
+      "name": "Bariro",
+      "municipality": "1103"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 366,
+    "fields": {
+      "code": "110303",
+      "name": "Borojó",
+      "municipality": "1103"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 367,
+    "fields": {
+      "code": "110304",
+      "name": "Guajiro",
+      "municipality": "1103"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 368,
+    "fields": {
+      "code": "110305",
+      "name": "Seque",
+      "municipality": "1103"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 369,
+    "fields": {
+      "code": "110306",
+      "name": "Zazárida",
+      "municipality": "1103"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 370,
+    "fields": {
+      "code": "110401",
+      "name": "Capital Cacique Manaure",
+      "municipality": "1104"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 371,
+    "fields": {
+      "code": "110501",
+      "name": "Carirubana",
+      "municipality": "1105"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 372,
+    "fields": {
+      "code": "110502",
+      "name": "Norte",
+      "municipality": "1105"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 373,
+    "fields": {
+      "code": "110503",
+      "name": "Punta Cardón",
+      "municipality": "1105"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 374,
+    "fields": {
+      "code": "110504",
+      "name": "Santa Ana",
+      "municipality": "1105"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 375,
+    "fields": {
+      "code": "110601",
+      "name": "La Vela de Coro",
+      "municipality": "1106"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 376,
+    "fields": {
+      "code": "110602",
+      "name": "Acurigua",
+      "municipality": "1106"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 377,
+    "fields": {
+      "code": "110603",
+      "name": "Guaibacoa",
+      "municipality": "1106"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 378,
+    "fields": {
+      "code": "110604",
+      "name": "Las Calderas",
+      "municipality": "1106"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 379,
+    "fields": {
+      "code": "110605",
+      "name": "Macoruca",
+      "municipality": "1106"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 380,
+    "fields": {
+      "code": "110701",
+      "name": "Capital Dabajuro",
+      "municipality": "1107"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 381,
+    "fields": {
+      "code": "110801",
+      "name": "Pedregal",
+      "municipality": "1108"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 382,
+    "fields": {
+      "code": "110802",
+      "name": "Agua Clara",
+      "municipality": "1108"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 383,
+    "fields": {
+      "code": "110803",
+      "name": "Avaria",
+      "municipality": "1108"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 384,
+    "fields": {
+      "code": "110804",
+      "name": "Piedra Grande",
+      "municipality": "1108"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 385,
+    "fields": {
+      "code": "110805",
+      "name": "Purureche",
+      "municipality": "1108"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 386,
+    "fields": {
+      "code": "110901",
+      "name": "Pueblo Nuevo",
+      "municipality": "1109"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 387,
+    "fields": {
+      "code": "110902",
+      "name": "Adícora",
+      "municipality": "1109"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 388,
+    "fields": {
+      "code": "110903",
+      "name": "Baraived",
+      "municipality": "1109"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 389,
+    "fields": {
+      "code": "110904",
+      "name": "Buena Vista",
+      "municipality": "1109"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 390,
+    "fields": {
+      "code": "110905",
+      "name": "Jadacaquiva",
+      "municipality": "1109"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 391,
+    "fields": {
+      "code": "110906",
+      "name": "Moruy",
+      "municipality": "1109"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 392,
+    "fields": {
+      "code": "110907",
+      "name": "Adaure",
+      "municipality": "1109"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 393,
+    "fields": {
+      "code": "110908",
+      "name": "El Hato",
+      "municipality": "1109"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 394,
+    "fields": {
+      "code": "110909",
+      "name": "El Vínculo",
+      "municipality": "1109"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 395,
+    "fields": {
+      "code": "111001",
+      "name": "Churuguara",
+      "municipality": "1110"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 396,
+    "fields": {
+      "code": "111002",
+      "name": "Agua Larga",
+      "municipality": "1110"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 397,
+    "fields": {
+      "code": "111003",
+      "name": "Paují",
+      "municipality": "1110"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 398,
+    "fields": {
+      "code": "111004",
+      "name": "Independencia",
+      "municipality": "1110"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 399,
+    "fields": {
+      "code": "111005",
+      "name": "Mapararí",
+      "municipality": "1110"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 400,
+    "fields": {
+      "code": "111101",
+      "name": "Jacura",
+      "municipality": "1111"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 401,
+    "fields": {
+      "code": "111102",
+      "name": "Agua Linda",
+      "municipality": "1111"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 402,
+    "fields": {
+      "code": "111103",
+      "name": "Araurima",
+      "municipality": "1111"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 403,
+    "fields": {
+      "code": "111201",
+      "name": "Los Taques",
+      "municipality": "1112"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 404,
+    "fields": {
+      "code": "111202",
+      "name": "Judibana",
+      "municipality": "1112"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 405,
+    "fields": {
+      "code": "111301",
+      "name": "Mene de Mauroa",
+      "municipality": "1113"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 406,
+    "fields": {
+      "code": "111302",
+      "name": "Casigua",
+      "municipality": "1113"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 407,
+    "fields": {
+      "code": "111303",
+      "name": "San Félix",
+      "municipality": "1113"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 408,
+    "fields": {
+      "code": "111401",
+      "name": "San Antonio",
+      "municipality": "1114"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 409,
+    "fields": {
+      "code": "111402",
+      "name": "San Gabriel",
+      "municipality": "1114"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 410,
+    "fields": {
+      "code": "111403",
+      "name": "Santa Ana",
+      "municipality": "1114"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 411,
+    "fields": {
+      "code": "111404",
+      "name": "Guzmán Guillermo",
+      "municipality": "1114"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 412,
+    "fields": {
+      "code": "111405",
+      "name": "Mitare",
+      "municipality": "1114"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 413,
+    "fields": {
+      "code": "111406",
+      "name": "Río Seco",
+      "municipality": "1114"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 414,
+    "fields": {
+      "code": "111407",
+      "name": "Sabaneta",
+      "municipality": "1114"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 415,
+    "fields": {
+      "code": "111501",
+      "name": "Chichiriviche",
+      "municipality": "1115"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 416,
+    "fields": {
+      "code": "111502",
+      "name": "Boca de Tocuyo",
+      "municipality": "1115"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 417,
+    "fields": {
+      "code": "111503",
+      "name": "Tocuyo de la Costa",
+      "municipality": "1115"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 418,
+    "fields": {
+      "code": "111601",
+      "name": "Capital Palmasola",
+      "municipality": "1116"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 419,
+    "fields": {
+      "code": "111701",
+      "name": "Cabure",
+      "municipality": "1117"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 420,
+    "fields": {
+      "code": "111702",
+      "name": "Colina",
+      "municipality": "1117"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 421,
+    "fields": {
+      "code": "111703",
+      "name": "Curimagua",
+      "municipality": "1117"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 422,
+    "fields": {
+      "code": "111801",
+      "name": "Píritu",
+      "municipality": "1118"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 423,
+    "fields": {
+      "code": "111802",
+      "name": "San José de la Costa",
+      "municipality": "1118"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 424,
+    "fields": {
+      "code": "111901",
+      "name": "Capital San Francisco",
+      "municipality": "1119"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 425,
+    "fields": {
+      "code": "112001",
+      "name": "Tucacas",
+      "municipality": "1120"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 426,
+    "fields": {
+      "code": "112002",
+      "name": "Boca de Aroa",
+      "municipality": "1120"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 427,
+    "fields": {
+      "code": "112101",
+      "name": "Sucre",
+      "municipality": "1121"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 428,
+    "fields": {
+      "code": "112102",
+      "name": "Pecaya",
+      "municipality": "1121"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 429,
+    "fields": {
+      "code": "112201",
+      "name": "Capital Tocópero",
+      "municipality": "1122"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 430,
+    "fields": {
+      "code": "112301",
+      "name": "Santa Cruz de Bucaral",
+      "municipality": "1123"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 431,
+    "fields": {
+      "code": "112302",
+      "name": "El Charal",
+      "municipality": "1123"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 432,
+    "fields": {
+      "code": "112303",
+      "name": "Las Vegas del Tuy",
+      "municipality": "1123"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 433,
+    "fields": {
+      "code": "112401",
+      "name": "Urumaco",
+      "municipality": "1124"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 434,
+    "fields": {
+      "code": "112402",
+      "name": "Bruzual",
+      "municipality": "1124"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 435,
+    "fields": {
+      "code": "112501",
+      "name": "Puerto Cumarebo",
+      "municipality": "1125"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 436,
+    "fields": {
+      "code": "112502",
+      "name": "La Ciénaga",
+      "municipality": "1125"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 437,
+    "fields": {
+      "code": "112503",
+      "name": "La Soledad",
+      "municipality": "1125"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 438,
+    "fields": {
+      "code": "112504",
+      "name": "Pueblo Cumarebo",
+      "municipality": "1125"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 439,
+    "fields": {
+      "code": "112505",
+      "name": "Zazárida",
+      "municipality": "1125"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 440,
+    "fields": {
+      "code": "120101",
+      "name": "Camaguán",
+      "municipality": "1201"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 441,
+    "fields": {
+      "code": "120102",
+      "name": "Puerto Miranda",
+      "municipality": "1201"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 442,
+    "fields": {
+      "code": "120103",
+      "name": "Uverito",
+      "municipality": "1201"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 443,
+    "fields": {
+      "code": "120201",
+      "name": "Chaguaramas",
+      "municipality": "1202"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 444,
+    "fields": {
+      "code": "120301",
+      "name": "El Socorro",
+      "municipality": "1203"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 445,
+    "fields": {
+      "code": "120401",
+      "name": "Capital San Gerónimo de Guayabal",
+      "municipality": "1204"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 446,
+    "fields": {
+      "code": "120402",
+      "name": "Cazorla",
+      "municipality": "1204"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 447,
+    "fields": {
+      "code": "120501",
+      "name": "Valle de La Pascua",
+      "municipality": "1205"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 448,
+    "fields": {
+      "code": "120502",
+      "name": "Espino",
+      "municipality": "1205"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 449,
+    "fields": {
+      "code": "120601",
+      "name": "Las Mercedes",
+      "municipality": "1206"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 450,
+    "fields": {
+      "code": "120602",
+      "name": "Cabruta",
+      "municipality": "1206"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 451,
+    "fields": {
+      "code": "120603",
+      "name": "Santa Rita de Manapire",
+      "municipality": "1206"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 452,
+    "fields": {
+      "code": "120701",
+      "name": "El Sombrero",
+      "municipality": "1207"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 453,
+    "fields": {
+      "code": "120702",
+      "name": "Sosa",
+      "municipality": "1207"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 454,
+    "fields": {
+      "code": "120801",
+      "name": "Calabozo",
+      "municipality": "1208"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 455,
+    "fields": {
+      "code": "120802",
+      "name": "El Calvario",
+      "municipality": "1208"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 456,
+    "fields": {
+      "code": "120803",
+      "name": "El Rastro",
+      "municipality": "1208"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 457,
+    "fields": {
+      "code": "120804",
+      "name": "Guardatinajas",
+      "municipality": "1208"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 458,
+    "fields": {
+      "code": "120901",
+      "name": "Altagracia de Orituco",
+      "municipality": "1209"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 459,
+    "fields": {
+      "code": "120902",
+      "name": "Lezama",
+      "municipality": "1209"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 460,
+    "fields": {
+      "code": "120903",
+      "name": "Libertad de Orituco",
+      "municipality": "1209"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 461,
+    "fields": {
+      "code": "120904",
+      "name": "Paso Real de Macaira",
+      "municipality": "1209"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 462,
+    "fields": {
+      "code": "120905",
+      "name": "San Francisco de Macaira",
+      "municipality": "1209"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 463,
+    "fields": {
+      "code": "120906",
+      "name": "San Rafael de Orituco",
+      "municipality": "1209"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 464,
+    "fields": {
+      "code": "120907",
+      "name": "Soublette",
+      "municipality": "1209"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 465,
+    "fields": {
+      "code": "121001",
+      "name": "Ortiz",
+      "municipality": "1210"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 466,
+    "fields": {
+      "code": "121002",
+      "name": "San Francisco de Tiznados",
+      "municipality": "1210"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 467,
+    "fields": {
+      "code": "121003",
+      "name": "San José de Tiznados",
+      "municipality": "1210"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 468,
+    "fields": {
+      "code": "121004",
+      "name": "San Lorenzo de Tiznados",
+      "municipality": "1210"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 469,
+    "fields": {
+      "code": "121101",
+      "name": "Tucupido",
+      "municipality": "1211"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 470,
+    "fields": {
+      "code": "121102",
+      "name": "San Rafael de Laya",
+      "municipality": "1211"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 471,
+    "fields": {
+      "code": "121201",
+      "name": "San Juan de Los Morros",
+      "municipality": "1212"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 472,
+    "fields": {
+      "code": "121202",
+      "name": "Cantagallo",
+      "municipality": "1212"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 473,
+    "fields": {
+      "code": "121203",
+      "name": "Parapara",
+      "municipality": "1212"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 474,
+    "fields": {
+      "code": "121301",
+      "name": "San José de Guaribe",
+      "municipality": "1213"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 475,
+    "fields": {
+      "code": "121401",
+      "name": "Santa María de Ipire",
+      "municipality": "1214"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 476,
+    "fields": {
+      "code": "121402",
+      "name": "Altamira",
+      "municipality": "1214"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 477,
+    "fields": {
+      "code": "121501",
+      "name": "Zaraza",
+      "municipality": "1215"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 478,
+    "fields": {
+      "code": "121502",
+      "name": "San José de Unare",
+      "municipality": "1215"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 479,
+    "fields": {
+      "code": "130101",
+      "name": "Pío Tamayo",
+      "municipality": "1301"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 480,
+    "fields": {
+      "code": "130102",
+      "name": "Quebrada Honda de Guache",
+      "municipality": "1301"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 481,
+    "fields": {
+      "code": "130103",
+      "name": "Yacambú",
+      "municipality": "1301"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 482,
+    "fields": {
+      "code": "130201",
+      "name": "Fréitez",
+      "municipality": "1302"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 483,
+    "fields": {
+      "code": "130202",
+      "name": "José María Blanco",
+      "municipality": "1302"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 484,
+    "fields": {
+      "code": "130301",
+      "name": "Catedral",
+      "municipality": "1303"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 485,
+    "fields": {
+      "code": "130302",
+      "name": "Concepción",
+      "municipality": "1303"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 486,
+    "fields": {
+      "code": "130303",
+      "name": "El Cují",
+      "municipality": "1303"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 487,
+    "fields": {
+      "code": "130304",
+      "name": "Ana Soto",
+      "municipality": "1303"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 488,
+    "fields": {
+      "code": "130305",
+      "name": "Santa Rosa",
+      "municipality": "1303"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 489,
+    "fields": {
+      "code": "130306",
+      "name": "Tamaca",
+      "municipality": "1303"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 490,
+    "fields": {
+      "code": "130307",
+      "name": "Unión",
+      "municipality": "1303"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 491,
+    "fields": {
+      "code": "130308",
+      "name": "Aguedo Felipe Alvarado",
+      "municipality": "1303"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 492,
+    "fields": {
+      "code": "130309",
+      "name": "Buena Vista",
+      "municipality": "1303"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 493,
+    "fields": {
+      "code": "130310",
+      "name": "Juárez",
+      "municipality": "1303"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 494,
+    "fields": {
+      "code": "130401",
+      "name": "Juan Bautista Rodríguez",
+      "municipality": "1304"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 495,
+    "fields": {
+      "code": "130402",
+      "name": "Cuara",
+      "municipality": "1304"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 496,
+    "fields": {
+      "code": "130403",
+      "name": "Diego de Lozada",
+      "municipality": "1304"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 497,
+    "fields": {
+      "code": "130404",
+      "name": "Paraíso de San José",
+      "municipality": "1304"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 498,
+    "fields": {
+      "code": "130405",
+      "name": "San Miguel",
+      "municipality": "1304"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 499,
+    "fields": {
+      "code": "130406",
+      "name": "Tintorero",
+      "municipality": "1304"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 500,
+    "fields": {
+      "code": "130407",
+      "name": "José Bernardo Dorante",
+      "municipality": "1304"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 501,
+    "fields": {
+      "code": "130408",
+      "name": "Coronel Mariano Peraza",
+      "municipality": "1304"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 502,
+    "fields": {
+      "code": "130501",
+      "name": "Bolívar",
+      "municipality": "1305"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 503,
+    "fields": {
+      "code": "130502",
+      "name": "Anzoátegui",
+      "municipality": "1305"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 504,
+    "fields": {
+      "code": "130503",
+      "name": "Guarico",
+      "municipality": "1305"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 505,
+    "fields": {
+      "code": "130504",
+      "name": "Hilario Luna y Luna",
+      "municipality": "1305"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 506,
+    "fields": {
+      "code": "130505",
+      "name": "Humocaro Alto",
+      "municipality": "1305"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 507,
+    "fields": {
+      "code": "130506",
+      "name": "Humocaro Bajo",
+      "municipality": "1305"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 508,
+    "fields": {
+      "code": "130507",
+      "name": "La Candelaria",
+      "municipality": "1305"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 509,
+    "fields": {
+      "code": "130508",
+      "name": "Morán",
+      "municipality": "1305"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 510,
+    "fields": {
+      "code": "130601",
+      "name": "Cabudare",
+      "municipality": "1306"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 511,
+    "fields": {
+      "code": "130602",
+      "name": "José Gregorio Bastidas",
+      "municipality": "1306"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 512,
+    "fields": {
+      "code": "130603",
+      "name": "Agua Viva",
+      "municipality": "1306"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 513,
+    "fields": {
+      "code": "130701",
+      "name": "Sarare",
+      "municipality": "1307"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 514,
+    "fields": {
+      "code": "130702",
+      "name": "Buría",
+      "municipality": "1307"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 515,
+    "fields": {
+      "code": "130703",
+      "name": "Gustavo Vegas León",
+      "municipality": "1307"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 516,
+    "fields": {
+      "code": "130801",
+      "name": "Trinidad Samuel",
+      "municipality": "1308"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 517,
+    "fields": {
+      "code": "130802",
+      "name": "Antonio Díaz",
+      "municipality": "1308"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 518,
+    "fields": {
+      "code": "130803",
+      "name": "Camacaro",
+      "municipality": "1308"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 519,
+    "fields": {
+      "code": "130804",
+      "name": "Castañeda",
+      "municipality": "1308"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 520,
+    "fields": {
+      "code": "130805",
+      "name": "Cecilio Zubillaga",
+      "municipality": "1308"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 521,
+    "fields": {
+      "code": "130806",
+      "name": "Chiquinquirá",
+      "municipality": "1308"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 522,
+    "fields": {
+      "code": "130807",
+      "name": "El Blanco",
+      "municipality": "1308"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 523,
+    "fields": {
+      "code": "130808",
+      "name": "Espinoza de los Monteros",
+      "municipality": "1308"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 524,
+    "fields": {
+      "code": "130809",
+      "name": "Lara",
+      "municipality": "1308"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 525,
+    "fields": {
+      "code": "130810",
+      "name": "Las Mercedes",
+      "municipality": "1308"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 526,
+    "fields": {
+      "code": "130811",
+      "name": "Manuel Morillo",
+      "municipality": "1308"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 527,
+    "fields": {
+      "code": "130812",
+      "name": "Montaña Verde",
+      "municipality": "1308"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 528,
+    "fields": {
+      "code": "130813",
+      "name": "Montes de Oca",
+      "municipality": "1308"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 529,
+    "fields": {
+      "code": "130814",
+      "name": "Torres",
+      "municipality": "1308"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 530,
+    "fields": {
+      "code": "130815",
+      "name": "Heriberto Arroyo",
+      "municipality": "1308"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 531,
+    "fields": {
+      "code": "130816",
+      "name": "Reyes Vargas",
+      "municipality": "1308"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 532,
+    "fields": {
+      "code": "130817",
+      "name": "Altagracia",
+      "municipality": "1308"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 533,
+    "fields": {
+      "code": "130901",
+      "name": "Siquisique",
+      "municipality": "1309"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 534,
+    "fields": {
+      "code": "130902",
+      "name": "Moroturo",
+      "municipality": "1309"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 535,
+    "fields": {
+      "code": "130903",
+      "name": "San Miguel",
+      "municipality": "1309"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 536,
+    "fields": {
+      "code": "130904",
+      "name": "Xaguas",
+      "municipality": "1309"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 537,
+    "fields": {
+      "code": "140101",
+      "name": "Presidente Betancourt",
+      "municipality": "1401"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 538,
+    "fields": {
+      "code": "140102",
+      "name": "Presidente Páez",
+      "municipality": "1401"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 539,
+    "fields": {
+      "code": "140103",
+      "name": "Presidente Rómulo Gallegos",
+      "municipality": "1401"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 540,
+    "fields": {
+      "code": "140104",
+      "name": "Gabriel Picón González",
+      "municipality": "1401"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 541,
+    "fields": {
+      "code": "140105",
+      "name": "Héctor Amable Mora",
+      "municipality": "1401"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 542,
+    "fields": {
+      "code": "140106",
+      "name": "José Nucete Sardi",
+      "municipality": "1401"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 543,
+    "fields": {
+      "code": "140107",
+      "name": "Pulido Méndez",
+      "municipality": "1401"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 544,
+    "fields": {
+      "code": "140201",
+      "name": "Capital Andrés Bello",
+      "municipality": "1402"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 545,
+    "fields": {
+      "code": "140301",
+      "name": "Capital Antonio Pinto Salinas",
+      "municipality": "1403"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 546,
+    "fields": {
+      "code": "140302",
+      "name": "Mesa Bolívar",
+      "municipality": "1403"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 547,
+    "fields": {
+      "code": "140303",
+      "name": "Mesa de Las Palmas",
+      "municipality": "1403"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 548,
+    "fields": {
+      "code": "140401",
+      "name": "Capital Aricagua",
+      "municipality": "1404"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 549,
+    "fields": {
+      "code": "140402",
+      "name": "San Antonio",
+      "municipality": "1404"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 550,
+    "fields": {
+      "code": "140501",
+      "name": "Capital Arzobispo Chacón",
+      "municipality": "1405"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 551,
+    "fields": {
+      "code": "140502",
+      "name": "Capurí",
+      "municipality": "1405"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 552,
+    "fields": {
+      "code": "140503",
+      "name": "Chacantá",
+      "municipality": "1405"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 553,
+    "fields": {
+      "code": "140504",
+      "name": "El Molino",
+      "municipality": "1405"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 554,
+    "fields": {
+      "code": "140505",
+      "name": "Guaimaral",
+      "municipality": "1405"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 555,
+    "fields": {
+      "code": "140506",
+      "name": "Mucutuy",
+      "municipality": "1405"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 556,
+    "fields": {
+      "code": "140507",
+      "name": "Mucuchachí",
+      "municipality": "1405"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 557,
+    "fields": {
+      "code": "140601",
+      "name": "Fernández Peña",
+      "municipality": "1406"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 558,
+    "fields": {
+      "code": "140602",
+      "name": "Matriz",
+      "municipality": "1406"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 559,
+    "fields": {
+      "code": "140603",
+      "name": "Montalbán",
+      "municipality": "1406"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 560,
+    "fields": {
+      "code": "140604",
+      "name": "Acequias",
+      "municipality": "1406"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 561,
+    "fields": {
+      "code": "140605",
+      "name": "Jají",
+      "municipality": "1406"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 562,
+    "fields": {
+      "code": "140606",
+      "name": "La Mesa",
+      "municipality": "1406"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 563,
+    "fields": {
+      "code": "140607",
+      "name": "San José del Sur",
+      "municipality": "1406"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 564,
+    "fields": {
+      "code": "140701",
+      "name": "Capital Caracciolo Parra Olmedo",
+      "municipality": "1407"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 565,
+    "fields": {
+      "code": "140702",
+      "name": "Florencio Ramírez",
+      "municipality": "1407"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 566,
+    "fields": {
+      "code": "140801",
+      "name": "Capital Cardenal Quintero",
+      "municipality": "1408"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 567,
+    "fields": {
+      "code": "140802",
+      "name": "Las Piedras",
+      "municipality": "1408"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 568,
+    "fields": {
+      "code": "140901",
+      "name": "Capital Guaraque",
+      "municipality": "1409"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 569,
+    "fields": {
+      "code": "140902",
+      "name": "Mesa de Quintero",
+      "municipality": "1409"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 570,
+    "fields": {
+      "code": "140903",
+      "name": "Río Negro",
+      "municipality": "1409"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 571,
+    "fields": {
+      "code": "141001",
+      "name": "Capital Julio César Salas",
+      "municipality": "1410"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 572,
+    "fields": {
+      "code": "141002",
+      "name": "Palmira",
+      "municipality": "1410"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 573,
+    "fields": {
+      "code": "141101",
+      "name": "Capital Justo Briceño",
+      "municipality": "1411"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 574,
+    "fields": {
+      "code": "141102",
+      "name": "San Cristóbal de Torondoy",
+      "municipality": "1411"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 575,
+    "fields": {
+      "code": "141201",
+      "name": "Antonio Spinetti Dini",
+      "municipality": "1412"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 576,
+    "fields": {
+      "code": "141202",
+      "name": "Arias",
+      "municipality": "1412"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 577,
+    "fields": {
+      "code": "141203",
+      "name": "Caracciolo Parra Pérez",
+      "municipality": "1412"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 578,
+    "fields": {
+      "code": "141204",
+      "name": "Domingo Peña",
+      "municipality": "1412"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 579,
+    "fields": {
+      "code": "141205",
+      "name": "El Llano",
+      "municipality": "1412"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 580,
+    "fields": {
+      "code": "141206",
+      "name": "Gonzalo Picón Febres",
+      "municipality": "1412"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 581,
+    "fields": {
+      "code": "141207",
+      "name": "Jacinto Plaza",
+      "municipality": "1412"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 582,
+    "fields": {
+      "code": "141208",
+      "name": "Juan Rodríguez Suárez",
+      "municipality": "1412"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 583,
+    "fields": {
+      "code": "141209",
+      "name": "Lasso de la Vega",
+      "municipality": "1412"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 584,
+    "fields": {
+      "code": "141210",
+      "name": "Mariano Picón Salas",
+      "municipality": "1412"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 585,
+    "fields": {
+      "code": "141211",
+      "name": "Milla",
+      "municipality": "1412"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 586,
+    "fields": {
+      "code": "141212",
+      "name": "Osuna Rodríguez",
+      "municipality": "1412"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 587,
+    "fields": {
+      "code": "141213",
+      "name": "Sagrario",
+      "municipality": "1412"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 588,
+    "fields": {
+      "code": "141214",
+      "name": "El Morro",
+      "municipality": "1412"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 589,
+    "fields": {
+      "code": "141215",
+      "name": "Los Nevados",
+      "municipality": "1412"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 590,
+    "fields": {
+      "code": "141301",
+      "name": "Capital Miranda",
+      "municipality": "1413"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 591,
+    "fields": {
+      "code": "141302",
+      "name": "Andrés Eloy Blanco",
+      "municipality": "1413"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 592,
+    "fields": {
+      "code": "141303",
+      "name": "La Venta",
+      "municipality": "1413"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 593,
+    "fields": {
+      "code": "141304",
+      "name": "Piñango",
+      "municipality": "1413"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 594,
+    "fields": {
+      "code": "141401",
+      "name": "Capital Obispo Ramos de Lora",
+      "municipality": "1414"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 595,
+    "fields": {
+      "code": "141402",
+      "name": "Eloy Paredes",
+      "municipality": "1414"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 596,
+    "fields": {
+      "code": "141403",
+      "name": "San Rafael de Alcázar",
+      "municipality": "1414"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 597,
+    "fields": {
+      "code": "141501",
+      "name": "Capital Padre Noguera",
+      "municipality": "1415"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 598,
+    "fields": {
+      "code": "141601",
+      "name": "Capital Pueblo Llano",
+      "municipality": "1416"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 599,
+    "fields": {
+      "code": "141701",
+      "name": "Capital Rangel",
+      "municipality": "1417"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 600,
+    "fields": {
+      "code": "141702",
+      "name": "Cacute",
+      "municipality": "1417"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 601,
+    "fields": {
+      "code": "141703",
+      "name": "La Toma",
+      "municipality": "1417"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 602,
+    "fields": {
+      "code": "141704",
+      "name": "Mucurubá",
+      "municipality": "1417"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 603,
+    "fields": {
+      "code": "141705",
+      "name": "San Rafael",
+      "municipality": "1417"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 604,
+    "fields": {
+      "code": "141801",
+      "name": "Capital Rivas Dávila",
+      "municipality": "1418"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 605,
+    "fields": {
+      "code": "141802",
+      "name": "Gerónimo Maldonado",
+      "municipality": "1418"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 606,
+    "fields": {
+      "code": "141901",
+      "name": "Capital Santos Marquina",
+      "municipality": "1419"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 607,
+    "fields": {
+      "code": "142001",
+      "name": "Capital Sucre",
+      "municipality": "1420"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 608,
+    "fields": {
+      "code": "142002",
+      "name": "Chiguará",
+      "municipality": "1420"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 609,
+    "fields": {
+      "code": "142003",
+      "name": "Estánquez",
+      "municipality": "1420"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 610,
+    "fields": {
+      "code": "142004",
+      "name": "La Trampa",
+      "municipality": "1420"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 611,
+    "fields": {
+      "code": "142005",
+      "name": "Pueblo Nuevo del Sur",
+      "municipality": "1420"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 612,
+    "fields": {
+      "code": "142006",
+      "name": "San Juan",
+      "municipality": "1420"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 613,
+    "fields": {
+      "code": "142101",
+      "name": "El Amparo",
+      "municipality": "1421"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 614,
+    "fields": {
+      "code": "142102",
+      "name": "El Llano",
+      "municipality": "1421"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 615,
+    "fields": {
+      "code": "142103",
+      "name": "San Francisco",
+      "municipality": "1421"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 616,
+    "fields": {
+      "code": "142104",
+      "name": "Tovar",
+      "municipality": "1421"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 617,
+    "fields": {
+      "code": "142201",
+      "name": "Capital Tulio Febres Cordero",
+      "municipality": "1422"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 618,
+    "fields": {
+      "code": "142202",
+      "name": "Independencia",
+      "municipality": "1422"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 619,
+    "fields": {
+      "code": "142203",
+      "name": "María de la Concepción Palacios Blanco",
+      "municipality": "1422"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 620,
+    "fields": {
+      "code": "142204",
+      "name": "Santa Apolonia",
+      "municipality": "1422"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 621,
+    "fields": {
+      "code": "142301",
+      "name": "Capital Zea",
+      "municipality": "1423"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 622,
+    "fields": {
+      "code": "142302",
+      "name": "Caño El Tigre",
+      "municipality": "1423"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 623,
+    "fields": {
+      "code": "150101",
+      "name": "Caucagua",
+      "municipality": "1501"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 624,
+    "fields": {
+      "code": "150102",
+      "name": "Aragüita",
+      "municipality": "1501"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 625,
+    "fields": {
+      "code": "150103",
+      "name": "Arévalo González",
+      "municipality": "1501"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 626,
+    "fields": {
+      "code": "150104",
+      "name": "Capaya",
+      "municipality": "1501"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 627,
+    "fields": {
+      "code": "150105",
+      "name": "El Café",
+      "municipality": "1501"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 628,
+    "fields": {
+      "code": "150106",
+      "name": "Marizapa",
+      "municipality": "1501"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 629,
+    "fields": {
+      "code": "150107",
+      "name": "Panaquire",
+      "municipality": "1501"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 630,
+    "fields": {
+      "code": "150108",
+      "name": "Ribas",
+      "municipality": "1501"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 631,
+    "fields": {
+      "code": "150201",
+      "name": "San José de Barlovento",
+      "municipality": "1502"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 632,
+    "fields": {
+      "code": "150202",
+      "name": "Cumbo",
+      "municipality": "1502"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 633,
+    "fields": {
+      "code": "150301",
+      "name": "Baruta",
+      "municipality": "1503"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 634,
+    "fields": {
+      "code": "150302",
+      "name": "El Cafetal",
+      "municipality": "1503"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 635,
+    "fields": {
+      "code": "150303",
+      "name": "Las Minas de Baruta",
+      "municipality": "1503"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 636,
+    "fields": {
+      "code": "150401",
+      "name": "Higuerote",
+      "municipality": "1504"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 637,
+    "fields": {
+      "code": "150402",
+      "name": "Curiepe",
+      "municipality": "1504"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 638,
+    "fields": {
+      "code": "150403",
+      "name": "Tacarigua",
+      "municipality": "1504"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 639,
+    "fields": {
+      "code": "150501",
+      "name": "Mamporal",
+      "municipality": "1505"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 640,
+    "fields": {
+      "code": "150601",
+      "name": "Carrizal",
+      "municipality": "1506"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 641,
+    "fields": {
+      "code": "150701",
+      "name": "Chacao",
+      "municipality": "1507"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 642,
+    "fields": {
+      "code": "150801",
+      "name": "Charallave",
+      "municipality": "1508"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 643,
+    "fields": {
+      "code": "150802",
+      "name": "Las Brisas",
+      "municipality": "1508"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 644,
+    "fields": {
+      "code": "150901",
+      "name": "El Hatillo",
+      "municipality": "1509"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 645,
+    "fields": {
+      "code": "151001",
+      "name": "Los Teques",
+      "municipality": "1510"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 646,
+    "fields": {
+      "code": "151002",
+      "name": "Altagracia de La Montaña",
+      "municipality": "1510"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 647,
+    "fields": {
+      "code": "151003",
+      "name": "Cecilio Acosta",
+      "municipality": "1510"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 648,
+    "fields": {
+      "code": "151004",
+      "name": "El Jarillo",
+      "municipality": "1510"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 649,
+    "fields": {
+      "code": "151005",
+      "name": "Paracotos",
+      "municipality": "1510"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 650,
+    "fields": {
+      "code": "151006",
+      "name": "San Pedro",
+      "municipality": "1510"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 651,
+    "fields": {
+      "code": "151007",
+      "name": "Tácata",
+      "municipality": "1510"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 652,
+    "fields": {
+      "code": "151101",
+      "name": "Santa Teresa del Tuy",
+      "municipality": "1511"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 653,
+    "fields": {
+      "code": "151102",
+      "name": "El Cartanal",
+      "municipality": "1511"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 654,
+    "fields": {
+      "code": "151201",
+      "name": "Ocumare del Tuy",
+      "municipality": "1512"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 655,
+    "fields": {
+      "code": "151202",
+      "name": "La Democracia",
+      "municipality": "1512"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 656,
+    "fields": {
+      "code": "151203",
+      "name": "Santa Bárbara",
+      "municipality": "1512"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 657,
+    "fields": {
+      "code": "151301",
+      "name": "San Antonio de Los Altos",
+      "municipality": "1513"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 658,
+    "fields": {
+      "code": "151401",
+      "name": "Río Chico",
+      "municipality": "1514"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 659,
+    "fields": {
+      "code": "151402",
+      "name": "El Guapo",
+      "municipality": "1514"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 660,
+    "fields": {
+      "code": "151403",
+      "name": "Tacarigua de La Laguna",
+      "municipality": "1514"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 661,
+    "fields": {
+      "code": "151404",
+      "name": "Paparo",
+      "municipality": "1514"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 662,
+    "fields": {
+      "code": "151405",
+      "name": "San Fernando del Guapo",
+      "municipality": "1514"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 663,
+    "fields": {
+      "code": "151501",
+      "name": "Santa Lucía",
+      "municipality": "1515"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 664,
+    "fields": {
+      "code": "151601",
+      "name": "Cúpira",
+      "municipality": "1516"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 665,
+    "fields": {
+      "code": "151602",
+      "name": "Machurucuto",
+      "municipality": "1516"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 666,
+    "fields": {
+      "code": "151701",
+      "name": "Guarenas",
+      "municipality": "1517"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 667,
+    "fields": {
+      "code": "151801",
+      "name": "San Francisco de Yare",
+      "municipality": "1518"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 668,
+    "fields": {
+      "code": "151802",
+      "name": "San Antonio de Yare",
+      "municipality": "1518"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 669,
+    "fields": {
+      "code": "151901",
+      "name": "Petare",
+      "municipality": "1519"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 670,
+    "fields": {
+      "code": "151902",
+      "name": "Caucagüita",
+      "municipality": "1519"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 671,
+    "fields": {
+      "code": "151903",
+      "name": "Fila de Mariches",
+      "municipality": "1519"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 672,
+    "fields": {
+      "code": "151904",
+      "name": "La Dolorita",
+      "municipality": "1519"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 673,
+    "fields": {
+      "code": "151905",
+      "name": "Leoncio Martínez",
+      "municipality": "1519"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 674,
+    "fields": {
+      "code": "152001",
+      "name": "Cúa",
+      "municipality": "1520"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 675,
+    "fields": {
+      "code": "152002",
+      "name": "Nueva Cúa",
+      "municipality": "1520"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 676,
+    "fields": {
+      "code": "152101",
+      "name": "Guatire",
+      "municipality": "1521"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 677,
+    "fields": {
+      "code": "152102",
+      "name": "Bolívar",
+      "municipality": "1521"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 678,
+    "fields": {
+      "code": "160101",
+      "name": "Capital Acosta",
+      "municipality": "1601"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 679,
+    "fields": {
+      "code": "160102",
+      "name": "San Francisco",
+      "municipality": "1601"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 680,
+    "fields": {
+      "code": "160201",
+      "name": "Capital Aguasay",
+      "municipality": "1602"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 681,
+    "fields": {
+      "code": "160301",
+      "name": "Capital Bolívar",
+      "municipality": "1603"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 682,
+    "fields": {
+      "code": "160401",
+      "name": "Capital Caripe",
+      "municipality": "1604"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 683,
+    "fields": {
+      "code": "160402",
+      "name": "El Guácharo",
+      "municipality": "1604"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 684,
+    "fields": {
+      "code": "160403",
+      "name": "La Guanota",
+      "municipality": "1604"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 685,
+    "fields": {
+      "code": "160404",
+      "name": "Sabana de Piedra",
+      "municipality": "1604"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 686,
+    "fields": {
+      "code": "160405",
+      "name": "San Agustín",
+      "municipality": "1604"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 687,
+    "fields": {
+      "code": "160406",
+      "name": "Teresén",
+      "municipality": "1604"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 688,
+    "fields": {
+      "code": "160501",
+      "name": "Capital Cedeño",
+      "municipality": "1605"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 689,
+    "fields": {
+      "code": "160502",
+      "name": "Areo",
+      "municipality": "1605"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 690,
+    "fields": {
+      "code": "160503",
+      "name": "San Félix",
+      "municipality": "1605"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 691,
+    "fields": {
+      "code": "160504",
+      "name": "Viento Fresco",
+      "municipality": "1605"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 692,
+    "fields": {
+      "code": "160601",
+      "name": "Capital Ezequiel Zamora",
+      "municipality": "1606"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 693,
+    "fields": {
+      "code": "160602",
+      "name": "El Tejero",
+      "municipality": "1606"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 694,
+    "fields": {
+      "code": "160701",
+      "name": "Capital Libertador",
+      "municipality": "1607"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 695,
+    "fields": {
+      "code": "160702",
+      "name": "Chaguaramas",
+      "municipality": "1607"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 696,
+    "fields": {
+      "code": "160703",
+      "name": "Las Alhuacas",
+      "municipality": "1607"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 697,
+    "fields": {
+      "code": "160704",
+      "name": "Tabasca",
+      "municipality": "1607"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 698,
+    "fields": {
+      "code": "160801",
+      "name": "Capital Maturín",
+      "municipality": "1608"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 699,
+    "fields": {
+      "code": "160802",
+      "name": "Alto de los Godos",
+      "municipality": "1608"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 700,
+    "fields": {
+      "code": "160803",
+      "name": "Boquerón",
+      "municipality": "1608"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 701,
+    "fields": {
+      "code": "160804",
+      "name": "Las Cocuizas",
+      "municipality": "1608"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 702,
+    "fields": {
+      "code": "160805",
+      "name": "San Simón",
+      "municipality": "1608"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 703,
+    "fields": {
+      "code": "160806",
+      "name": "Santa Cruz",
+      "municipality": "1608"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 704,
+    "fields": {
+      "code": "160807",
+      "name": "El Corozo",
+      "municipality": "1608"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 705,
+    "fields": {
+      "code": "160808",
+      "name": "El Furrial",
+      "municipality": "1608"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 706,
+    "fields": {
+      "code": "160809",
+      "name": "Jusepín",
+      "municipality": "1608"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 707,
+    "fields": {
+      "code": "160810",
+      "name": "La Pica",
+      "municipality": "1608"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 708,
+    "fields": {
+      "code": "160811",
+      "name": "San Vicente",
+      "municipality": "1608"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 709,
+    "fields": {
+      "code": "160901",
+      "name": "Capital Piar",
+      "municipality": "1609"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 710,
+    "fields": {
+      "code": "160902",
+      "name": "Aparicio",
+      "municipality": "1609"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 711,
+    "fields": {
+      "code": "160903",
+      "name": "Chaguaramal",
+      "municipality": "1609"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 712,
+    "fields": {
+      "code": "160904",
+      "name": "El Pinto",
+      "municipality": "1609"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 713,
+    "fields": {
+      "code": "160905",
+      "name": "Guanaguana",
+      "municipality": "1609"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 714,
+    "fields": {
+      "code": "160906",
+      "name": "La Toscana",
+      "municipality": "1609"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 715,
+    "fields": {
+      "code": "160907",
+      "name": "Taguaya",
+      "municipality": "1609"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 716,
+    "fields": {
+      "code": "161001",
+      "name": "Capital Punceres",
+      "municipality": "1610"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 717,
+    "fields": {
+      "code": "161002",
+      "name": "Cachipo",
+      "municipality": "1610"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 718,
+    "fields": {
+      "code": "161101",
+      "name": "Capital Santa Bárbara",
+      "municipality": "1611"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 719,
+    "fields": {
+      "code": "161201",
+      "name": "Capital Sotillo",
+      "municipality": "1612"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 720,
+    "fields": {
+      "code": "161202",
+      "name": "Los Barrancos de Fajardo",
+      "municipality": "1612"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 721,
+    "fields": {
+      "code": "161301",
+      "name": "Capital Uracoa",
+      "municipality": "1613"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 722,
+    "fields": {
+      "code": "170101",
+      "name": "Capital Antolín del Campo",
+      "municipality": "1701"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 723,
+    "fields": {
+      "code": "170201",
+      "name": "Capital Arismendi",
+      "municipality": "1702"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 724,
+    "fields": {
+      "code": "170301",
+      "name": "Capital Díaz",
+      "municipality": "1703"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 725,
+    "fields": {
+      "code": "170302",
+      "name": "Zabala",
+      "municipality": "1703"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 726,
+    "fields": {
+      "code": "170401",
+      "name": "Capital García",
+      "municipality": "1704"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 727,
+    "fields": {
+      "code": "170402",
+      "name": "Francisco Fajardo",
+      "municipality": "1704"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 728,
+    "fields": {
+      "code": "170501",
+      "name": "Capital Gómez",
+      "municipality": "1705"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 729,
+    "fields": {
+      "code": "170502",
+      "name": "Bolívar",
+      "municipality": "1705"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 730,
+    "fields": {
+      "code": "170503",
+      "name": "Guevara",
+      "municipality": "1705"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 731,
+    "fields": {
+      "code": "170504",
+      "name": "Matasiete",
+      "municipality": "1705"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 732,
+    "fields": {
+      "code": "170505",
+      "name": "Sucre",
+      "municipality": "1705"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 733,
+    "fields": {
+      "code": "170601",
+      "name": "Capital Maneiro",
+      "municipality": "1706"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 734,
+    "fields": {
+      "code": "170602",
+      "name": "Aguirre",
+      "municipality": "1706"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 735,
+    "fields": {
+      "code": "170701",
+      "name": "Capital Marcano",
+      "municipality": "1707"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 736,
+    "fields": {
+      "code": "170702",
+      "name": "Adrián",
+      "municipality": "1707"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 737,
+    "fields": {
+      "code": "170801",
+      "name": "Capital Mariño",
+      "municipality": "1708"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 738,
+    "fields": {
+      "code": "170901",
+      "name": "Capital Península de Macanao",
+      "municipality": "1709"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 739,
+    "fields": {
+      "code": "170902",
+      "name": "San Francisco",
+      "municipality": "1709"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 740,
+    "fields": {
+      "code": "171001",
+      "name": "Capital Tubores",
+      "municipality": "1710"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 741,
+    "fields": {
+      "code": "171002",
+      "name": "Los Barales",
+      "municipality": "1710"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 742,
+    "fields": {
+      "code": "171101",
+      "name": "Capital Villalba",
+      "municipality": "1711"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 743,
+    "fields": {
+      "code": "171102",
+      "name": "Vicente Fuentes",
+      "municipality": "1711"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 744,
+    "fields": {
+      "code": "180101",
+      "name": "Capital Agua Blanca",
+      "municipality": "1801"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 745,
+    "fields": {
+      "code": "180201",
+      "name": "Capital Araure",
+      "municipality": "1802"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 746,
+    "fields": {
+      "code": "180202",
+      "name": "Río Acarigua",
+      "municipality": "1802"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 747,
+    "fields": {
+      "code": "180301",
+      "name": "Capital Esteller",
+      "municipality": "1803"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 748,
+    "fields": {
+      "code": "180302",
+      "name": "Uveral",
+      "municipality": "1803"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 749,
+    "fields": {
+      "code": "180401",
+      "name": "Capital Guanare",
+      "municipality": "1804"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 750,
+    "fields": {
+      "code": "180402",
+      "name": "Córdoba",
+      "municipality": "1804"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 751,
+    "fields": {
+      "code": "180403",
+      "name": "San José de la Montaña",
+      "municipality": "1804"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 752,
+    "fields": {
+      "code": "180404",
+      "name": "San Juan de Guanaguanare",
+      "municipality": "1804"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 753,
+    "fields": {
+      "code": "180405",
+      "name": "Virgen de la Coromoto",
+      "municipality": "1804"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 754,
+    "fields": {
+      "code": "180501",
+      "name": "Capital Guanarito",
+      "municipality": "1805"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 755,
+    "fields": {
+      "code": "180502",
+      "name": "Trinidad de la Capilla",
+      "municipality": "1805"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 756,
+    "fields": {
+      "code": "180503",
+      "name": "Divina Pastora",
+      "municipality": "1805"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 757,
+    "fields": {
+      "code": "180601",
+      "name": "Capital Monseñor José Vicente de Unda",
+      "municipality": "1806"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 758,
+    "fields": {
+      "code": "180602",
+      "name": "Peña Blanca",
+      "municipality": "1806"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 759,
+    "fields": {
+      "code": "180701",
+      "name": "Capital Ospino",
+      "municipality": "1807"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 760,
+    "fields": {
+      "code": "180702",
+      "name": "Aparición",
+      "municipality": "1807"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 761,
+    "fields": {
+      "code": "180703",
+      "name": "La Estación",
+      "municipality": "1807"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 762,
+    "fields": {
+      "code": "180801",
+      "name": "Capital Páez",
+      "municipality": "1808"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 763,
+    "fields": {
+      "code": "180802",
+      "name": "Payara",
+      "municipality": "1808"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 764,
+    "fields": {
+      "code": "180803",
+      "name": "Pimpinela",
+      "municipality": "1808"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 765,
+    "fields": {
+      "code": "180804",
+      "name": "Ramón Peraza",
+      "municipality": "1808"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 766,
+    "fields": {
+      "code": "180901",
+      "name": "Capital Papelón",
+      "municipality": "1809"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 767,
+    "fields": {
+      "code": "180902",
+      "name": "Caño Delgadito",
+      "municipality": "1809"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 768,
+    "fields": {
+      "code": "181001",
+      "name": "Capital San Genaro de Boconoito",
+      "municipality": "1810"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 769,
+    "fields": {
+      "code": "181002",
+      "name": "Antolín Tovar",
+      "municipality": "1810"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 770,
+    "fields": {
+      "code": "181101",
+      "name": "Capital San Rafael de Onoto",
+      "municipality": "1811"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 771,
+    "fields": {
+      "code": "181102",
+      "name": "Santa Fe",
+      "municipality": "1811"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 772,
+    "fields": {
+      "code": "181103",
+      "name": "Thermo Morles",
+      "municipality": "1811"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 773,
+    "fields": {
+      "code": "181201",
+      "name": "Capital Santa Rosalía",
+      "municipality": "1812"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 774,
+    "fields": {
+      "code": "181202",
+      "name": "Florida",
+      "municipality": "1812"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 775,
+    "fields": {
+      "code": "181301",
+      "name": "Capital Sucre",
+      "municipality": "1813"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 776,
+    "fields": {
+      "code": "181302",
+      "name": "Concepción",
+      "municipality": "1813"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 777,
+    "fields": {
+      "code": "181303",
+      "name": "San Rafael de Palo Alzado",
+      "municipality": "1813"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 778,
+    "fields": {
+      "code": "181304",
+      "name": "Uvencio Antonio Velásquez",
+      "municipality": "1813"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 779,
+    "fields": {
+      "code": "181305",
+      "name": "San José de Saguaz",
+      "municipality": "1813"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 780,
+    "fields": {
+      "code": "181306",
+      "name": "Villa Rosa",
+      "municipality": "1813"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 781,
+    "fields": {
+      "code": "181401",
+      "name": "Capital Turén",
+      "municipality": "1814"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 782,
+    "fields": {
+      "code": "181402",
+      "name": "Canelones",
+      "municipality": "1814"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 783,
+    "fields": {
+      "code": "181403",
+      "name": "Santa Cruz",
+      "municipality": "1814"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 784,
+    "fields": {
+      "code": "181404",
+      "name": "San Isidro Labrador",
+      "municipality": "1814"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 785,
+    "fields": {
+      "code": "190101",
+      "name": "Mariño",
+      "municipality": "1901"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 786,
+    "fields": {
+      "code": "190102",
+      "name": "Rómulo Gallegos",
+      "municipality": "1901"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 787,
+    "fields": {
+      "code": "190201",
+      "name": "San José de Aerocuar",
+      "municipality": "1902"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 788,
+    "fields": {
+      "code": "190202",
+      "name": "Tavera Acosta",
+      "municipality": "1902"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 789,
+    "fields": {
+      "code": "190301",
+      "name": "Río Caribe",
+      "municipality": "1903"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 790,
+    "fields": {
+      "code": "190302",
+      "name": "Antonio José de Sucre",
+      "municipality": "1903"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 791,
+    "fields": {
+      "code": "190303",
+      "name": "El Morro de Puerto Santo",
+      "municipality": "1903"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 792,
+    "fields": {
+      "code": "190304",
+      "name": "Puerto Santo",
+      "municipality": "1903"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 793,
+    "fields": {
+      "code": "190305",
+      "name": "San Juan de Las Galdonas",
+      "municipality": "1903"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 794,
+    "fields": {
+      "code": "190401",
+      "name": "El Pilar",
+      "municipality": "1904"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 795,
+    "fields": {
+      "code": "190402",
+      "name": "El Rincón",
+      "municipality": "1904"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 796,
+    "fields": {
+      "code": "190403",
+      "name": "General Francisco Antonio Vásquez",
+      "municipality": "1904"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 797,
+    "fields": {
+      "code": "190404",
+      "name": "Guaraúnos",
+      "municipality": "1904"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 798,
+    "fields": {
+      "code": "190405",
+      "name": "Tunapuicito",
+      "municipality": "1904"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 799,
+    "fields": {
+      "code": "190406",
+      "name": "Unión",
+      "municipality": "1904"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 800,
+    "fields": {
+      "code": "190501",
+      "name": "Bolívar",
+      "municipality": "1905"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 801,
+    "fields": {
+      "code": "190502",
+      "name": "Macarapana",
+      "municipality": "1905"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 802,
+    "fields": {
+      "code": "190503",
+      "name": "Santa Catalina",
+      "municipality": "1905"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 803,
+    "fields": {
+      "code": "190504",
+      "name": "Santa Rosa",
+      "municipality": "1905"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 804,
+    "fields": {
+      "code": "190505",
+      "name": "Santa Teresa",
+      "municipality": "1905"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 805,
+    "fields": {
+      "code": "190601",
+      "name": "Capital Bolívar",
+      "municipality": "1906"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 806,
+    "fields": {
+      "code": "190701",
+      "name": "Yaguaraparo",
+      "municipality": "1907"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 807,
+    "fields": {
+      "code": "190702",
+      "name": "El Paujil",
+      "municipality": "1907"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 808,
+    "fields": {
+      "code": "190703",
+      "name": "Libertad",
+      "municipality": "1907"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 809,
+    "fields": {
+      "code": "190801",
+      "name": "Araya",
+      "municipality": "1908"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 810,
+    "fields": {
+      "code": "190802",
+      "name": "Chacopata",
+      "municipality": "1908"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 811,
+    "fields": {
+      "code": "190803",
+      "name": "Manicuare",
+      "municipality": "1908"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 812,
+    "fields": {
+      "code": "190901",
+      "name": "Tunapuy",
+      "municipality": "1909"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 813,
+    "fields": {
+      "code": "190902",
+      "name": "Campo Elías",
+      "municipality": "1909"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 814,
+    "fields": {
+      "code": "191001",
+      "name": "Irapa",
+      "municipality": "1910"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 815,
+    "fields": {
+      "code": "191002",
+      "name": "Campo Claro",
+      "municipality": "1910"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 816,
+    "fields": {
+      "code": "191003",
+      "name": "Marabal",
+      "municipality": "1910"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 817,
+    "fields": {
+      "code": "191004",
+      "name": "San Antonio de Irapa",
+      "municipality": "1910"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 818,
+    "fields": {
+      "code": "191005",
+      "name": "Soro",
+      "municipality": "1910"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 819,
+    "fields": {
+      "code": "191101",
+      "name": "Capital Mejía",
+      "municipality": "1911"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 820,
+    "fields": {
+      "code": "191201",
+      "name": "Cumanacoa",
+      "municipality": "1912"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 821,
+    "fields": {
+      "code": "191202",
+      "name": "Arenas",
+      "municipality": "1912"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 822,
+    "fields": {
+      "code": "191203",
+      "name": "Aricagua",
+      "municipality": "1912"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 823,
+    "fields": {
+      "code": "191204",
+      "name": "Cocollar",
+      "municipality": "1912"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 824,
+    "fields": {
+      "code": "191205",
+      "name": "San Fernando",
+      "municipality": "1912"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 825,
+    "fields": {
+      "code": "191206",
+      "name": "San Lorenzo",
+      "municipality": "1912"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 826,
+    "fields": {
+      "code": "191301",
+      "name": "Cariaco",
+      "municipality": "1913"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 827,
+    "fields": {
+      "code": "191302",
+      "name": "Catuaro",
+      "municipality": "1913"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 828,
+    "fields": {
+      "code": "191303",
+      "name": "Rendón",
+      "municipality": "1913"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 829,
+    "fields": {
+      "code": "191304",
+      "name": "Santa Cruz",
+      "municipality": "1913"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 830,
+    "fields": {
+      "code": "191305",
+      "name": "Santa María",
+      "municipality": "1913"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 831,
+    "fields": {
+      "code": "191401",
+      "name": "Altagracia",
+      "municipality": "1914"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 832,
+    "fields": {
+      "code": "191402",
+      "name": "Ayacucho",
+      "municipality": "1914"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 833,
+    "fields": {
+      "code": "191403",
+      "name": "Santa Inés",
+      "municipality": "1914"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 834,
+    "fields": {
+      "code": "191404",
+      "name": "Valentín Valiente",
+      "municipality": "1914"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 835,
+    "fields": {
+      "code": "191405",
+      "name": "San Juan",
+      "municipality": "1914"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 836,
+    "fields": {
+      "code": "191406",
+      "name": "Raúl Leoni",
+      "municipality": "1914"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 837,
+    "fields": {
+      "code": "191407",
+      "name": "Santa Fe",
+      "municipality": "1914"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 838,
+    "fields": {
+      "code": "191501",
+      "name": "Güiria",
+      "municipality": "1915"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 839,
+    "fields": {
+      "code": "191502",
+      "name": "Bideau",
+      "municipality": "1915"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 840,
+    "fields": {
+      "code": "191503",
+      "name": "Cristóbal Colón",
+      "municipality": "1915"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 841,
+    "fields": {
+      "code": "191504",
+      "name": "Punta de Piedras",
+      "municipality": "1915"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 842,
+    "fields": {
+      "code": "200101",
+      "name": "Capital Andrés Bello",
+      "municipality": "2001"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 843,
+    "fields": {
+      "code": "200201",
+      "name": "Capital Antonio Rómulo Costa",
+      "municipality": "2002"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 844,
+    "fields": {
+      "code": "200301",
+      "name": "Capital Ayacucho",
+      "municipality": "2003"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 845,
+    "fields": {
+      "code": "200302",
+      "name": "Rivas Berti",
+      "municipality": "2003"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 846,
+    "fields": {
+      "code": "200303",
+      "name": "San Pedro del Río",
+      "municipality": "2003"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 847,
+    "fields": {
+      "code": "200401",
+      "name": "Capital Bolívar",
+      "municipality": "2004"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 848,
+    "fields": {
+      "code": "200402",
+      "name": "Palotal",
+      "municipality": "2004"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 849,
+    "fields": {
+      "code": "200403",
+      "name": "Juan Vicente Gómez",
+      "municipality": "2004"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 850,
+    "fields": {
+      "code": "200404",
+      "name": "Isaías Medina Angarita",
+      "municipality": "2004"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 851,
+    "fields": {
+      "code": "200501",
+      "name": "Capital Cárdenas",
+      "municipality": "2005"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 852,
+    "fields": {
+      "code": "200502",
+      "name": "Amenodoro Rangel Lamús",
+      "municipality": "2005"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 853,
+    "fields": {
+      "code": "200503",
+      "name": "La Florida",
+      "municipality": "2005"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 854,
+    "fields": {
+      "code": "200601",
+      "name": "Capital Córdoba",
+      "municipality": "2006"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 855,
+    "fields": {
+      "code": "200701",
+      "name": "Capital Fernández Feo",
+      "municipality": "2007"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 856,
+    "fields": {
+      "code": "200702",
+      "name": "Alberto Adriani",
+      "municipality": "2007"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 857,
+    "fields": {
+      "code": "200703",
+      "name": "Santo Domingo",
+      "municipality": "2007"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 858,
+    "fields": {
+      "code": "200801",
+      "name": "Capital Francisco de Miranda",
+      "municipality": "2008"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 859,
+    "fields": {
+      "code": "200901",
+      "name": "Capital García de Hevia",
+      "municipality": "2009"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 860,
+    "fields": {
+      "code": "200902",
+      "name": "Boca de Grita",
+      "municipality": "2009"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 861,
+    "fields": {
+      "code": "200903",
+      "name": "José Antonio Páez",
+      "municipality": "2009"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 862,
+    "fields": {
+      "code": "201001",
+      "name": "Capital Guásimos",
+      "municipality": "2010"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 863,
+    "fields": {
+      "code": "201101",
+      "name": "Capital Independencia",
+      "municipality": "2011"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 864,
+    "fields": {
+      "code": "201102",
+      "name": "Juan Germán Roscio",
+      "municipality": "2011"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 865,
+    "fields": {
+      "code": "201103",
+      "name": "Román Cárdenas",
+      "municipality": "2011"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 866,
+    "fields": {
+      "code": "201201",
+      "name": "Capital Jáuregui",
+      "municipality": "2012"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 867,
+    "fields": {
+      "code": "201202",
+      "name": "Emilio Constantino Guerrero",
+      "municipality": "2012"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 868,
+    "fields": {
+      "code": "201203",
+      "name": "Monseñor Miguel Antonio Salas",
+      "municipality": "2012"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 869,
+    "fields": {
+      "code": "201301",
+      "name": "Capital José María Vargas",
+      "municipality": "2013"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 870,
+    "fields": {
+      "code": "201401",
+      "name": "Capital Junín",
+      "municipality": "2014"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 871,
+    "fields": {
+      "code": "201402",
+      "name": "La Petrólea",
+      "municipality": "2014"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 872,
+    "fields": {
+      "code": "201403",
+      "name": "Quinimarí",
+      "municipality": "2014"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 873,
+    "fields": {
+      "code": "201404",
+      "name": "Bramón",
+      "municipality": "2014"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 874,
+    "fields": {
+      "code": "201501",
+      "name": "Capital Libertad",
+      "municipality": "2015"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 875,
+    "fields": {
+      "code": "201502",
+      "name": "Cipriano Castro",
+      "municipality": "2015"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 876,
+    "fields": {
+      "code": "201503",
+      "name": "Manuel Felipe Rugeles",
+      "municipality": "2015"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 877,
+    "fields": {
+      "code": "201601",
+      "name": "Capital Libertador",
+      "municipality": "2016"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 878,
+    "fields": {
+      "code": "201602",
+      "name": "Emeterio Ochoa",
+      "municipality": "2016"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 879,
+    "fields": {
+      "code": "201603",
+      "name": "Doradas",
+      "municipality": "2016"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 880,
+    "fields": {
+      "code": "201604",
+      "name": "San Joaquín de Navay",
+      "municipality": "2016"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 881,
+    "fields": {
+      "code": "201701",
+      "name": "Capital Lobatera",
+      "municipality": "2017"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 882,
+    "fields": {
+      "code": "201702",
+      "name": "Constitución",
+      "municipality": "2017"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 883,
+    "fields": {
+      "code": "201801",
+      "name": "Capital Michelena",
+      "municipality": "2018"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 884,
+    "fields": {
+      "code": "201901",
+      "name": "Capital Panamericano",
+      "municipality": "2019"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 885,
+    "fields": {
+      "code": "201902",
+      "name": "La Palmita",
+      "municipality": "2019"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 886,
+    "fields": {
+      "code": "202001",
+      "name": "Capital Pedro María Ureña",
+      "municipality": "2020"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 887,
+    "fields": {
+      "code": "202002",
+      "name": "Nueva Arcadia",
+      "municipality": "2020"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 888,
+    "fields": {
+      "code": "202101",
+      "name": "Capital Rafael Urdaneta",
+      "municipality": "2021"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 889,
+    "fields": {
+      "code": "202201",
+      "name": "Capital Samuel Darío Maldonado",
+      "municipality": "2022"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 890,
+    "fields": {
+      "code": "202202",
+      "name": "Boconó",
+      "municipality": "2022"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 891,
+    "fields": {
+      "code": "202203",
+      "name": "Hernández",
+      "municipality": "2022"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 892,
+    "fields": {
+      "code": "202301",
+      "name": "La Concordia",
+      "municipality": "2023"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 893,
+    "fields": {
+      "code": "202302",
+      "name": "Pedro María Morantes",
+      "municipality": "2023"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 894,
+    "fields": {
+      "code": "202303",
+      "name": "San Juan Bautista",
+      "municipality": "2023"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 895,
+    "fields": {
+      "code": "202304",
+      "name": "San Sebastián",
+      "municipality": "2023"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 896,
+    "fields": {
+      "code": "202305",
+      "name": "Dr. Francisco Romero Lobo",
+      "municipality": "2023"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 897,
+    "fields": {
+      "code": "202401",
+      "name": "Capital Seboruco",
+      "municipality": "2024"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 898,
+    "fields": {
+      "code": "202501",
+      "name": "Capital Simón Rodríguez",
+      "municipality": "2025"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 899,
+    "fields": {
+      "code": "202601",
+      "name": "Capital Sucre",
+      "municipality": "2026"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 900,
+    "fields": {
+      "code": "202602",
+      "name": "Eleazar López Contreras",
+      "municipality": "2026"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 901,
+    "fields": {
+      "code": "202603",
+      "name": "San Pablo",
+      "municipality": "2026"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 902,
+    "fields": {
+      "code": "202701",
+      "name": "Capital Torbes",
+      "municipality": "2027"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 903,
+    "fields": {
+      "code": "202801",
+      "name": "Capital Uribante",
+      "municipality": "2028"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 904,
+    "fields": {
+      "code": "202802",
+      "name": "Cárdenas",
+      "municipality": "2028"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 905,
+    "fields": {
+      "code": "202803",
+      "name": "Juan Pablo Peñaloza",
+      "municipality": "2028"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 906,
+    "fields": {
+      "code": "202804",
+      "name": "Potosí",
+      "municipality": "2028"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 907,
+    "fields": {
+      "code": "202901",
+      "name": "Capital San Judas Tadeo",
+      "municipality": "2029"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 908,
+    "fields": {
+      "code": "210101",
+      "name": "Santa Isabel",
+      "municipality": "2101"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 909,
+    "fields": {
+      "code": "210102",
+      "name": "Araguaney",
+      "municipality": "2101"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 910,
+    "fields": {
+      "code": "210103",
+      "name": "El Jagüito",
+      "municipality": "2101"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 911,
+    "fields": {
+      "code": "210104",
+      "name": "La Esperanza",
+      "municipality": "2101"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 912,
+    "fields": {
+      "code": "210201",
+      "name": "Boconó",
+      "municipality": "2102"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 913,
+    "fields": {
+      "code": "210202",
+      "name": "El Carmen",
+      "municipality": "2102"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 914,
+    "fields": {
+      "code": "210203",
+      "name": "Mosquey",
+      "municipality": "2102"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 915,
+    "fields": {
+      "code": "210204",
+      "name": "Ayacucho",
+      "municipality": "2102"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 916,
+    "fields": {
+      "code": "210205",
+      "name": "Burbusay",
+      "municipality": "2102"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 917,
+    "fields": {
+      "code": "210206",
+      "name": "General Rivas",
+      "municipality": "2102"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 918,
+    "fields": {
+      "code": "210207",
+      "name": "Guaramacal",
+      "municipality": "2102"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 919,
+    "fields": {
+      "code": "210208",
+      "name": "Vega de Guaramacal",
+      "municipality": "2102"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 920,
+    "fields": {
+      "code": "210209",
+      "name": "Monseñor Jáuregui",
+      "municipality": "2102"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 921,
+    "fields": {
+      "code": "210210",
+      "name": "Rafael Rangel",
+      "municipality": "2102"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 922,
+    "fields": {
+      "code": "210211",
+      "name": "San Miguel",
+      "municipality": "2102"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 923,
+    "fields": {
+      "code": "210212",
+      "name": "San José",
+      "municipality": "2102"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 924,
+    "fields": {
+      "code": "210301",
+      "name": "Sabana Grande",
+      "municipality": "2103"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 925,
+    "fields": {
+      "code": "210302",
+      "name": "Cheregüé",
+      "municipality": "2103"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 926,
+    "fields": {
+      "code": "210303",
+      "name": "Granados",
+      "municipality": "2103"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 927,
+    "fields": {
+      "code": "210401",
+      "name": "Chejendé",
+      "municipality": "2104"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 928,
+    "fields": {
+      "code": "210402",
+      "name": "Arnoldo Gabaldón",
+      "municipality": "2104"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 929,
+    "fields": {
+      "code": "210403",
+      "name": "Bolivia",
+      "municipality": "2104"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 930,
+    "fields": {
+      "code": "210404",
+      "name": "Carrillo",
+      "municipality": "2104"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 931,
+    "fields": {
+      "code": "210405",
+      "name": "Cegarra",
+      "municipality": "2104"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 932,
+    "fields": {
+      "code": "210406",
+      "name": "Manuel Salvador Ulloa",
+      "municipality": "2104"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 933,
+    "fields": {
+      "code": "210407",
+      "name": "San José",
+      "municipality": "2104"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 934,
+    "fields": {
+      "code": "210501",
+      "name": "Carache",
+      "municipality": "2105"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 935,
+    "fields": {
+      "code": "210502",
+      "name": "Cuicas",
+      "municipality": "2105"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 936,
+    "fields": {
+      "code": "210503",
+      "name": "La Concepción",
+      "municipality": "2105"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 937,
+    "fields": {
+      "code": "210504",
+      "name": "Panamericana",
+      "municipality": "2105"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 938,
+    "fields": {
+      "code": "210505",
+      "name": "Santa Cruz",
+      "municipality": "2105"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 939,
+    "fields": {
+      "code": "210601",
+      "name": "Escuque",
+      "municipality": "2106"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 940,
+    "fields": {
+      "code": "210602",
+      "name": "La Unión",
+      "municipality": "2106"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 941,
+    "fields": {
+      "code": "210603",
+      "name": "Sabana Libre",
+      "municipality": "2106"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 942,
+    "fields": {
+      "code": "210604",
+      "name": "Santa Rita",
+      "municipality": "2106"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 943,
+    "fields": {
+      "code": "210701",
+      "name": "El Socorro",
+      "municipality": "2107"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 944,
+    "fields": {
+      "code": "210702",
+      "name": "Antonio José de Sucre",
+      "municipality": "2107"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 945,
+    "fields": {
+      "code": "210703",
+      "name": "Los Caprichos",
+      "municipality": "2107"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 946,
+    "fields": {
+      "code": "210801",
+      "name": "Campo Elías",
+      "municipality": "2108"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 947,
+    "fields": {
+      "code": "210802",
+      "name": "Arnoldo Gabaldón",
+      "municipality": "2108"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 948,
+    "fields": {
+      "code": "210901",
+      "name": "Santa Apolonia",
+      "municipality": "2109"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 949,
+    "fields": {
+      "code": "210902",
+      "name": "El Progreso",
+      "municipality": "2109"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 950,
+    "fields": {
+      "code": "210903",
+      "name": "La Ceiba",
+      "municipality": "2109"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 951,
+    "fields": {
+      "code": "210904",
+      "name": "Tres de Febrero",
+      "municipality": "2109"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 952,
+    "fields": {
+      "code": "211001",
+      "name": "El Dividive",
+      "municipality": "2110"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 953,
+    "fields": {
+      "code": "211002",
+      "name": "Agua Santa",
+      "municipality": "2110"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 954,
+    "fields": {
+      "code": "211003",
+      "name": "Agua Caliente",
+      "municipality": "2110"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 955,
+    "fields": {
+      "code": "211004",
+      "name": "El Cenizo",
+      "municipality": "2110"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 956,
+    "fields": {
+      "code": "211005",
+      "name": "Valerita",
+      "municipality": "2110"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 957,
+    "fields": {
+      "code": "211101",
+      "name": "Monte Carmelo",
+      "municipality": "2111"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 958,
+    "fields": {
+      "code": "211102",
+      "name": "Buena Vista",
+      "municipality": "2111"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 959,
+    "fields": {
+      "code": "211103",
+      "name": "Santa María del Horcón",
+      "municipality": "2111"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 960,
+    "fields": {
+      "code": "211201",
+      "name": "Motatán",
+      "municipality": "2112"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 961,
+    "fields": {
+      "code": "211202",
+      "name": "El Baño",
+      "municipality": "2112"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 962,
+    "fields": {
+      "code": "211203",
+      "name": "Jalisco",
+      "municipality": "2112"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 963,
+    "fields": {
+      "code": "211301",
+      "name": "Pampán",
+      "municipality": "2113"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 964,
+    "fields": {
+      "code": "211302",
+      "name": "Flor de Patria",
+      "municipality": "2113"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 965,
+    "fields": {
+      "code": "211304",
+      "name": "La Paz",
+      "municipality": "2113"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 966,
+    "fields": {
+      "code": "211305",
+      "name": "Santa Ana",
+      "municipality": "2113"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 967,
+    "fields": {
+      "code": "211401",
+      "name": "Pampanito",
+      "municipality": "2114"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 968,
+    "fields": {
+      "code": "211402",
+      "name": "La Concepción",
+      "municipality": "2114"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 969,
+    "fields": {
+      "code": "211403",
+      "name": "Pampanito II",
+      "municipality": "2114"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 970,
+    "fields": {
+      "code": "211501",
+      "name": "Betijoque",
+      "municipality": "2115"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 971,
+    "fields": {
+      "code": "211502",
+      "name": "La Pueblita",
+      "municipality": "2115"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 972,
+    "fields": {
+      "code": "211503",
+      "name": "Los Cedros",
+      "municipality": "2115"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 973,
+    "fields": {
+      "code": "211504",
+      "name": "José Gregorio Hernández",
+      "municipality": "2115"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 974,
+    "fields": {
+      "code": "211601",
+      "name": "Carvajal",
+      "municipality": "2116"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 975,
+    "fields": {
+      "code": "211602",
+      "name": "Antonio Nicolás Briceño",
+      "municipality": "2116"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 976,
+    "fields": {
+      "code": "211603",
+      "name": "Campo Alegre",
+      "municipality": "2116"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 977,
+    "fields": {
+      "code": "211604",
+      "name": "José Leonardo Suárez",
+      "municipality": "2116"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 978,
+    "fields": {
+      "code": "211701",
+      "name": "Sabana de Mendoza",
+      "municipality": "2117"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 979,
+    "fields": {
+      "code": "211702",
+      "name": "El Paraíso",
+      "municipality": "2117"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 980,
+    "fields": {
+      "code": "211703",
+      "name": "Junín",
+      "municipality": "2117"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 981,
+    "fields": {
+      "code": "211704",
+      "name": "Valmore Rodríguez",
+      "municipality": "2117"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 982,
+    "fields": {
+      "code": "211801",
+      "name": "Andrés Linares",
+      "municipality": "2118"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 983,
+    "fields": {
+      "code": "211802",
+      "name": "Chiquinquirá",
+      "municipality": "2118"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 984,
+    "fields": {
+      "code": "211803",
+      "name": "Cristóbal Mendoza",
+      "municipality": "2118"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 985,
+    "fields": {
+      "code": "211804",
+      "name": "Cruz Carrillo",
+      "municipality": "2118"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 986,
+    "fields": {
+      "code": "211805",
+      "name": "Matriz",
+      "municipality": "2118"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 987,
+    "fields": {
+      "code": "211806",
+      "name": "Monseñor Carrillo",
+      "municipality": "2118"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 988,
+    "fields": {
+      "code": "211807",
+      "name": "Tres Esquinas",
+      "municipality": "2118"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 989,
+    "fields": {
+      "code": "211901",
+      "name": "La Quebrada",
+      "municipality": "2119"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 990,
+    "fields": {
+      "code": "211902",
+      "name": "Cabimbú",
+      "municipality": "2119"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 991,
+    "fields": {
+      "code": "211903",
+      "name": "Jajó",
+      "municipality": "2119"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 992,
+    "fields": {
+      "code": "211904",
+      "name": "La Mesa",
+      "municipality": "2119"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 993,
+    "fields": {
+      "code": "211905",
+      "name": "Santiago",
+      "municipality": "2119"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 994,
+    "fields": {
+      "code": "211906",
+      "name": "Tuñame",
+      "municipality": "2119"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 995,
+    "fields": {
+      "code": "212001",
+      "name": "Juan Ignacio Montilla",
+      "municipality": "2120"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 996,
+    "fields": {
+      "code": "212002",
+      "name": "La Beatriz",
+      "municipality": "2120"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 997,
+    "fields": {
+      "code": "212003",
+      "name": "Mercedes Díaz",
+      "municipality": "2120"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 998,
+    "fields": {
+      "code": "212004",
+      "name": "San Luis",
+      "municipality": "2120"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 999,
+    "fields": {
+      "code": "212005",
+      "name": "La Puerta",
+      "municipality": "2120"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1000,
+    "fields": {
+      "code": "212006",
+      "name": "Mendoza",
+      "municipality": "2120"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1001,
+    "fields": {
+      "code": "220101",
+      "name": "Capital Arístides Bastidas",
+      "municipality": "2201"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1002,
+    "fields": {
+      "code": "220201",
+      "name": "Capital Bolívar",
+      "municipality": "2202"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1003,
+    "fields": {
+      "code": "220301",
+      "name": "Capital Bruzual",
+      "municipality": "2203"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1004,
+    "fields": {
+      "code": "220302",
+      "name": "Campo Elías",
+      "municipality": "2203"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1005,
+    "fields": {
+      "code": "220401",
+      "name": "Capital Cocorote",
+      "municipality": "2204"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1006,
+    "fields": {
+      "code": "220501",
+      "name": "Capital Independencia",
+      "municipality": "2205"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1007,
+    "fields": {
+      "code": "220601",
+      "name": "Capital José Antonio Páez",
+      "municipality": "2206"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1008,
+    "fields": {
+      "code": "220701",
+      "name": "Capital La Trinidad",
+      "municipality": "2207"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1009,
+    "fields": {
+      "code": "220801",
+      "name": "Capital Manuel Monge",
+      "municipality": "2208"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1010,
+    "fields": {
+      "code": "220901",
+      "name": "Capital Nirgua",
+      "municipality": "2209"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1011,
+    "fields": {
+      "code": "220902",
+      "name": "Salom",
+      "municipality": "2209"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1012,
+    "fields": {
+      "code": "220903",
+      "name": "Temerla",
+      "municipality": "2209"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1013,
+    "fields": {
+      "code": "221001",
+      "name": "Capital Peña",
+      "municipality": "2210"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1014,
+    "fields": {
+      "code": "221002",
+      "name": "San Andrés",
+      "municipality": "2210"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1015,
+    "fields": {
+      "code": "221101",
+      "name": "Capital San Felipe",
+      "municipality": "2211"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1016,
+    "fields": {
+      "code": "221102",
+      "name": "Albarico",
+      "municipality": "2211"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1017,
+    "fields": {
+      "code": "221103",
+      "name": "San Javier",
+      "municipality": "2211"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1018,
+    "fields": {
+      "code": "221201",
+      "name": "Capital Sucre",
+      "municipality": "2212"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1019,
+    "fields": {
+      "code": "221301",
+      "name": "Capital Urachiche",
+      "municipality": "2213"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1020,
+    "fields": {
+      "code": "221401",
+      "name": "Capital Veroes",
+      "municipality": "2214"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1021,
+    "fields": {
+      "code": "221402",
+      "name": "El Guayabo",
+      "municipality": "2214"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1022,
+    "fields": {
+      "code": "230101",
+      "name": "Isla de Toas",
+      "municipality": "2301"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1023,
+    "fields": {
+      "code": "230102",
+      "name": "Monagas",
+      "municipality": "2301"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1024,
+    "fields": {
+      "code": "230201",
+      "name": "San Timoteo",
+      "municipality": "2302"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1025,
+    "fields": {
+      "code": "230202",
+      "name": "General Urdaneta",
+      "municipality": "2302"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1026,
+    "fields": {
+      "code": "230203",
+      "name": "Libertador",
+      "municipality": "2302"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1027,
+    "fields": {
+      "code": "230204",
+      "name": "Manuel Guanipa Matos",
+      "municipality": "2302"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1028,
+    "fields": {
+      "code": "230205",
+      "name": "Marcelino Briceño",
+      "municipality": "2302"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1029,
+    "fields": {
+      "code": "230206",
+      "name": "Pueblo Nuevo",
+      "municipality": "2302"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1030,
+    "fields": {
+      "code": "230301",
+      "name": "Ambrosio",
+      "municipality": "2303"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1031,
+    "fields": {
+      "code": "230302",
+      "name": "Carmen Herrera",
+      "municipality": "2303"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1032,
+    "fields": {
+      "code": "230303",
+      "name": "Germán Ríos Linares",
+      "municipality": "2303"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1033,
+    "fields": {
+      "code": "230304",
+      "name": "La Rosa",
+      "municipality": "2303"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1034,
+    "fields": {
+      "code": "230305",
+      "name": "Jorge Hernández",
+      "municipality": "2303"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1035,
+    "fields": {
+      "code": "230306",
+      "name": "Rómulo Betancourt",
+      "municipality": "2303"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1036,
+    "fields": {
+      "code": "230307",
+      "name": "San Benito",
+      "municipality": "2303"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1037,
+    "fields": {
+      "code": "230308",
+      "name": "Arístides Calvani",
+      "municipality": "2303"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1038,
+    "fields": {
+      "code": "230309",
+      "name": "Punta Gorda",
+      "municipality": "2303"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1039,
+    "fields": {
+      "code": "230401",
+      "name": "Encontrados",
+      "municipality": "2304"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1040,
+    "fields": {
+      "code": "230402",
+      "name": "Udón Pérez",
+      "municipality": "2304"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1041,
+    "fields": {
+      "code": "230501",
+      "name": "San Carlos del Zulia",
+      "municipality": "2305"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1042,
+    "fields": {
+      "code": "230502",
+      "name": "Moralito",
+      "municipality": "2305"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1043,
+    "fields": {
+      "code": "230503",
+      "name": "Santa Bárbara",
+      "municipality": "2305"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1044,
+    "fields": {
+      "code": "230504",
+      "name": "Santa Cruz del Zulia",
+      "municipality": "2305"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1045,
+    "fields": {
+      "code": "230505",
+      "name": "Urribarri",
+      "municipality": "2305"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1046,
+    "fields": {
+      "code": "230601",
+      "name": "Simón Rodríguez",
+      "municipality": "2306"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1047,
+    "fields": {
+      "code": "230602",
+      "name": "Carlos Quevedo",
+      "municipality": "2306"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1048,
+    "fields": {
+      "code": "230603",
+      "name": "Francisco Javier Pulgar",
+      "municipality": "2306"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1049,
+    "fields": {
+      "code": "230701",
+      "name": "La Concepción",
+      "municipality": "2307"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1050,
+    "fields": {
+      "code": "230702",
+      "name": "José Ramón Yepes",
+      "municipality": "2307"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1051,
+    "fields": {
+      "code": "230703",
+      "name": "Mariano Parra León",
+      "municipality": "2307"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1052,
+    "fields": {
+      "code": "230704",
+      "name": "San José",
+      "municipality": "2307"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1053,
+    "fields": {
+      "code": "230801",
+      "name": "Jesús María Semprún",
+      "municipality": "2308"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1054,
+    "fields": {
+      "code": "230802",
+      "name": "Barí",
+      "municipality": "2308"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1055,
+    "fields": {
+      "code": "230901",
+      "name": "Concepción",
+      "municipality": "2309"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1056,
+    "fields": {
+      "code": "230902",
+      "name": "Andrés Bello",
+      "municipality": "2309"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1057,
+    "fields": {
+      "code": "230903",
+      "name": "Chiquinquirá",
+      "municipality": "2309"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1058,
+    "fields": {
+      "code": "230904",
+      "name": "El Carmelo",
+      "municipality": "2309"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1059,
+    "fields": {
+      "code": "230905",
+      "name": "Potreritos",
+      "municipality": "2309"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1060,
+    "fields": {
+      "code": "231001",
+      "name": "Alonso de Ojeda",
+      "municipality": "2310"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1061,
+    "fields": {
+      "code": "231002",
+      "name": "Libertad",
+      "municipality": "2310"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1062,
+    "fields": {
+      "code": "231003",
+      "name": "Campo Lara",
+      "municipality": "2310"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1063,
+    "fields": {
+      "code": "231004",
+      "name": "Eleazar López Contreras",
+      "municipality": "2310"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1064,
+    "fields": {
+      "code": "231005",
+      "name": "Venezuela",
+      "municipality": "2310"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1065,
+    "fields": {
+      "code": "231101",
+      "name": "Libertad",
+      "municipality": "2311"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1066,
+    "fields": {
+      "code": "231102",
+      "name": "Bartolomé de las Casas",
+      "municipality": "2311"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1067,
+    "fields": {
+      "code": "231103",
+      "name": "Río Negro",
+      "municipality": "2311"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1068,
+    "fields": {
+      "code": "231104",
+      "name": "San José de Perijá",
+      "municipality": "2311"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1069,
+    "fields": {
+      "code": "231201",
+      "name": "San Rafael",
+      "municipality": "2312"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1070,
+    "fields": {
+      "code": "231202",
+      "name": "La Sierrita",
+      "municipality": "2312"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1071,
+    "fields": {
+      "code": "231203",
+      "name": "Las Parcelas",
+      "municipality": "2312"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1072,
+    "fields": {
+      "code": "231204",
+      "name": "Luis de Vicente",
+      "municipality": "2312"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1073,
+    "fields": {
+      "code": "231205",
+      "name": "Monseñor Marcos Sergio Godoy",
+      "municipality": "2312"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1074,
+    "fields": {
+      "code": "231206",
+      "name": "Ricaurte",
+      "municipality": "2312"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1075,
+    "fields": {
+      "code": "231207",
+      "name": "Tamare",
+      "municipality": "2312"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1076,
+    "fields": {
+      "code": "231301",
+      "name": "Antonio Borjas Romero",
+      "municipality": "2313"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1077,
+    "fields": {
+      "code": "231302",
+      "name": "Bolívar",
+      "municipality": "2313"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1078,
+    "fields": {
+      "code": "231303",
+      "name": "Cacique Mara",
+      "municipality": "2313"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1079,
+    "fields": {
+      "code": "231304",
+      "name": "Caracciolo Parra Pérez",
+      "municipality": "2313"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1080,
+    "fields": {
+      "code": "231305",
+      "name": "Cecilio Acosta",
+      "municipality": "2313"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1081,
+    "fields": {
+      "code": "231306",
+      "name": "Cristo de Aranza",
+      "municipality": "2313"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1082,
+    "fields": {
+      "code": "231307",
+      "name": "Coquivacoa",
+      "municipality": "2313"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1083,
+    "fields": {
+      "code": "231308",
+      "name": "Chiquinquirá",
+      "municipality": "2313"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1084,
+    "fields": {
+      "code": "231309",
+      "name": "Francisco Eugenio Bustamante",
+      "municipality": "2313"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1085,
+    "fields": {
+      "code": "231310",
+      "name": "Idelfonso Vásquez",
+      "municipality": "2313"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1086,
+    "fields": {
+      "code": "231311",
+      "name": "Juana de Avila",
+      "municipality": "2313"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1087,
+    "fields": {
+      "code": "231312",
+      "name": "Luis Hurtado Higuera",
+      "municipality": "2313"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1088,
+    "fields": {
+      "code": "231313",
+      "name": "Manuel Dagnino",
+      "municipality": "2313"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1089,
+    "fields": {
+      "code": "231314",
+      "name": "Olegario Villalobos",
+      "municipality": "2313"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1090,
+    "fields": {
+      "code": "231315",
+      "name": "Raúl Leoni",
+      "municipality": "2313"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1091,
+    "fields": {
+      "code": "231316",
+      "name": "Santa Lucía",
+      "municipality": "2313"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1092,
+    "fields": {
+      "code": "231317",
+      "name": "Venancio Pulgar",
+      "municipality": "2313"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1093,
+    "fields": {
+      "code": "231318",
+      "name": "San Isidro",
+      "municipality": "2313"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1094,
+    "fields": {
+      "code": "231401",
+      "name": "Altagracia",
+      "municipality": "2314"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1095,
+    "fields": {
+      "code": "231402",
+      "name": "Ana María Campos",
+      "municipality": "2314"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1096,
+    "fields": {
+      "code": "231403",
+      "name": "Faría",
+      "municipality": "2314"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1097,
+    "fields": {
+      "code": "231404",
+      "name": "San Antonio",
+      "municipality": "2314"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1098,
+    "fields": {
+      "code": "231405",
+      "name": "San José",
+      "municipality": "2314"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1099,
+    "fields": {
+      "code": "231501",
+      "name": "Sinamaica",
+      "municipality": "2315"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1100,
+    "fields": {
+      "code": "231502",
+      "name": "Alta Guajira",
+      "municipality": "2315"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1101,
+    "fields": {
+      "code": "231503",
+      "name": "Elías Sánchez Rubio",
+      "municipality": "2315"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1102,
+    "fields": {
+      "code": "231504",
+      "name": "Guajira",
+      "municipality": "2315"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1103,
+    "fields": {
+      "code": "231601",
+      "name": "El Rosario",
+      "municipality": "2316"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1104,
+    "fields": {
+      "code": "231602",
+      "name": "Donaldo García",
+      "municipality": "2316"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1105,
+    "fields": {
+      "code": "231603",
+      "name": "Sixto Zambrano",
+      "municipality": "2316"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1106,
+    "fields": {
+      "code": "231701",
+      "name": "San Francisco",
+      "municipality": "2317"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1107,
+    "fields": {
+      "code": "231702",
+      "name": "El Bajo",
+      "municipality": "2317"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1108,
+    "fields": {
+      "code": "231703",
+      "name": "Domitila Flores",
+      "municipality": "2317"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1109,
+    "fields": {
+      "code": "231704",
+      "name": "Francisco Ochoa",
+      "municipality": "2317"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1110,
+    "fields": {
+      "code": "231705",
+      "name": "Los Cortijos",
+      "municipality": "2317"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1111,
+    "fields": {
+      "code": "231706",
+      "name": "Marcial Hernández",
+      "municipality": "2317"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1112,
+    "fields": {
+      "code": "231801",
+      "name": "Santa Rita",
+      "municipality": "2318"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1113,
+    "fields": {
+      "code": "231802",
+      "name": "El Mene",
+      "municipality": "2318"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1114,
+    "fields": {
+      "code": "231803",
+      "name": "José Cenovio Urribarri",
+      "municipality": "2318"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1115,
+    "fields": {
+      "code": "231804",
+      "name": "Pedro Lucas Urribarri",
+      "municipality": "2318"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1116,
+    "fields": {
+      "code": "231901",
+      "name": "Manuel Manrique",
+      "municipality": "2319"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1117,
+    "fields": {
+      "code": "231902",
+      "name": "Rafael María Baralt",
+      "municipality": "2319"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1118,
+    "fields": {
+      "code": "231903",
+      "name": "Rafael Urdaneta",
+      "municipality": "2319"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1119,
+    "fields": {
+      "code": "232001",
+      "name": "Bobures",
+      "municipality": "2320"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1120,
+    "fields": {
+      "code": "232002",
+      "name": "El Batey",
+      "municipality": "2320"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1121,
+    "fields": {
+      "code": "232003",
+      "name": "Gibraltar",
+      "municipality": "2320"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1122,
+    "fields": {
+      "code": "232004",
+      "name": "Heras",
+      "municipality": "2320"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1123,
+    "fields": {
+      "code": "232005",
+      "name": "Monseñor Arturo Celestino Alvarez",
+      "municipality": "2320"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1124,
+    "fields": {
+      "code": "232006",
+      "name": "Rómulo Gallegos",
+      "municipality": "2320"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1125,
+    "fields": {
+      "code": "232101",
+      "name": "La Victoria",
+      "municipality": "2321"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1126,
+    "fields": {
+      "code": "232102",
+      "name": "Rafael Urdaneta",
+      "municipality": "2321"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1127,
+    "fields": {
+      "code": "232103",
+      "name": "Raúl Cuenca",
+      "municipality": "2321"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1128,
+    "fields": {
+      "code": "240101",
+      "name": "Caraballeda",
+      "municipality": "2401"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1129,
+    "fields": {
+      "code": "240102",
+      "name": "Carayaca",
+      "municipality": "2401"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1130,
+    "fields": {
+      "code": "240103",
+      "name": "Caruao",
+      "municipality": "2401"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1131,
+    "fields": {
+      "code": "240104",
+      "name": "Catia La Mar",
+      "municipality": "2401"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1132,
+    "fields": {
+      "code": "240105",
+      "name": "El Junko",
+      "municipality": "2401"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1133,
+    "fields": {
+      "code": "240106",
+      "name": "La Guaira",
+      "municipality": "2401"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1134,
+    "fields": {
+      "code": "240107",
+      "name": "Macuto",
+      "municipality": "2401"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1135,
+    "fields": {
+      "code": "240108",
+      "name": "Maiquetía",
+      "municipality": "2401"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1136,
+    "fields": {
+      "code": "240109",
+      "name": "Naiguatá",
+      "municipality": "2401"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1137,
+    "fields": {
+      "code": "240110",
+      "name": "Raúl Leoni",
+      "municipality": "2401"
+    }
+  },
+  {
+    "model": "person.parish",
+    "pk": 1138,
+    "fields": {
+      "code": "240111",
+      "name": "Carlos Soublette",
+      "municipality": "2401"
+    }
+  }
+]
