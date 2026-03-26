@@ -1,5 +1,6 @@
 from django import forms
-from .models import Person, Estate, Municipality
+from django.shortcuts import get_object_or_404
+from .models import Person, Estate, Municipality, Parish
 
 class PersonForm(forms.ModelForm):
     """
@@ -9,8 +10,9 @@ class PersonForm(forms.ModelForm):
     providing a secure interface for person-related operations in views.
     Automatically generated from the Person model with configurable fields.
     """
-    estate = forms.ModelChoiceField(queryset=Estate.objects.all(), empty_label=" * Selecciones un estado * ")
-    municipality = forms.ModelChoiceField(queryset=Municipality.objects.all(), empty_label=" * Seleccione un municipio * ")
+    estate = forms.ModelChoiceField(queryset=Estate.objects.all(), to_field_name="code", empty_label=" * Seleccione un estado * ")
+    municipality = forms.ModelChoiceField(queryset=Municipality.objects.all(), to_field_name="code", empty_label=" * Seleccione un municipio * ")
+    parish = forms.ModelChoiceField(queryset=Parish.objects.all(), to_field_name="code", empty_label=" * Seleccione una parroquia * ")
 
     class Meta:
         """
@@ -43,12 +45,30 @@ class PersonForm(forms.ModelForm):
             ("", " * Seleccione un municipio * ")
         ]
 
+        # Always allow all parishes
+        self.fields['parish'].queryset = Parish.objects.all()
+        self.fields['parish'].choices = [
+            ("", " * Seleccione una parroquia * ")
+        ]
+
         # Check if we are updating (instance exists and has a PK)
         if self.instance and self.instance.pk:
             # Access the estate object or its ID
-            current_estate_id = self.instance.estate_id
-            specific_municipalities = Municipality.objects.filter(estate_id=current_estate_id)
+            current_estate_code = get_object_or_404(Estate, pk=self.instance.estate_id).code
+
+            if current_estate_code:
+                # Access the municipality object or its ID
+                current_municipality_code = get_object_or_404(Municipality, pk=self.instance.municipality_id).code
+
+            specific_municipalities = Municipality.objects.filter(estate_id=current_estate_code)
+            specific_parishes = Parish.objects.filter(municipality_id=current_municipality_code)
+
             # Show municipalities by state
             self.fields['municipality'].choices = [
                 (e.pk, str(e)) for e in specific_municipalities.distinct()
+            ]
+
+            # Show parishes by municpality code
+            self.fields['parish'].choices = [
+                (e.pk, str(e)) for e in specific_parishes.distinct()
             ]

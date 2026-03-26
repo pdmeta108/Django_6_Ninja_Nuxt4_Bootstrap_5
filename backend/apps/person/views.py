@@ -1,5 +1,5 @@
 from django.shortcuts import render, redirect, get_object_or_404
-from .models import Person, Municipality
+from .models import Person, Municipality, Parish
 from .forms import PersonForm
 from django.http import JsonResponse
 
@@ -128,4 +128,27 @@ def load_municipalities(request):
 
     # Obtener los municipios correspondientes al id del estado y ordenar por orden alfabetico
     municipalities = Municipality.objects.filter(estate_id=estate_id).order_by('name')
-    return JsonResponse(list(municipalities.values('id', 'name')), safe=False)
+    return JsonResponse(list(municipalities.values('code', 'name')), safe=False)
+
+def load_parishes(request):
+    """Cargar lista de parroquias de acuerdo al municipio
+
+    Parameters
+    ----------
+    request : HttpRequest
+        The incoming HTTP request
+
+    Returns
+    -------
+    JsonResponse (list | empty_list)
+        Lista de parroquias pertenecientes al municipio
+    """
+    municipality_id = request.GET.get('municipality_id')
+
+    # Si municipality_id es None, una cadena vacía o no es un dígito
+    if not municipality_id or municipality_id == "":
+        return JsonResponse([], safe=False)
+
+    # Obtener los municipios correspondientes al id del estado y ordenar por orden alfabetico
+    parishes = Parish.objects.filter(municipality_id=municipality_id).order_by('name')
+    return JsonResponse(list(parishes.values('code', 'name')), safe=False)

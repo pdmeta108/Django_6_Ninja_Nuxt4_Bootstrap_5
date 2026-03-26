@@ -35,6 +35,11 @@ urlpatterns = [
 
     # Load municipalities view: Filtro para obtener municipios pertenecientes al estado
     # URL: /ajax/load-municipalities/<estate_id>
-    # View: load_municipalities - Muestra lista de municipios con el id de estado 
-    path('ajax/load-municipalities/', views.load_municipalities, name='ajax_load_municipalities')
+    # View: load_municipalities - Muestra lista de municipios con el id de estado
+    path('ajax/load-municipalities/', views.load_municipalities, name='ajax_load_municipalities'),
+
+    # Load parishes view: Filtro para obtener parroquias pertenecientes al municipio
+    # URL: /ajax/load-parishes/<municipality_id>
+    # View: load_parishes - Muestra lista de parroquias con el id de municipio
+    path('ajax/load-parishes/', views.load_parishes, name='ajax_load_parishes')
 ]
