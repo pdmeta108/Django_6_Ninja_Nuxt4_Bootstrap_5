@@ -17,6 +17,9 @@
           <th>Name</th>
           <th>Email</th>
           <th>Age</th>
+          <th>Estate</th>
+          <th>Municipality</th>
+          <th>Parish</th>
           <th>Actions</th>
         </tr>
       </thead>
@@ -25,6 +28,9 @@
           <td>{{ person.name }}</td>
           <td>{{ person.email }}</td>
           <td>{{ person.age }}</td>
+          <td>{{ person.estate ? person.estate.name : "" }}</td>
+          <td>{{ person.municipality ? person.municipality.name : "" }}</td>
+          <td>{{ person.parish ? person.parish.name : "" }}</td>
           <td>
             <NuxtLink :to="`/persons/${person.id}`">Detail</NuxtLink> |
             <NuxtLink :to="`/persons/update/${person.id}`">Update</NuxtLink> |

@@ -1,30 +1,56 @@
-from ninja import Router, ModelSchema, Schema
+from ninja import Router, Schema
 from django.shortcuts import get_object_or_404
-from typing import List
+from typing import List, Optional
 from .models import Person
 
 router = Router()
 
 # --- SCHEMAS ---
-
-class PersonSchema(ModelSchema):
+class EstateSchema(Schema):
     """Schema basado en el modelo para devolver datos (Output)"""
-    class Meta:
-        model = Person
-        fields = ['id', 'name', 'email', 'age', 'created_at', 'updated_at']
+    id: int
+    name: str
+    code: str
+
+class MunicipalitySchema(Schema):
+    """Schema basado en el modelo para devolver datos (Output)"""
+    id: int
+    name: str
+    code: str
+    estate: Optional[EstateSchema] = None
+
+class ParishSchema(Schema):
+    """Schema basado en el modelo para devolver datos (Output)"""
+    id: int
+    name: str
+    code: str
+    municipality: Optional[MunicipalitySchema] = None
+
+class PersonSchema(Schema):
+    """Schema basado en el modelo para devolver datos (Output)"""
+    id: int
+    name: str
+    email: str
+    age: int
+    estate: Optional[EstateSchema] = None
+    municipality: Optional[MunicipalitySchema] = None
+    parish: Optional[ParishSchema] = None
 
 class PersonCreateSchema(Schema):
     """Schema para recibir datos al crear o actualizar (Input)"""
     name: str
     email: str
     age: int
+    estate: str
+    municipality: str
+    parish: str
 
 # --- ENDPOINTS (CRUD) ---
 
 # 1. Listar personas (GET)
 @router.get("/", response=List[PersonSchema])
 def list_people(request):
-    return Person.objects.all()
+    return Person.objects.select_related("estate", "municipality", "parish")
 
 # 2. Obtener una persona (GET por ID)
 @router.get("/{person_id}", response=PersonSchema)
