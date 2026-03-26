@@ -22,40 +22,5 @@
 
     <!-- Load Bootstrap JS -->
     <script src="{% static 'js/bootstrap.bundle.min.js' %}"></script>
-    <script>
-        const estateSelect = document.getElementById('id_estate');
-        const municipalitySelect = document.getElementById('id_municipality');
-        const parishSelect = document.getElementById('id_parish');
-
-        estateSelect.addEventListener('change', (e) => {
-            const estateId = e.target.value;
-
-            fetch(`/ajax/load-municipalities/?estate_id=${estateId}`)
-                .then(response => response.json())
-                .then(data => {
-                    municipalitySelect.options.length = 0;
-                    municipalitySelect.innerHTML = '<option value=""> * Seleccione un municipio * </option>';
-                    data.forEach(item => {
-                        const option = new Option(item.name, item.code);
-                        municipalitySelect.add(option);
-                    });
-                });
-        });
-
-        municipalitySelect.addEventListener('change', (e) => {
-            const municipalityId = e.target.value;
-
-            fetch(`/ajax/load-parishes/?municipality_id=${municipalityId}`)
-                .then(response => response.json())
-                .then(data => {
-                    parishSelect.options.length = 0;
-                    parishSelect.innerHTML = '<option value=""> * Seleccione una parroquia * </option>';
-                    data.forEach(item => {
-                        const option = new Option(item.name, item.code);
-                        parishSelect.add(option);
-                    });
-                });
-        });
-    </script>
 </body>
 </html>
