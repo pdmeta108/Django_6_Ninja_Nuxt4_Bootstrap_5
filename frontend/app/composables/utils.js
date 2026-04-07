@@ -1,6 +1,6 @@
 // Exportamos funciones individuales
 export const utils = () => {
-  
+
   // Tu función de sumar
   const sumar = (a, b) => {
     return a + b

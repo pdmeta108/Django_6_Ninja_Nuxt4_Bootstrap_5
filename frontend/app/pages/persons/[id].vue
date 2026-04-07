@@ -2,7 +2,7 @@
   <div>
     <GoBack />
     <div v-if="pending">Loading details...</div>
-    
+
     <div v-else-if="error">
       <p>Error: Person with ID: was not found {{ personId }}</p>
     </div>
@@ -12,6 +12,9 @@
       <div >
         <p><strong>Email:</strong> {{ person.email }}</p>
         <p><strong>Age:</strong> {{ person.age }}</p>
+        <p><strong>Estate:</strong> {{ person.estate ? person.estate.name : null }}</p>
+        <p><strong>Municipality:</strong> {{ person.municipality ? person.municipality.name : null }}</p>
+        <p><strong>Parish:</strong> {{ person.parish ? person.parish.name : null }}</p>
         <p><strong>Created at:</strong> {{ new Date(person.created_at).toLocaleString() }}</p>
         <p><strong>Updated at:</strong> {{ new Date(person.updated_at).toLocaleString() }}</p>
       </div>
@@ -20,6 +23,12 @@
 </template>
 
 <script setup>
+import {
+  // ButtonGroup,
+  // ButtonGroupSeparator,
+  // ButtonGroupText,
+} from '@/components/ui/button-group'
+
 // Inicializa el acceso a la variable de entorno para la URL base del backend.
 const config = useRuntimeConfig()
 // Ahora 'apiBase' contiene la URL base de la API configurada en el .env
