@@ -11,40 +11,49 @@
       Error al cargar usuarios. Inténtalo de nuevo.
     </div>
 
-    <table v-else>
-      <thead>
-        <tr>
-          <th>Name</th>
-          <th>Email</th>
-          <th>Age</th>
-          <th>Estate</th>
-          <th>Municipality</th>
-          <th>Parish</th>
-          <th>Actions</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr v-for="person in persons" :key="person.id">
-          <td>{{ person.name }}</td>
-          <td>{{ person.email }}</td>
-          <td>{{ person.age }}</td>
-          <td>{{ person.estate ? person.estate.name : "" }}</td>
-          <td>{{ person.municipality ? person.municipality.name : "" }}</td>
-          <td>{{ person.parish ? person.parish.name : "" }}</td>
-          <td>
+    <Table v-else>
+      <TableHeader>
+        <TableRow>
+          <TableHead>Name</TableHead>
+          <TableHead>Email</TableHead>
+          <TableHead>Age</TableHead>
+          <TableHead>Estate</TableHead>
+          <TableHead>Municipality</TableHead>
+          <TableHead>Parish</TableHead>
+          <TableHead>Actions</TableHead>
+        </TableRow>
+      </TableHeader>
+      <TableBody>
+        <TableRow v-for="person in persons" :key="person.id">
+          <TableCell>{{ person.name }}</TableCell>
+          <TableCell>{{ person.email }}</TableCell>
+          <TableCell>{{ person.age }}</TableCell>
+          <TableCell>{{ person.estate ? person.estate.name : "" }}</TableCell>
+          <TableCell>{{ person.municipality ? person.municipality.name : "" }}</TableCell>
+          <TableCell>{{ person.parish ? person.parish.name : "" }}</TableCell>
+          <TableCell>
             <NuxtLink :to="`/persons/${person.id}`">Detail</NuxtLink> |
             <NuxtLink :to="`/persons/update/${person.id}`">Update</NuxtLink> |
             <button @click="deletePerson(person.id, person.name)">
               Delete
             </button>
-          </td>
-        </tr>
-      </tbody>
-    </table>
+          </TableCell>
+        </TableRow>
+      </TableBody>
+    </Table>
   </div>
 </template>
 
 <script setup>
+import {
+  Table,
+  TableHead,
+  TableHeader,
+  TableRow,
+  TableBody,
+  TableCell
+} from '@/components/ui/table';
+
 // Inicializa el acceso a la variable de entorno para la URL base del backend.
 const config = useRuntimeConfig()
 
