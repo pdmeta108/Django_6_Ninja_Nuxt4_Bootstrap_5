@@ -21,7 +21,7 @@
     "embla-carousel-vue": "^8.6.0",
     "lucide-vue-next": "^1.0.0",
     "nuxt": "^4.3.1",
-    "reka-ui": "^2.9.3",
+    "reka-ui": "^2.9.5",
     "shadcn-nuxt": "^2.4.3",
     "tailwind-merge": "^3.5.0",
     "vaul-vue": "^0.4.1",

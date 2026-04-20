@@ -3,48 +3,76 @@
     <GoBack />
     <h1 class="mb-4">Register New Person</h1>
 
-    <form @submit.prevent="savePerson">
-      <div class="mb-3">
-        <label class="form-label">Name</label>
-        <input
-          v-model="form.name"
-          type="text"
-          class="form-control"
-          required
-        >
-      </div>
 
-      <div class="mb-3">
-        <label class="form-label">Email Address</label>
-        <input
-          v-model="form.email"
-          type="email"
-          class="form-control"
-          required
-        >
-      </div>
-
-      <div class="mb-3">
-        <label class="form-label">Age</label>
-        <input
-          v-model.number="form.age"
-          type="number"
-          class="form-control"
-          required
-        >
-      </div>
-
+    <div class="w-full max-w-md">
+      <form id="person-create-form" @submit.prevent="savePerson">
+        <FieldSet>
+          <FieldGroup>
+            <VeeField v-slot="{ errors }" name="name">
+              <Field orientation="vertical" class="mb-3" :data-invalid="!!errors.length">
+                <FieldLabel for="name" class="form-label">
+                  Full name
+                </FieldLabel>
+                <Input id="name" v-model="form.name" type="text" autocomplete="off" class="form-control" :aria-invalid="!!errors.length" />
+              </Field>
+            </VeeField>
+            <VeeField v-slot="{ errors }" name="email">
+              <Field orientation="vertical" class="mb-3" :data-invalid="!!errors.length">
+                <FieldLabel for="email" class="form-label">
+                  Email Address
+                </FieldLabel>
+                <Input id="email" v-model="form.email" type="email" autocomplete="off" class="form-control" :aria-invalid="!!errors.length" />
+              </Field>
+            </VeeField>
+            <VeeField v-slot="{ errors }" name="age">
+              <Field orientation="vertical" class="mb-3" :data-invalid="!!errors.length">
+                <FieldLabel for="age" class="form-label">
+                  Age
+                </FieldLabel>
+                <Input id="age" v-model="form.age" type="number" autocomplete="off" class="form-control" :aria-invalid="!!errors.length" />
+              </Field>
+            </VeeField>
+          </FieldGroup>
+        </FieldSet>
+      </form>
       <div class="d-flex justify-content-end gap-2">
         <NuxtLink to="/persons" class="btn btn-secondary">Cancel</NuxtLink>
-        <button type="submit" class="btn btn-primary">
-          Save
-        </button>
+        <Button type="submit" form="person-create-form" class="btn btn-primary">Save</Button>
       </div>
-    </form>
+    </div>
   </div>
 </template>
 
 <script setup>
+
+import {
+  Field,
+  FieldGroup,
+  FieldLabel,
+  FieldSet,
+} from '@/components/ui/field'
+
+import { Input } from '@/components/ui/input'
+import { useForm, Field as VeeField } from 'vee-validate';
+import { toTypedSchema } from '@vee-validate/zod';
+import { toast } from 'vue-sonner';
+import { z } from 'zod';
+
+// Iniciar objeto de validacion zod
+const createPersonSchema = toTypedSchema(
+  z.object({
+    name: z
+      .string()
+      .min(3, 'Name must be at least 3 characters long'),
+    email: z
+      .string()
+      .min(3, 'Email must be at least 3 characters long')
+      .email('Enter a valid email address'),
+    age: z
+      .number()
+      .max(4, 'Age must at the most 4 characters long'),
+  }),
+);
 // Inicializa el acceso a la variable de entorno para la URL base del backend.
 const config = useRuntimeConfig()
 // Ahora 'apiBase' contiene la URL base de la API configurada en el .env
@@ -65,8 +93,17 @@ const form = ref({
   age: null
 })
 
+const { handleSubmit, resetForm } = useForm({
+  validationSchema: createPersonSchema,
+  initialValues: {
+    full_name: '',
+    email: '',
+    age: '',
+  },
+})
+
 // Función para guardar la persona
-const savePerson = async () => {
+const savePerson = handleSubmit(async (values) => {
   loader.value = true // Activamos el spinner
 
   // Validación simple para asegurarnos de que los campos no estén vacíos
@@ -76,7 +113,6 @@ const savePerson = async () => {
       method: 'POST',
       body: form.value
     })
-
     // Si todo sale bien, redirigimos a la lista
     navigateTo('/persons')
 
@@ -84,7 +120,10 @@ const savePerson = async () => {
     console.error('Error saving data:', err)
     alert('Failed to save person. Check Django logs.')
   } finally {
+    console.log('Form submitted:', values);
+    toast.success('Form submitted successfully!');
     loader.value = false // Apagamos el spinner
+    resetForm();
   }
-}
+});
 </script>
