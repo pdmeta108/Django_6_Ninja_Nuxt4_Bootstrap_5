@@ -8,29 +8,32 @@
       <form id="person-create-form" @submit.prevent="savePerson">
         <FieldSet>
           <FieldGroup>
-            <VeeField v-slot="{ errors }" name="name">
-              <Field orientation="vertical" class="mb-3" :data-invalid="!!errors.length">
+            <VeeField v-slot="{ errors }" name="name" :rules="isRequired">
+              <Field orientation="vertical" class="mb-3" >
                 <FieldLabel for="name" class="form-label">
                   Full name
                 </FieldLabel>
-                <Input id="name" v-model="form.name" type="text" autocomplete="off" class="form-control" :aria-invalid="!!errors.length" />
+                <Input id="name" v-model="form.name" type="text" autocomplete="off" class="form-control"/>
               </Field>
+              <span v-if="errors.length > 0">⛔️ {{ errors }}</span>
             </VeeField>
             <VeeField v-slot="{ errors }" name="email">
-              <Field orientation="vertical" class="mb-3" :data-invalid="!!errors.length">
+              <Field orientation="vertical" class="mb-3" >
                 <FieldLabel for="email" class="form-label">
                   Email Address
                 </FieldLabel>
-                <Input id="email" v-model="form.email" type="email" autocomplete="off" class="form-control" :aria-invalid="!!errors.length" />
+                <Input id="email" v-model="form.email" type="email" autocomplete="off" class="form-control"/>
               </Field>
+              <span v-if="errors.length > 0">⛔️ {{ errors }}</span>
             </VeeField>
             <VeeField v-slot="{ errors }" name="age">
-              <Field orientation="vertical" class="mb-3" :data-invalid="!!errors.length">
+              <Field orientation="vertical" class="mb-3" >
                 <FieldLabel for="age" class="form-label">
                   Age
                 </FieldLabel>
-                <Input id="age" v-model="form.age" type="number" autocomplete="off" class="form-control" :aria-invalid="!!errors.length" />
+                <Input id="age" v-model="form.age" type="number" autocomplete="off" class="form-control"/>
               </Field>
+              <span v-if="errors.length > 0">⛔️ {{ errors }}</span>
             </VeeField>
           </FieldGroup>
         </FieldSet>
@@ -96,12 +99,18 @@ const form = ref({
 const { handleSubmit, resetForm } = useForm({
   validationSchema: createPersonSchema,
   initialValues: {
-    full_name: '',
+    name: '',
     email: '',
     age: '',
   },
 })
 
+function isRequired(value) {
+  if (value && value.trim()) {
+    return true;
+  }
+  return 'This is required';
+}
 // Función para guardar la persona
 const savePerson = handleSubmit(async (values) => {
   loader.value = true // Activamos el spinner
