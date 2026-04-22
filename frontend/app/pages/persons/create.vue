@@ -41,6 +41,30 @@
                 <span>⛔️ {{ error }}</span>
               </div>
             </VeeField>
+            <VeeField v-slot="{ errors }" name="estate" :rules="isRequired">
+              <Field orientation="vertical" class="mb-3" >
+                <FieldLabel for="estate" class="form-label">
+                  Estate
+                </FieldLabel>
+                <div class="w-full">
+                  <Select v-model="form.estate">
+                    <SelectTrigger>
+                      <SelectValue placeholder="Select a estate" />
+                    </SelectTrigger>
+                    <SelectContent>
+                      <SelectGroup>
+                        <SelectItem v-for="estate in estates" :key="estate.id" :value="estate.code.toString()">
+                          {{ estate.name }}
+                        </SelectItem>
+                      </SelectGroup>
+                    </SelectContent>
+                  </Select>
+                </div>
+              </Field>
+              <div v-for="error in errors" :key="error.id">
+                <span>⛔️ {{ error }}</span>
+              </div>
+            </VeeField>
           </FieldGroup>
         </FieldSet>
       </form>
@@ -60,9 +84,18 @@ import {
   FieldGroup,
   FieldLabel,
   FieldSet,
-} from '@/components/ui/field'
+} from '@/components/ui/field';
 
-import { Input } from '@/components/ui/input'
+import {
+  Select,
+  SelectContent,
+  SelectGroup,
+  SelectTrigger,
+  SelectItem,
+  SelectValue
+} from '@/components/ui/select';
+
+import { Input } from '@/components/ui/input';
 import { useForm, Field as VeeField } from 'vee-validate';
 import { toTypedSchema } from '@vee-validate/zod';
 import { toast } from 'vue-sonner';
@@ -81,6 +114,8 @@ const createPersonSchema = toTypedSchema(
     age: z
       .number()
       .max(4, 'Age must at the most 4 characters long'),
+    estate: z
+      .string()
   }),
 );
 // Inicializa el acceso a la variable de entorno para la URL base del backend.
@@ -91,6 +126,14 @@ const apiBase = config.public.apiBase
 // Llamamos al estado global del loader para mostrar el spinner durante la petición
 const loader = useState('loader')
 
+// Simularemos una llamada a la API de Backend usando una API de prueba real
+// 'pending' es un booleano reactivo que cambia automáticamente
+const { data: response } = await useFetch(`${apiBase}/estate/`, {
+  lazy: true
+})
+
+// 3. Mapeamos los resultados (JSONPlaceholder devuelve un Array directo)
+const estates = computed(() => response.value || [])
 // Configuramos el título de la página
 useHead({
   title: 'Register Person',
@@ -100,7 +143,8 @@ useHead({
 const form = ref({
   name: '',
   email: '',
-  age: null
+  age: null,
+  estate: '',
 })
 
 const { handleSubmit, resetForm } = useForm({
@@ -108,16 +152,9 @@ const { handleSubmit, resetForm } = useForm({
   initialValues: {
     name: '',
     email: '',
-    age: '',
+    age: null,
+    estate: '',
   },
-})
-
-onMounted(() => {
-  fetch(`/ajax/get_estates`)
-    .then(response => response.json())
-    .then(data => {
-      console.log(data)
-    })
 })
 
 // Regla para validar si el campo es requerido
@@ -132,6 +169,7 @@ function isRequired(value) {
 function clearPersonForm() {
   resetForm();
 }
+
 // Función para guardar la persona
 const savePerson = handleSubmit(async (values) => {
   loader.value = true // Activamos el spinner
