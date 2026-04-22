@@ -1,6 +1,6 @@
 [
     {
-      "model": "person.estate",
+      "model": "estate.estate",
       "pk": 1,
       "fields": {
           "name": "Distrito Capital",
@@ -8,7 +8,7 @@
       }
     },
     {
-      "model": "person.estate",
+      "model": "estate.estate",
       "pk": 2,
       "fields": {
           "name": "Amazonas",
@@ -16,7 +16,7 @@
       }
     },
     {
-      "model": "person.estate",
+      "model": "estate.estate",
       "pk": 3,
       "fields": {
           "name": "Anzoategui",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "model": "person.estate",
+      "model": "estate.estate",
       "pk": 4,
       "fields": {
           "name": "Apure",
@@ -32,7 +32,7 @@
       }
     },
     {
-      "model": "person.estate",
+      "model": "estate.estate",
       "pk": 5,
       "fields": {
           "name": "Aragua",
@@ -40,7 +40,7 @@
       }
     },
     {
-      "model": "person.estate",
+      "model": "estate.estate",
       "pk": 6,
       "fields": {
           "name": "Barinas",
@@ -48,7 +48,7 @@
       }
     },
     {
-      "model": "person.estate",
+      "model": "estate.estate",
       "pk": 7,
       "fields": {
           "name": "Bolívar",
@@ -56,7 +56,7 @@
       }
     },
     {
-      "model": "person.estate",
+      "model": "estate.estate",
       "pk": 8,
       "fields": {
           "name": "Carabobo",
@@ -64,7 +64,7 @@
       }
     },
     {
-      "model": "person.estate",
+      "model": "estate.estate",
       "pk": 9,
       "fields": {
           "name": "Cojedes",
@@ -72,7 +72,7 @@
       }
     },
     {
-      "model": "person.estate",
+      "model": "estate.estate",
       "pk": 10,
       "fields": {
           "name": "Delta Amacuro",
@@ -80,7 +80,7 @@
       }
     },
     {
-      "model": "person.estate",
+      "model": "estate.estate",
       "pk": 11,
       "fields": {
           "name": "Falcón",
@@ -88,7 +88,7 @@
       }
     },
     {
-      "model": "person.estate",
+      "model": "estate.estate",
       "pk": 12,
       "fields": {
           "name": "Guárico",
@@ -96,7 +96,7 @@
       }
     },
     {
-      "model": "person.estate",
+      "model": "estate.estate",
       "pk": 13,
       "fields": {
           "name": "Lara",
@@ -104,7 +104,7 @@
       }
     },
     {
-      "model": "person.estate",
+      "model": "estate.estate",
       "pk": 14,
       "fields": {
           "name": "Mérida",
@@ -112,7 +112,7 @@
       }
     },
     {
-      "model": "person.estate",
+      "model": "estate.estate",
       "pk": 15,
       "fields": {
           "name": "Miranda",
@@ -120,7 +120,7 @@
       }
     },
     {
-      "model": "person.estate",
+      "model": "estate.estate",
       "pk": 16,
       "fields": {
           "name": "Monagas",
@@ -128,7 +128,7 @@
       }
     },
     {
-      "model": "person.estate",
+      "model": "estate.estate",
       "pk": 17,
       "fields": {
           "name": "Nueva Esparta",
@@ -136,7 +136,7 @@
       }
     },
     {
-      "model": "person.estate",
+      "model": "estate.estate",
       "pk": 18,
       "fields": {
           "name": "Portuguesa",
@@ -144,7 +144,7 @@
       }
     },
     {
-      "model": "person.estate",
+      "model": "estate.estate",
       "pk": 19,
       "fields": {
           "name": "Sucre",
@@ -152,7 +152,7 @@
       }
     },
     {
-      "model": "person.estate",
+      "model": "estate.estate",
       "pk": 20,
       "fields": {
           "name": "Táchira",
@@ -160,7 +160,7 @@
       }
     },
     {
-      "model": "person.estate",
+      "model": "estate.estate",
       "pk": 21,
       "fields": {
           "name": "Trujillo",
@@ -168,7 +168,7 @@
       }
     },
     {
-        "model": "person.estate",
+        "model": "estate.estate",
         "pk": 22,
         "fields": {
             "name": "Yaracuy",
@@ -176,7 +176,7 @@
         }
     },
     {
-        "model": "person.estate",
+        "model": "estate.estate",
         "pk": 23,
         "fields": {
             "name": "Zulia",
@@ -184,7 +184,7 @@
         }
     },
     {
-        "model": "person.estate",
+        "model": "estate.estate",
         "pk": 24,
         "fields": {
             "name": "La Guaira",

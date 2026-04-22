@@ -3,12 +3,14 @@ from django.urls import include, path
 from ninja import NinjaAPI
 # Importamos el router de la app person
 from apps.person.api import router as person_router
+from apps.estate.api import router as estate_router
 
 # 1. Instanciamos la API
 api = NinjaAPI(title="Mi Proyecto CRUD API")
 
 # 2. Añadimos los routers de cada app (puedes añadir el de products luego)
 api.add_router("/person/", person_router)
+api.add_router("/estate/", estate_router)
 
 urlpatterns = [
     # Admin route

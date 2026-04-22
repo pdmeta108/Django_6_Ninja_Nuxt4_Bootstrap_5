@@ -1,6 +1,7 @@
 from django import forms
 from django.shortcuts import get_object_or_404
-from .models import Person, Estate, Municipality, Parish
+from .models import Person
+from apps.estate.models import Estate, Municipality, Parish
 
 class PersonForm(forms.ModelForm):
     """

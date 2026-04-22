@@ -1,5 +1,5 @@
 from django.shortcuts import render, redirect, get_object_or_404
-from .models import Person, Municipality, Parish
+from .models import Person, Estate, Municipality, Parish
 from .forms import PersonForm
 from django.http import JsonResponse
 

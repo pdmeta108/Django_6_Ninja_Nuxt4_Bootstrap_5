@@ -15,7 +15,9 @@
                 </FieldLabel>
                 <Input id="name" v-model="form.name" type="text" autocomplete="off" class="form-control"/>
               </Field>
-              <span v-if="errors.length > 0">⛔️ {{ errors }}</span>
+              <div v-for="error in errors" :key="error.id">
+                <span>⛔️ {{ error }}</span>
+              </div>
             </VeeField>
             <VeeField v-slot="{ errors }" name="email">
               <Field orientation="vertical" class="mb-3" >
@@ -24,7 +26,9 @@
                 </FieldLabel>
                 <Input id="email" v-model="form.email" type="email" autocomplete="off" class="form-control"/>
               </Field>
-              <span v-if="errors.length > 0">⛔️ {{ errors }}</span>
+              <div v-for="error in errors" :key="error.id">
+                <span>⛔️ {{ error }}</span>
+              </div>
             </VeeField>
             <VeeField v-slot="{ errors }" name="age">
               <Field orientation="vertical" class="mb-3" >
@@ -33,13 +37,16 @@
                 </FieldLabel>
                 <Input id="age" v-model="form.age" type="number" autocomplete="off" class="form-control"/>
               </Field>
-              <span v-if="errors.length > 0">⛔️ {{ errors }}</span>
+              <div v-for="error in errors" :key="error.id">
+                <span>⛔️ {{ error }}</span>
+              </div>
             </VeeField>
           </FieldGroup>
         </FieldSet>
       </form>
       <div class="d-flex justify-content-end gap-2">
         <NuxtLink to="/persons" class="btn btn-secondary">Cancel</NuxtLink>
+        <Button class="btn btn-secondary" @click="clearPersonForm">Clear</Button>
         <Button type="submit" form="person-create-form" class="btn btn-primary">Save</Button>
       </div>
     </div>
@@ -105,11 +112,25 @@ const { handleSubmit, resetForm } = useForm({
   },
 })
 
+onMounted(() => {
+  fetch(`/ajax/get_estates`)
+    .then(response => response.json())
+    .then(data => {
+      console.log(data)
+    })
+})
+
+// Regla para validar si el campo es requerido
 function isRequired(value) {
   if (value && value.trim()) {
     return true;
   }
   return 'This is required';
+}
+
+// Borrar datos del formulario
+function clearPersonForm() {
+  resetForm();
 }
 // Función para guardar la persona
 const savePerson = handleSubmit(async (values) => {

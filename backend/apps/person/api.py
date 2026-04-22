@@ -80,3 +80,20 @@ def delete_person(request, person_id: int):
     person = get_object_or_404(Person, id=person_id)
     person.delete()
     return {"success": True, "message": f"Person {person_id} deleted successfully"}
+
+# 1. Listar estados (GET)
+# @router.get("/estates", response=List[EstateSchema])
+# def list_estate(request):
+#     estate = Estate.objects.all()
+#     print(estate)
+#     return Estate.objects.all()
+
+# 1. Listar municipios (GET)
+# @router.get("/municipalities", response=List[MunicipalitySchema])
+# def list_municipality(request):
+#     return Municipality.objects.select_related("estate")
+
+# 1. Listar parroquias (GET)
+# @router.get("/parishes", response=List[ParishSchema])
+# def list_parish(request):
+#     return Parish.objects.select_related("municipality")
