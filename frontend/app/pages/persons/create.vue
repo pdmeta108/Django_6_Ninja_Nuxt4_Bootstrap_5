@@ -128,12 +128,13 @@ const loader = useState('loader')
 
 // Simularemos una llamada a la API de Backend usando una API de prueba real
 // 'pending' es un booleano reactivo que cambia automáticamente
-const { data: response } = await useFetch(`${apiBase}/estate/`, {
+const { EstatesData: response } = await useFetch(`${apiBase}/estate/`, {
   lazy: true
 })
 
 // 3. Mapeamos los resultados (JSONPlaceholder devuelve un Array directo)
 const estates = computed(() => response.value || [])
+
 // Configuramos el título de la página
 useHead({
   title: 'Register Person',
