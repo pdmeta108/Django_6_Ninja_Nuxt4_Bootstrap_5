@@ -7,11 +7,7 @@
 
     <h1>Person List</h1>
 
-    <div v-if="error" class="alert alert-danger">
-      Error al cargar usuarios. Inténtalo de nuevo.
-    </div>
-
-    <Table v-else>
+    <Table>
       <TableHeader>
         <TableRow>
           <TableHead>Name</TableHead>
@@ -54,11 +50,9 @@ import {
   TableCell
 } from '@/components/ui/table';
 
-// Inicializa el acceso a la variable de entorno para la URL base del backend.
-const config = useRuntimeConfig()
+const { $api } = useNuxtApp();
 
-// Ahora 'apiBase' contiene la URL base de la API configurada en el .env
-const apiBase = config.public.apiBase
+const PersonResponse = await $api.person.getAll();
 
 // 1. Estado global para controlar el loader
 const loader = useState('loader')
@@ -68,14 +62,8 @@ useHead({
   title: 'Person List',
 })
 
-// Simularemos una llamada a la API de Backend usando una API de prueba real
-// 'pending' es un booleano reactivo que cambia automáticamente
-const { data: response, pending, error, refresh} = await useFetch(`${apiBase}/person/`, {
-  lazy: true
-})
-
 // 3. Mapeamos los resultados (JSONPlaceholder devuelve un Array directo)
-const persons = computed(() => response.value || [])
+const persons = computed(() => PersonResponse || [])
 
 // Función para eliminar una persona
 const deletePerson = async (id, name) => {
@@ -85,12 +73,10 @@ const deletePerson = async (id, name) => {
   try {
     loader.value = true // Activamos el spinner
     // 2. Petición DELETE a Django
-    await $fetch(`${apiBase}/person/${id}`, {
-      method: 'DELETE'
-    })
+    await $api.person.delete(id);
 
     // 3. Refrescar la lista automáticamente sin recargar la página
-    await refresh()
+    // await refresh()
 
   } catch (err) {
     console.error('Error al eliminar:', err)
@@ -101,10 +87,6 @@ const deletePerson = async (id, name) => {
   }
 }
 
-// 4. Observamos 'pending' y asignamos su valor directamente al loader
-watch(pending, (newVal) => {
-  loader.value = newVal
-}, { immediate: true }) // immediate asegura que si empieza cargando, el loader se active de una vez
 </script>
 
 <style scoped>
