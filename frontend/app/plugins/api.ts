@@ -1,10 +1,12 @@
 import { $fetch, type FetchOptions } from 'ofetch';
 import { defineNuxtPlugin } from '#app';
 import PersonModule from '~~/repository/modules/person';
+import EstateModule from '~~/repository/modules/estate';
 
 /** ApiInstance interface provides us with good typing */
 interface IApiInstance {
-  person: PersonModule
+  person: PersonModule,
+  estate: EstateModule,
 }
 
 export default defineNuxtPlugin((nuxtApp) => {
@@ -26,6 +28,7 @@ export default defineNuxtPlugin((nuxtApp) => {
     // 3. Initialize your modules
     const modules: IApiInstance = {
         person: new PersonModule(apiFetcher),
+        estate: new EstateModule(apiFetcher),
         // You can add more modules here as you grow (e.g., auth: new AuthModule(apiFetcher))
     };
 

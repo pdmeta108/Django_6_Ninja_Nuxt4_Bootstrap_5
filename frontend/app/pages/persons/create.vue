@@ -65,6 +65,30 @@
                 <span>⛔️ {{ error }}</span>
               </div>
             </VeeField>
+            <VeeField v-slot="{ errors }" name="municipality" :rules="isRequired">
+              <Field orientation="vertical" class="mb-3" >
+                <FieldLabel for="municipality" class="form-label">
+                  municipality
+                </FieldLabel>
+                <div v-if="municipalities" class="w-full">
+                  <Select v-model="form.municipality">
+                    <SelectTrigger>
+                      <SelectValue placeholder="Select a municipality" />
+                    </SelectTrigger>
+                    <SelectContent>
+                      <SelectGroup>
+                        <SelectItem v-for="municipality in municipalities" :key="municipality.id" :value="municipality.code">
+                          {{ municipality.name }}
+                        </SelectItem>
+                      </SelectGroup>
+                    </SelectContent>
+                  </Select>
+                </div>
+              </Field>
+              <div v-for="error in errors" :key="error.id">
+                <span>⛔️ {{ error }}</span>
+              </div>
+            </VeeField>
           </FieldGroup>
         </FieldSet>
       </form>
@@ -118,22 +142,31 @@ const createPersonSchema = toTypedSchema(
       .string()
   }),
 );
-// Inicializa el acceso a la variable de entorno para la URL base del backend.
-const config = useRuntimeConfig()
-// Ahora 'apiBase' contiene la URL base de la API configurada en el .env
-const apiBase = config.public.apiBase
 
-// Llamamos al estado global del loader para mostrar el spinner durante la petición
-const loader = useState('loader')
+const { $api } = useNuxtApp();
 
-// Simularemos una llamada a la API de Backend usando una API de prueba real
-// 'pending' es un booleano reactivo que cambia automáticamente
-const { EstatesData: response } = await useFetch(`${apiBase}/estate/`, {
-  lazy: true
-})
+// ** API llamadas **
 
-// 3. Mapeamos los resultados (JSONPlaceholder devuelve un Array directo)
-const estates = computed(() => response.value || [])
+// Obtener estados
+const {
+  data: estates,
+  // pending,
+  // refresh,
+  // error
+} = await useAsyncData(() => $api.estate.getAll());
+
+// Función para obtener municipios por Estado
+async function getMunicipalitiesByEstate(estate_id) {
+  if (!estate_id) return;
+  const {
+    data: municipalitiesByEstate,
+    // pending,
+    // refresh,
+    // error
+  } = await useAsyncData(() => $api.estate.getMunicipalitiesByEstate(estate_id));
+
+  municipalities.value = municipalitiesByEstate.value;
+}
 
 // Configuramos el título de la página
 useHead({
@@ -146,7 +179,10 @@ const form = ref({
   email: '',
   age: null,
   estate: '',
+  municipality: '',
 })
+
+const municipalities = ref(false);
 
 const { handleSubmit, resetForm } = useForm({
   validationSchema: createPersonSchema,
@@ -193,6 +229,12 @@ const savePerson = handleSubmit(async (values) => {
     toast.success('Form submitted successfully!');
     loader.value = false // Apagamos el spinner
     resetForm();
+  }
+});
+
+watch(() => form.value.estate, (newEstate) => {
+  if (newEstate) {
+    getMunicipalitiesByEstate(newEstate);
   }
 });
 </script>

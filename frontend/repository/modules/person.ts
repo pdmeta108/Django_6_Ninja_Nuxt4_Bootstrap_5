@@ -1,4 +1,4 @@
-import { HttpFactory }from '../factory';
+import { HttpFactory } from '../factory';
 import type { IPerson } from '~~/types/person';
 
 class PersonModule extends HttpFactory {
