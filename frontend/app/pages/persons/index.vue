@@ -7,6 +7,9 @@
 
     <h1>Person List</h1>
 
+    <div v-if="error">
+      No se cargaron los datos
+    </div>
     <Table>
       <TableHeader>
         <TableRow>
@@ -52,7 +55,12 @@ import {
 
 const { $api } = useNuxtApp();
 
-const PersonResponse = await $api.person.getAll();
+const {
+  data: persons,
+  pending,
+  refresh,
+  error
+} = await useAsyncData(() => $api.person.getAll());
 
 // 1. Estado global para controlar el loader
 const loader = useState('loader')
@@ -61,9 +69,6 @@ const loader = useState('loader')
 useHead({
   title: 'Person List',
 })
-
-// 3. Mapeamos los resultados (JSONPlaceholder devuelve un Array directo)
-const persons = computed(() => PersonResponse || [])
 
 // Función para eliminar una persona
 const deletePerson = async (id, name) => {
@@ -76,7 +81,7 @@ const deletePerson = async (id, name) => {
     await $api.person.delete(id);
 
     // 3. Refrescar la lista automáticamente sin recargar la página
-    // await refresh()
+    await refresh()
 
   } catch (err) {
     console.error('Error al eliminar:', err)
@@ -86,7 +91,10 @@ const deletePerson = async (id, name) => {
     loader.value = false // Apagamos el spinner
   }
 }
-
+// 4. Observamos 'pending' y asignamos su valor directamente al loader
+watch(pending, (newVal) => {
+  loader.value = newVal
+}, { immediate: true }) // immediate asegura que si empieza cargando, el loader se active de una vez
 </script>
 
 <style scoped>
