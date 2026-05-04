@@ -55,6 +55,6 @@ def list_parish(request):
 @router.get("/parishes/{municipality_id}", response=List[ParishSchema])
 def get_parishes_by_municipality(request, municipality_id):
     # Access the municipality object or its ID
-    current_municipality_code = get_object_or_404(Municipality, pk=municipality_id).code
+    current_municipality_code = get_object_or_404(Municipality, code=municipality_id).code
 
     return Parish.objects.filter(municipality_id=current_municipality_code)

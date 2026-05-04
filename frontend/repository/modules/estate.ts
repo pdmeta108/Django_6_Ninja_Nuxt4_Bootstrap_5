@@ -1,5 +1,5 @@
 import { HttpFactory } from '../factory';
-import type { IEstate, IMunicipality } from '~~/types/estate';
+import type { IEstate, IMunicipality, IParish } from '~~/types/estate';
 
 class EstateModule extends HttpFactory {
     private RESOURCE = '/estate';
@@ -16,6 +16,13 @@ class EstateModule extends HttpFactory {
      */
     async getMunicipalitiesByEstate(estate_id: string | number): Promise<IMunicipality> {
         return await this.call<IMunicipality>('GET', `${this.RESOURCE}/municipalities/${estate_id}`);
+    }
+
+    /**
+     * Fetch parishes by municipality
+     */
+    async getParishesByMunicipality(municipality_id: string | number): Promise<IParish> {
+        return await this.call<IParish>('GET', `${this.RESOURCE}/parishes/${municipality_id}`);
     }
 
     // async create(account: ICreateAccountInput): Promise<ICreateAccountResponse> {

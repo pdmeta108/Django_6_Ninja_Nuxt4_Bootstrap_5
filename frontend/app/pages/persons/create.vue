@@ -89,6 +89,30 @@
                 <span>⛔️ {{ error }}</span>
               </div>
             </VeeField>
+            <VeeField v-slot="{ errors }" name="municipality" :rules="isRequired">
+              <Field orientation="vertical" class="mb-3" >
+                <FieldLabel for="municipality" class="form-label">
+                  parish
+                </FieldLabel>
+                <div v-if="parishes" class="w-full">
+                  <Select v-model="form.parish">
+                    <SelectTrigger>
+                      <SelectValue placeholder="Select a parish" />
+                    </SelectTrigger>
+                    <SelectContent>
+                      <SelectGroup>
+                        <SelectItem v-for="parish in parishes" :key="parish.id" :value="parish.code">
+                          {{ parish.name }}
+                        </SelectItem>
+                      </SelectGroup>
+                    </SelectContent>
+                  </Select>
+                </div>
+              </Field>
+              <div v-for="error in errors" :key="error.id">
+                <span>⛔️ {{ error }}</span>
+              </div>
+            </VeeField>
           </FieldGroup>
         </FieldSet>
       </form>
@@ -166,7 +190,20 @@ async function getMunicipalitiesByEstate(estate_id) {
   } = await useAsyncData(() => $api.estate.getMunicipalitiesByEstate(estate_id));
 
   municipalities.value = municipalitiesByEstate.value;
-}
+};
+
+// Función para obtener municipios por Estado
+async function getParishesByMunicipality(municipality_id) {
+  if (!municipality_id) return;
+  const {
+    data: parishesBymunicipality,
+    // pending,
+    // refresh,
+    // error
+  } = await useAsyncData(() => $api.estate.getParishesByMunicipality(municipality_id));
+
+  parishes.value = parishesBymunicipality.value;
+};
 
 // Configuramos el título de la página
 useHead({
@@ -180,9 +217,11 @@ const form = ref({
   age: null,
   estate: '',
   municipality: '',
+  parish: '',
 })
 
 const municipalities = ref(false);
+const parishes = ref(false);
 
 const { handleSubmit, resetForm } = useForm({
   validationSchema: createPersonSchema,
@@ -235,6 +274,12 @@ const savePerson = handleSubmit(async (values) => {
 watch(() => form.value.estate, (newEstate) => {
   if (newEstate) {
     getMunicipalitiesByEstate(newEstate);
+  }
+});
+
+watch(() => form.value.municipality, (newMunicipality) => {
+  if (newMunicipality) {
+    getParishesByMunicipality(newMunicipality);
   }
 });
 </script>
